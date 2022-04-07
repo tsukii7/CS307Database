@@ -39,15 +39,10 @@ create table supply
 create table client
 (
     client_enterprise varchar(100) not null,
+    country varchar(50) not null,
     city              varchar(20),
     industry          varchar(50)  not null,
     primary key (client_enterprise)
-);
-
-create table country
-(
-    country varchar(50) not null,
-    primary key (country)
 );
 
 create table "order"
@@ -82,13 +77,4 @@ create table contract
     foreign key (contract_number) references header,
     foreign key (client_enterprise) references client,
     foreign key (supply_center) references supply
-);
-
-create table client_country
-(
-    client_enterprise varchar(100) not null,
-    country           varchar(50)  not null,
-    primary key (client_enterprise, country),
-    foreign key (client_enterprise) references client,
-    foreign key (country) references country
 );
