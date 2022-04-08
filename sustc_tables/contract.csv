@@ -1,0 +1,5000 @@
+CSE0000000,Eastern China,Pinduoduo
+CSE0000001,Europe,Unilever
+CSE0000002,Europe,Deutsche Bank
+CSE0000003,America,Albertson's
+CSE0000004,Europe,Santander Central Hispano Group
+CSE0000005,Europe,Koninklijke Ahold
+CSE0000006,America,Kroger
+CSE0000007,America,Kroger
+CSE0000008,Southern China,Tencent
+CSE0000009,Asia,Mitsubishi Motors
+CSE0000010,Europe,BNP Paribas
+CSE0000011,Europe,HSBC Holdings
+CSE0000012,America,Delphi Automotive Systems
+CSE0000013,Europe,Allianz
+CSE0000014,Europe,Munich Re Group
+CSE0000015,Southwestern China,Chengdu AIG
+CSE0000016,America,Home Depot
+CSE0000017,Europe,Robert Bosch
+CSE0000018,Europe,HSBC Holdings
+CSE0000019,America,Cardinal Health
+CSE0000020,Europe,BASF
+CSE0000021,Northern China,Meituan
+CSE0000022,America,Target
+CSE0000023,Northern China,Agricultural Bank of China
+CSE0000024,Europe,CGNU
+CSE0000025,Europe,Koninklijke Ahold
+CSE0000026,America,Enron
+CSE0000027,Europe,HSBC Holdings
+CSE0000028,Europe,Tesco
+CSE0000029,Northern China,Industrial and Commercial Bank of China
+CSE0000030,Europe,Peugeot
+CSE0000031,Europe,Alcatel
+CSE0000032,America,Dell Computer
+CSE0000033,America,Safeway
+CSE0000034,Asia,Nissho Iwai
+CSE0000035,Europe,Royal Philips Electronics
+CSE0000036,Northern China,China North Industries Group Corporation
+CSE0000037,America,Johnson & Johnson
+CSE0000038,Asia,Samsung Electronics
+CSE0000039,Europe,Nestl我忪
+CSE0000040,Europe,Deutsche Bank
+CSE0000041,America,Hewlett-Packard
+CSE0000042,America,Safeway
+CSE0000043,Europe,ABN AMRO Holding
+CSE0000044,Asia,Honda Motor
+CSE0000045,Europe,Santander Central Hispano Group
+CSE0000046,Asia,NEC
+CSE0000047,America,J.C. Penney
+CSE0000048,America,Berkshire Hathaway
+CSE0000049,Northern China,Meituan
+CSE0000050,America,Berkshire Hathaway
+CSE0000051,America,Duke Energy
+CSE0000052,America,Goldman Sachs Group
+CSE0000053,America,Pfizer
+CSE0000054,Asia,Samsung Electronics
+CSE0000055,America,Fannie Mae
+CSE0000056,Europe,BNP Paribas
+CSE0000057,America,Dynegy
+CSE0000058,America,Exxon Mobil
+CSE0000059,Europe,Rwe Group
+CSE0000060,Europe,HypoVereinsbank
+CSE0000061,America,Morgan Stanley Dean Witter
+CSE0000062,Europe,Total Fina Elf
+CSE0000063,America,Fannie Mae
+CSE0000064,America,Procter & Gamble
+CSE0000065,America,Reliant Energy
+CSE0000066,America,Johnson & Johnson
+CSE0000067,Europe,Peugeot
+CSE0000068,Europe,DaimlerChrysler
+CSE0000069,Europe,L.M. Ericsson
+CSE0000070,Europe,Credit Suisse
+CSE0000071,Europe,Alcatel
+CSE0000072,America,Goldman Sachs Group
+CSE0000073,Europe,Rwe Group
+CSE0000074,Asia,Nippon Telegraph & Telephone
+CSE0000075,Asia,Tokyo Electric Power
+CSE0000076,America,Sears Roebuck
+CSE0000077,America,Pfizer
+CSE0000078,Asia,Hyundai
+CSE0000079,America,General Motors
+CSE0000080,Asia,Samsung Electronics
+CSE0000081,Europe,BMW
+CSE0000082,Northern China,Meituan
+CSE0000083,Asia,Dai-ichi Mutual Life Insurance
+CSE0000084,Asia,SK
+CSE0000085,America,Freddie Mac
+CSE0000086,America,Philip Morris
+CSE0000087,Asia,Toshiba
+CSE0000088,Northern China,China North Industries Group Corporation
+CSE0000089,America,General Motors
+CSE0000090,Asia,Honda Motor
+CSE0000091,America,Delphi Automotive Systems
+CSE0000092,Europe,Alcatel
+CSE0000093,Europe,Metro
+CSE0000094,Asia,NEC
+CSE0000095,America,Chevron
+CSE0000096,Europe,Renault
+CSE0000097,America,Texaco
+CSE0000098,Asia,Samsung
+CSE0000099,America,Exxon Mobil
+CSE0000100,America,Lucent Technologies
+CSE0000101,Northern China,China Construction Bank
+CSE0000102,America,Duke Energy
+CSE0000103,Northern China,Industrial and Commercial Bank of China
+CSE0000104,Eastern China,MiHoYo
+CSE0000105,America,Sears Roebuck
+CSE0000106,Europe,Thyssen Krupp
+CSE0000107,Europe,Munich Re Group
+CSE0000108,Europe,Munich Re Group
+CSE0000109,Europe,Unilever
+CSE0000110,America,Duke Energy
+CSE0000111,Europe,ABN AMRO Holding
+CSE0000112,Europe,ENI
+CSE0000113,Asia,Nippon Life Insurance
+CSE0000114,Europe,Munich Re Group
+CSE0000115,America,Kmart
+CSE0000116,Europe,BNP Paribas
+CSE0000117,Europe,Royal Bank of Scotland
+CSE0000118,America,Verizon Communications
+CSE0000119,Asia,Matsushita Electric Industrial
+CSE0000120,Asia,NEC
+CSE0000121,Asia,Toshiba
+CSE0000122,Europe,Munich Re Group
+CSE0000123,Europe,BMW
+CSE0000124,Northern China,China North Industries Group Corporation
+CSE0000125,Europe,Allianz
+CSE0000126,Europe,Credit Suisse
+CSE0000127,Asia,Tokyo Electric Power
+CSE0000128,Europe,ENI
+CSE0000129,America,Bank of America Corp.
+CSE0000130,America,Delphi Automotive Systems
+CSE0000131,America,State Farm Insurance Cos.
+CSE0000132,Europe,AXA
+CSE0000133,Southwestern China,Chengdu AIG
+CSE0000134,Northern China,State Power Corporation
+CSE0000135,Europe,BT
+CSE0000136,Europe,Credit Suisse
+CSE0000137,America,Exxon Mobil
+CSE0000138,America,Pemex
+CSE0000139,America,McKesson HBOC
+CSE0000140,America,State Farm Insurance Cos.
+CSE0000141,Asia,Mizuho Holdings
+CSE0000142,Asia,Toyota Motor
+CSE0000143,Europe,L.M. Ericsson
+CSE0000144,America,Duke Energy
+CSE0000145,Europe,Renault
+CSE0000146,Asia,Toshiba
+CSE0000147,Europe,Royal Dutch/Shell Group
+CSE0000148,America,Exxon Mobil
+CSE0000149,America,Safeway
+CSE0000150,America,Nortel Networks
+CSE0000151,Asia,Nippon Telegraph & Telephone
+CSE0000152,Asia,NEC
+CSE0000153,Asia,NEC
+CSE0000154,Europe,Munich Re Group
+CSE0000155,Asia,Sumitomo
+CSE0000156,Europe,Prudential
+CSE0000157,Northern China,Xiaomi
+CSE0000158,Asia,Mizuho Holdings
+CSE0000159,America,Goldman Sachs Group
+CSE0000160,Europe,ENI
+CSE0000161,America,J.C. Penney
+CSE0000162,Europe,Credit Suisse
+CSE0000163,America,Conoco
+CSE0000164,America,American International Group
+CSE0000165,Europe,Peugeot
+CSE0000166,Europe,Koninklijke Ahold
+CSE0000167,America,Safeway
+CSE0000168,Europe,Thyssen Krupp
+CSE0000169,America,Citigroup
+CSE0000170,Northern China,Agricultural Bank of China
+CSE0000171,America,Lucent Technologies
+CSE0000172,America,WorldCom
+CSE0000173,Asia,Sumitomo
+CSE0000174,Europe,HypoVereinsbank
+CSE0000175,America,Enron
+CSE0000176,Europe,Ing Group
+CSE0000177,Europe,CGNU
+CSE0000178,America,Exxon Mobil
+CSE0000179,Southern China,OPPO
+CSE0000180,America,General Electric
+CSE0000181,America,Costco Wholesale
+CSE0000182,America,Allstate
+CSE0000183,Asia,Meiji Life Insurance
+CSE0000184,America,Target
+CSE0000185,America,Cardinal Health
+CSE0000186,America,Safeway
+CSE0000187,Asia,Honda Motor
+CSE0000188,Europe,Royal Philips Electronics
+CSE0000189,Asia,Hitachi
+CSE0000190,America,PDVSA
+CSE0000191,Southern China,Netease
+CSE0000192,Europe,Thyssen Krupp
+CSE0000193,Eastern China,MiHoYo
+CSE0000194,Europe,Repsol YPF
+CSE0000195,Europe,ABN AMRO Holding
+CSE0000196,Asia,Sumitomo
+CSE0000197,Europe,Deutsche Post
+CSE0000198,America,State Farm Insurance Cos.
+CSE0000199,America,J.C. Penney
+CSE0000200,Asia,Mitsubishi
+CSE0000201,Eastern China,MiHoYo
+CSE0000202,Northern China,Sina
+CSE0000203,Europe,Total Fina Elf
+CSE0000204,America,J.C. Penney
+CSE0000205,Asia,Tokyo Electric Power
+CSE0000206,America,TIAA-CREF
+CSE0000207,Asia,Mitsubishi Electric
+CSE0000208,America,Citigroup
+CSE0000209,America,Kmart
+CSE0000210,America,Compaq Computer
+CSE0000211,Europe,BP
+CSE0000212,America,Pfizer
+CSE0000213,Eastern China,Bilibili
+CSE0000214,America,Hewlett-Packard
+CSE0000215,Europe,Rwe Group
+CSE0000216,Southern China,Netease
+CSE0000217,America,Exxon Mobil
+CSE0000218,Northern China,Agricultural Bank of China
+CSE0000219,Europe,BMW
+CSE0000220,Europe,Royal Dutch/Shell Group
+CSE0000221,Europe,HSBC Holdings
+CSE0000222,America,Texaco
+CSE0000223,Northern China,China North Industries Group Corporation
+CSE0000224,Europe,Carrefour
+CSE0000225,America,Hewlett-Packard
+CSE0000226,America,General Motors
+CSE0000227,America,USX
+CSE0000228,Northern China,Sinopec
+CSE0000229,America,Merck
+CSE0000230,America,Hewlett-Packard
+CSE0000231,America,General Electric
+CSE0000232,Europe,DaimlerChrysler
+CSE0000233,Eastern China,Pinduoduo
+CSE0000234,America,Delphi Automotive Systems
+CSE0000235,Northern China,Meituan
+CSE0000236,Northern China,Agricultural Bank of China
+CSE0000237,America,General Electric
+CSE0000238,America,AT&T
+CSE0000239,Northern China,China North Industries Group Corporation
+CSE0000240,Asia,Nippon Life Insurance
+CSE0000241,Europe,Deutsche Telekom
+CSE0000242,Asia,Hyundai
+CSE0000243,Europe,BMW
+CSE0000244,Eastern China,Bilibili
+CSE0000245,Asia,Nippon Life Insurance
+CSE0000246,Europe,Robert Bosch
+CSE0000247,Europe,Electricite De France
+CSE0000248,Asia,Mitsubishi Electric
+CSE0000249,Southern China,OPPO
+CSE0000250,Europe,Allianz
+CSE0000251,America,TIAA-CREF
+CSE0000252,America,Morgan Stanley Dean Witter
+CSE0000253,Northern China,Agricultural Bank of China
+CSE0000254,Europe,Rwe Group
+CSE0000255,Southwestern China,Chengdu AIG
+CSE0000256,Europe,Tesco
+CSE0000257,Europe,Renault
+CSE0000258,America,Merck
+CSE0000259,America,WorldCom
+CSE0000260,Northern China,China Construction Bank
+CSE0000261,Asia,Mitsubishi Motors
+CSE0000262,Asia,Toyota Motor
+CSE0000263,Asia,SK
+CSE0000264,Europe,Unilever
+CSE0000265,Northern China,Industrial and Commercial Bank of China
+CSE0000266,America,Goldman Sachs Group
+CSE0000267,Europe,Nestl我忪
+CSE0000268,America,Nortel Networks
+CSE0000269,America,J.P. Morgan Chase
+CSE0000270,America,Procter & Gamble
+CSE0000271,Northern China,China Petroleum
+CSE0000272,Northern China,Agricultural Bank of China
+CSE0000273,Asia,Samsung Electronics
+CSE0000274,America,Intl. Business Machines
+CSE0000275,Europe,Ing Group
+CSE0000276,America,Allstate
+CSE0000277,Southern China,Ping An Insurance (Group) Company Of China
+CSE0000278,Asia,Itochu
+CSE0000279,Asia,Mizuho Holdings
+CSE0000280,Europe,HypoVereinsbank
+CSE0000281,Asia,Dai-ichi Mutual Life Insurance
+CSE0000282,Southern China,China Merchants Bank
+CSE0000283,America,Texaco
+CSE0000284,America,PDVSA
+CSE0000285,Asia,Toshiba
+CSE0000286,Asia,Toshiba
+CSE0000287,Asia,Nissho Iwai
+CSE0000288,Northern China,China Petroleum
+CSE0000289,Europe,BNP Paribas
+CSE0000290,Europe,Robert Bosch
+CSE0000291,America,MetLife
+CSE0000292,America,Sears Roebuck
+CSE0000293,Northern China,Industrial and Commercial Bank of China
+CSE0000294,Northern China,China Construction Bank
+CSE0000295,America,PDVSA
+CSE0000296,America,Reliant Energy
+CSE0000297,Asia,SK
+CSE0000298,America,Texaco
+CSE0000299,Europe,Zurich Financial Services
+CSE0000300,America,Procter & Gamble
+CSE0000301,Europe,Nestl我忪
+CSE0000302,Asia,Hyundai
+CSE0000303,Europe,Tesco
+CSE0000304,Europe,AXA
+CSE0000305,Europe,Deutsche Post
+CSE0000306,America,Motorola
+CSE0000307,Asia,Hitachi
+CSE0000308,Europe,Alcatel
+CSE0000309,Europe,Royal Bank of Scotland
+CSE0000310,Europe,HSBC Holdings
+CSE0000311,America,Compaq Computer
+CSE0000312,Asia,Dai-ichi Mutual Life Insurance
+CSE0000313,America,Dynegy
+CSE0000314,Asia,Meiji Life Insurance
+CSE0000315,Europe,Deutsche Telekom
+CSE0000316,Europe,Deutsche Telekom
+CSE0000317,Europe,BMW
+CSE0000318,Asia,Sony
+CSE0000319,Europe,UBS
+CSE0000320,Asia,Meiji Life Insurance
+CSE0000321,America,Intel
+CSE0000322,Northern China,Agricultural Bank of China
+CSE0000323,America,Kmart
+CSE0000324,Asia,Samsung Electronics
+CSE0000325,Asia,Sumitomo Life Insurance
+CSE0000326,America,Allstate
+CSE0000327,America,Merrill Lynch
+CSE0000328,America,U.S. Postal Service
+CSE0000329,Southern China,Tencent
+CSE0000330,America,Dell Computer
+CSE0000331,America,J.C. Penney
+CSE0000332,Asia,Mizuho Holdings
+CSE0000333,Europe,Carrefour
+CSE0000334,Northern China,China Petroleum
+CSE0000335,Eastern China,Bilibili
+CSE0000336,Europe,Tesco
+CSE0000337,Europe,Fortis
+CSE0000338,Asia,Dai-ichi Mutual Life Insurance
+CSE0000339,Europe,Prudential
+CSE0000340,America,SBC Communications
+CSE0000341,America,PDVSA
+CSE0000342,Europe,ABN AMRO Holding
+CSE0000343,America,Hewlett-Packard
+CSE0000344,America,AT&T
+CSE0000345,Europe,DaimlerChrysler
+CSE0000346,Europe,HypoVereinsbank
+CSE0000347,Asia,Nippon Telegraph & Telephone
+CSE0000348,Northern China,Sinopec
+CSE0000349,America,State Farm Insurance Cos.
+CSE0000350,Asia,Samsung
+CSE0000351,America,Boeing
+CSE0000352,America,Ingram Micro
+CSE0000353,America,Procter & Gamble
+CSE0000354,America,Merck
+CSE0000355,America,Philip Morris
+CSE0000356,America,State Farm Insurance Cos.
+CSE0000357,Northern China,China Construction Bank
+CSE0000358,America,SBC Communications
+CSE0000359,Europe,Vivendi Universal
+CSE0000360,America,U.S. Postal Service
+CSE0000361,America,AT&T
+CSE0000362,Asia,Mitsubishi Electric
+CSE0000363,America,Merrill Lynch
+CSE0000364,America,Merrill Lynch
+CSE0000365,Europe,BMW
+CSE0000366,America,Cardinal Health
+CSE0000367,Southern China,Netease
+CSE0000368,America,Ingram Micro
+CSE0000369,America,Morgan Stanley Dean Witter
+CSE0000370,America,Kmart
+CSE0000371,America,Boeing
+CSE0000372,Asia,Hitachi
+CSE0000373,Northern China,State Power Corporation
+CSE0000374,America,Costco Wholesale
+CSE0000375,Southern China,Ping An Insurance (Group) Company Of China
+CSE0000376,America,Albertson's
+CSE0000377,Northern China,China Construction Bank
+CSE0000378,Northern China,Xiaomi
+CSE0000379,Europe,Fortis
+CSE0000380,America,Duke Energy
+CSE0000381,America,Compaq Computer
+CSE0000382,America,Berkshire Hathaway
+CSE0000383,Europe,Renault
+CSE0000384,Northern China,Xiaomi
+CSE0000385,Asia,Nippon Life Insurance
+CSE0000386,Asia,Sony
+CSE0000387,Europe,Tesco
+CSE0000388,Europe,L.M. Ericsson
+CSE0000389,Northern China,Sina
+CSE0000390,Asia,Samsung
+CSE0000391,America,Merrill Lynch
+CSE0000392,America,PDVSA
+CSE0000393,Northern China,Bank Of China
+CSE0000394,America,State Farm Insurance Cos.
+CSE0000395,America,General Motors
+CSE0000396,America,American International Group
+CSE0000397,America,Wal-Mart Stores
+CSE0000398,America,Conoco
+CSE0000399,Asia,Toshiba
+CSE0000400,Europe,Prudential
+CSE0000401,Asia,Mitsubishi Motors
+CSE0000402,Europe,Nestl我忪
+CSE0000403,Northern China,Xiaomi
+CSE0000404,Europe,Unilever
+CSE0000405,America,Intl. Business Machines
+CSE0000406,Europe,Munich Re Group
+CSE0000407,America,Intel
+CSE0000408,Europe,ENI
+CSE0000409,Europe,Royal Philips Electronics
+CSE0000410,Northern China,China North Industries Group Corporation
+CSE0000411,Asia,Sony
+CSE0000412,Europe,Suez
+CSE0000413,Asia,Nippon Life Insurance
+CSE0000414,Europe,Zurich Financial Services
+CSE0000415,Asia,Nissho Iwai
+CSE0000416,America,PDVSA
+CSE0000417,Asia,Honda Motor
+CSE0000418,Europe,Alcatel
+CSE0000419,Europe,Koninklijke Ahold
+CSE0000420,Southern China,Netease
+CSE0000421,America,General Motors
+CSE0000422,Northern China,China Electronics Technology Group Corporation
+CSE0000423,Europe,Cr我忪dit Agricole
+CSE0000424,Europe,ABN AMRO Holding
+CSE0000425,Southern China,Netease
+CSE0000426,Europe,BT
+CSE0000427,Europe,AXA
+CSE0000428,Asia,Mitsui
+CSE0000429,Europe,Deutsche Bank
+CSE0000430,Europe,Deutsche Post
+CSE0000431,Europe,HypoVereinsbank
+CSE0000432,Europe,Nestl我忪
+CSE0000433,America,Compaq Computer
+CSE0000434,America,MetLife
+CSE0000435,Europe,Fiat
+CSE0000436,Europe,BASF
+CSE0000437,Asia,Toyota Motor
+CSE0000438,Europe,Unilever
+CSE0000439,America,Dynegy
+CSE0000440,Europe,Vivendi Universal
+CSE0000441,Asia,Sumitomo
+CSE0000442,Europe,Suez
+CSE0000443,America,General Motors
+CSE0000444,Europe,CGNU
+CSE0000445,Southern China,China Merchants Bank
+CSE0000446,America,MetLife
+CSE0000447,Eastern China,MiHoYo
+CSE0000448,America,WorldCom
+CSE0000449,Eastern China,Bilibili
+CSE0000450,America,McKesson HBOC
+CSE0000451,Asia,Itochu
+CSE0000452,America,Kroger
+CSE0000453,Europe,Renault
+CSE0000454,America,Lucent Technologies
+CSE0000455,Northern China,China Construction Bank
+CSE0000456,Europe,BNP Paribas
+CSE0000457,Asia,Toshiba
+CSE0000458,Europe,Assicurazioni Generali
+CSE0000459,America,Albertson's
+CSE0000460,America,Bank of America Corp.
+CSE0000461,America,Goldman Sachs Group
+CSE0000462,Asia,Nissho Iwai
+CSE0000463,Northern China,Sinopec
+CSE0000464,Europe,Munich Re Group
+CSE0000465,America,Chevron
+CSE0000466,America,E.I. du Pont de Nemours
+CSE0000467,Northern China,Xiaomi
+CSE0000468,Europe,HSBC Holdings
+CSE0000469,America,Target
+CSE0000470,Europe,Renault
+CSE0000471,Europe,Fiat
+CSE0000472,Europe,Vivendi Universal
+CSE0000473,Asia,Dai-ichi Mutual Life Insurance
+CSE0000474,America,Goldman Sachs Group
+CSE0000475,America,Delphi Automotive Systems
+CSE0000476,Europe,Royal Dutch/Shell Group
+CSE0000477,Asia,NEC
+CSE0000478,America,Hewlett-Packard
+CSE0000479,Eastern China,MiHoYo
+CSE0000480,Europe,HypoVereinsbank
+CSE0000481,America,Exxon Mobil
+CSE0000482,Europe,Peugeot
+CSE0000483,Europe,Vivendi Universal
+CSE0000484,Europe,Rwe Group
+CSE0000485,Europe,Royal Bank of Scotland
+CSE0000486,Europe,Assicurazioni Generali
+CSE0000487,Europe,BASF
+CSE0000488,Asia,Mitsui
+CSE0000489,Europe,Peugeot
+CSE0000490,America,Johnson & Johnson
+CSE0000491,Europe,E. ON
+CSE0000492,Southern China,Netease
+CSE0000493,Europe,Robert Bosch
+CSE0000494,America,Kroger
+CSE0000495,Asia,Matsushita Electric Industrial
+CSE0000496,Asia,Mitsubishi Electric
+CSE0000497,America,Fannie Mae
+CSE0000498,America,Pfizer
+CSE0000499,Asia,Nissho Iwai
+CSE0000500,America,Goldman Sachs Group
+CSE0000501,Europe,Vivendi Universal
+CSE0000502,Europe,Credit Suisse
+CSE0000503,America,Exxon Mobil
+CSE0000504,Europe,Prudential
+CSE0000505,Europe,CGNU
+CSE0000506,America,Kroger
+CSE0000507,Europe,Suez
+CSE0000508,America,Boeing
+CSE0000509,Asia,Mitsubishi Motors
+CSE0000510,America,PDVSA
+CSE0000511,Asia,Mizuho Holdings
+CSE0000512,Asia,Meiji Life Insurance
+CSE0000513,America,Verizon Communications
+CSE0000514,Europe,Repsol YPF
+CSE0000515,Asia,Nippon Life Insurance
+CSE0000516,America,McKesson HBOC
+CSE0000517,America,Kmart
+CSE0000518,America,Ingram Micro
+CSE0000519,Europe,Fiat
+CSE0000520,Northern China,Industrial and Commercial Bank of China
+CSE0000521,Europe,Deutsche Post
+CSE0000522,Asia,Matsushita Electric Industrial
+CSE0000523,Asia,Honda Motor
+CSE0000524,Europe,Electricite De France
+CSE0000525,Europe,Deutsche Bank
+CSE0000526,Europe,Credit Suisse
+CSE0000527,Northern China,Meituan
+CSE0000528,Southern China,Huawei
+CSE0000529,Asia,Nippon Life Insurance
+CSE0000530,Northern China,Sinopec
+CSE0000531,Europe,Repsol YPF
+CSE0000532,Northern China,Sinopec
+CSE0000533,America,Compaq Computer
+CSE0000534,Asia,Matsushita Electric Industrial
+CSE0000535,Southern China,China Merchants Bank
+CSE0000536,Europe,Renault
+CSE0000537,Europe,Prudential
+CSE0000538,America,Goldman Sachs Group
+CSE0000539,America,Freddie Mac
+CSE0000540,Europe,Deutsche Telekom
+CSE0000541,Europe,ABN AMRO Holding
+CSE0000542,Europe,AXA
+CSE0000543,Eastern China,Pinduoduo
+CSE0000544,Europe,BASF
+CSE0000545,Europe,Siemens
+CSE0000546,America,MetLife
+CSE0000547,Europe,Renault
+CSE0000548,America,McKesson HBOC
+CSE0000549,Northern China,Industrial and Commercial Bank of China
+CSE0000550,Asia,Matsushita Electric Industrial
+CSE0000551,Europe,Ing Group
+CSE0000552,America,Exxon Mobil
+CSE0000553,Asia,Honda Motor
+CSE0000554,America,AT&T
+CSE0000555,Southwestern China,Chengdu AIG
+CSE0000556,America,Bank of America Corp.
+CSE0000557,America,State Farm Insurance Cos.
+CSE0000558,Eastern China,Bilibili
+CSE0000559,Europe,Fortis
+CSE0000560,Asia,Fujitsu
+CSE0000561,America,Safeway
+CSE0000562,Northern China,Sinopec
+CSE0000563,America,Boeing
+CSE0000564,America,SBC Communications
+CSE0000565,Southern China,OPPO
+CSE0000566,Asia,Mizuho Holdings
+CSE0000567,Southern China,Huawei
+CSE0000568,Europe,Munich Re Group
+CSE0000569,Asia,Sumitomo Life Insurance
+CSE0000570,Europe,Peugeot
+CSE0000571,America,General Electric
+CSE0000572,Southwestern China,Chengdu AIG
+CSE0000573,America,Kmart
+CSE0000574,Europe,Ing Group
+CSE0000575,America,Procter & Gamble
+CSE0000576,Northern China,Baidu
+CSE0000577,Europe,Renault
+CSE0000578,America,Freddie Mac
+CSE0000579,Asia,NEC
+CSE0000580,Asia,Toyota Motor
+CSE0000581,Europe,BP
+CSE0000582,America,Sears Roebuck
+CSE0000583,Northern China,Industrial and Commercial Bank of China
+CSE0000584,America,Safeway
+CSE0000585,Asia,Nissho Iwai
+CSE0000586,America,Pfizer
+CSE0000587,Europe,Unilever
+CSE0000588,America,Reliant Energy
+CSE0000589,Asia,Nissho Iwai
+CSE0000590,America,Boeing
+CSE0000591,America,J.C. Penney
+CSE0000592,America,Dell Computer
+CSE0000593,Northern China,Industrial and Commercial Bank of China
+CSE0000594,America,Home Depot
+CSE0000595,Asia,Sony
+CSE0000596,Europe,Alcatel
+CSE0000597,America,Target
+CSE0000598,Eastern China,Bilibili
+CSE0000599,Asia,Marubeni
+CSE0000600,Asia,Marubeni
+CSE0000601,Europe,Fiat
+CSE0000602,Asia,Meiji Life Insurance
+CSE0000603,America,Intl. Business Machines
+CSE0000604,Southern China,Tencent
+CSE0000605,Europe,BP
+CSE0000606,America,Fannie Mae
+CSE0000607,Europe,Electricite De France
+CSE0000608,America,Philip Morris
+CSE0000609,Europe,Robert Bosch
+CSE0000610,Northern China,Xiaomi
+CSE0000611,America,Texaco
+CSE0000612,America,TIAA-CREF
+CSE0000613,Asia,Matsushita Electric Industrial
+CSE0000614,America,Conoco
+CSE0000615,Southern China,Tencent
+CSE0000616,Europe,Munich Re Group
+CSE0000617,Europe,Volkswagen
+CSE0000618,America,MetLife
+CSE0000619,Asia,Hitachi
+CSE0000620,Europe,Unilever
+CSE0000621,America,Albertson's
+CSE0000622,America,Delphi Automotive Systems
+CSE0000623,Europe,UBS
+CSE0000624,Europe,BNP Paribas
+CSE0000625,America,Goldman Sachs Group
+CSE0000626,America,Fannie Mae
+CSE0000627,America,Procter & Gamble
+CSE0000628,Asia,Matsushita Electric Industrial
+CSE0000629,Asia,NEC
+CSE0000630,America,Procter & Gamble
+CSE0000631,America,Delphi Automotive Systems
+CSE0000632,Europe,Suez
+CSE0000633,America,Johnson & Johnson
+CSE0000634,America,Berkshire Hathaway
+CSE0000635,Europe,Suez
+CSE0000636,Northern China,Agricultural Bank of China
+CSE0000637,Asia,Mitsui
+CSE0000638,Asia,Mizuho Holdings
+CSE0000639,Europe,Royal Dutch/Shell Group
+CSE0000640,America,Pfizer
+CSE0000641,America,Boeing
+CSE0000642,America,Costco Wholesale
+CSE0000643,Asia,Meiji Life Insurance
+CSE0000644,Asia,SK
+CSE0000645,Asia,Mitsui
+CSE0000646,Asia,Sumitomo Life Insurance
+CSE0000647,Europe,Fortis
+CSE0000648,Eastern China,Pinduoduo
+CSE0000649,America,Goldman Sachs Group
+CSE0000650,America,Intl. Business Machines
+CSE0000651,America,Enron
+CSE0000652,America,Albertson's
+CSE0000653,Europe,UBS
+CSE0000654,Asia,Dai-ichi Mutual Life Insurance
+CSE0000655,America,Intl. Business Machines
+CSE0000656,Europe,BNP Paribas
+CSE0000657,America,AT&T
+CSE0000658,Northern China,Agricultural Bank of China
+CSE0000659,Europe,BMW
+CSE0000660,America,Intl. Business Machines
+CSE0000661,America,Albertson's
+CSE0000662,Asia,Dai-ichi Mutual Life Insurance
+CSE0000663,Europe,Vivendi Universal
+CSE0000664,Europe,ENI
+CSE0000665,Europe,Assicurazioni Generali
+CSE0000666,Europe,Fiat
+CSE0000667,America,Kmart
+CSE0000668,America,Chevron
+CSE0000669,Asia,Mitsubishi
+CSE0000670,Asia,Marubeni
+CSE0000671,America,Dynegy
+CSE0000672,Europe,DaimlerChrysler
+CSE0000673,America,Texaco
+CSE0000674,Asia,Honda Motor
+CSE0000675,Asia,SK
+CSE0000676,Southern China,Tencent
+CSE0000677,Asia,Samsung
+CSE0000678,Asia,Nissan Motor
+CSE0000679,America,Merck
+CSE0000680,America,J.C. Penney
+CSE0000681,Asia,Nippon Life Insurance
+CSE0000682,Asia,Samsung Electronics
+CSE0000683,America,Enron
+CSE0000684,Eastern China,Pinduoduo
+CSE0000685,Eastern China,MiHoYo
+CSE0000686,Europe,HSBC Holdings
+CSE0000687,America,Merrill Lynch
+CSE0000688,Asia,Mitsui
+CSE0000689,Asia,Mitsui
+CSE0000690,Asia,Nissho Iwai
+CSE0000691,Asia,Tokyo Electric Power
+CSE0000692,Europe,Thyssen Krupp
+CSE0000693,America,Sears Roebuck
+CSE0000694,Northern China,China North Industries Group Corporation
+CSE0000695,Asia,Honda Motor
+CSE0000696,Europe,Fiat
+CSE0000697,Europe,HypoVereinsbank
+CSE0000698,Europe,Carrefour
+CSE0000699,Asia,Sumitomo Life Insurance
+CSE0000700,Europe,BT
+CSE0000701,Europe,ABN AMRO Holding
+CSE0000702,Southern China,Ping An Insurance (Group) Company Of China
+CSE0000703,Europe,Ing Group
+CSE0000704,Northern China,Agricultural Bank of China
+CSE0000705,Europe,Allianz
+CSE0000706,America,PDVSA
+CSE0000707,America,Goldman Sachs Group
+CSE0000708,Europe,Peugeot
+CSE0000709,Europe,ENI
+CSE0000710,Asia,Toyota Motor
+CSE0000711,Europe,DaimlerChrysler
+CSE0000712,Europe,Siemens
+CSE0000713,Southern China,Netease
+CSE0000714,America,Albertson's
+CSE0000715,Europe,Fiat
+CSE0000716,America,Chevron
+CSE0000717,Asia,Mitsubishi
+CSE0000718,America,Berkshire Hathaway
+CSE0000719,Europe,ABN AMRO Holding
+CSE0000720,America,SBC Communications
+CSE0000721,Europe,Carrefour
+CSE0000722,Asia,Mitsui
+CSE0000723,America,Boeing
+CSE0000724,Asia,Sumitomo
+CSE0000725,Europe,Royal Dutch/Shell Group
+CSE0000726,Europe,Koninklijke Ahold
+CSE0000727,Northern China,Sinopec
+CSE0000728,America,Pfizer
+CSE0000729,America,Cardinal Health
+CSE0000730,Europe,Deutsche Telekom
+CSE0000731,Asia,Sumitomo Life Insurance
+CSE0000732,Asia,Tokyo Electric Power
+CSE0000733,Southern China,Netease
+CSE0000734,Asia,Mitsui
+CSE0000735,Asia,Sony
+CSE0000736,Northern China,China Petroleum
+CSE0000737,America,Hewlett-Packard
+CSE0000738,Europe,Fiat
+CSE0000739,America,USX
+CSE0000740,America,Goldman Sachs Group
+CSE0000741,Europe,Alcatel
+CSE0000742,America,Costco Wholesale
+CSE0000743,Europe,Alcatel
+CSE0000744,America,Motorola
+CSE0000745,Asia,Toyota Motor
+CSE0000746,Europe,L.M. Ericsson
+CSE0000747,Asia,Tokyo Electric Power
+CSE0000748,Asia,Nissho Iwai
+CSE0000749,Southern China,Huawei
+CSE0000750,Europe,Deutsche Post
+CSE0000751,America,Sears Roebuck
+CSE0000752,Southwestern China,Chengdu AIG
+CSE0000753,Eastern China,Bilibili
+CSE0000754,Asia,Toyota Motor
+CSE0000755,Europe,Koninklijke Ahold
+CSE0000756,Asia,Mizuho Holdings
+CSE0000757,America,MetLife
+CSE0000758,America,Pemex
+CSE0000759,Europe,Thyssen Krupp
+CSE0000760,Eastern China,Alibaba
+CSE0000761,Asia,Matsushita Electric Industrial
+CSE0000762,Asia,Marubeni
+CSE0000763,Asia,Nippon Life Insurance
+CSE0000764,America,Verizon Communications
+CSE0000765,Asia,Marubeni
+CSE0000766,Asia,Itochu
+CSE0000767,America,McKesson HBOC
+CSE0000768,Europe,Total Fina Elf
+CSE0000769,America,Boeing
+CSE0000770,Asia,Itochu
+CSE0000771,Europe,Fiat
+CSE0000772,Southern China,China Merchants Bank
+CSE0000773,America,J.P. Morgan Chase
+CSE0000774,Asia,Nissan Motor
+CSE0000775,Southern China,Ping An Insurance (Group) Company Of China
+CSE0000776,Europe,Metro
+CSE0000777,America,Intl. Business Machines
+CSE0000778,Europe,Allianz
+CSE0000779,America,Intel
+CSE0000780,Europe,Assicurazioni Generali
+CSE0000781,America,Compaq Computer
+CSE0000782,Europe,Unilever
+CSE0000783,Asia,Nissan Motor
+CSE0000784,Europe,Rwe Group
+CSE0000785,America,WorldCom
+CSE0000786,America,Citigroup
+CSE0000787,Europe,CGNU
+CSE0000788,America,SBC Communications
+CSE0000789,Europe,Electricite De France
+CSE0000790,Southern China,OPPO
+CSE0000791,America,Allstate
+CSE0000792,Asia,Sony
+CSE0000793,America,Boeing
+CSE0000794,Europe,Deutsche Telekom
+CSE0000795,Europe,UBS
+CSE0000796,Asia,Nippon Life Insurance
+CSE0000797,Northern China,Industrial and Commercial Bank of China
+CSE0000798,Asia,Mizuho Holdings
+CSE0000799,Europe,BMW
+CSE0000800,America,Wal-Mart Stores
+CSE0000801,Europe,BNP Paribas
+CSE0000802,Europe,Suez
+CSE0000803,Asia,Dai-ichi Mutual Life Insurance
+CSE0000804,Europe,BASF
+CSE0000805,America,Bank of America Corp.
+CSE0000806,Europe,Deutsche Post
+CSE0000807,Europe,Koninklijke Ahold
+CSE0000808,America,Merck
+CSE0000809,America,Exxon Mobil
+CSE0000810,America,MetLife
+CSE0000811,America,Kroger
+CSE0000812,America,Kmart
+CSE0000813,Europe,Koninklijke Ahold
+CSE0000814,America,State Farm Insurance Cos.
+CSE0000815,America,Intel
+CSE0000816,Europe,Renault
+CSE0000817,Europe,Vivendi Universal
+CSE0000818,Europe,Volkswagen
+CSE0000819,Northern China,State Power Corporation
+CSE0000820,Europe,Metro
+CSE0000821,America,Dell Computer
+CSE0000822,America,Costco Wholesale
+CSE0000823,Europe,Siemens
+CSE0000824,Northern China,Sinopec
+CSE0000825,America,USX
+CSE0000826,Europe,BT
+CSE0000827,Europe,BT
+CSE0000828,Europe,Total Fina Elf
+CSE0000829,America,Intel
+CSE0000830,America,Intl. Business Machines
+CSE0000831,Asia,Sumitomo Life Insurance
+CSE0000832,America,Albertson's
+CSE0000833,Europe,Fiat
+CSE0000834,Asia,Mitsubishi Electric
+CSE0000835,Northern China,Agricultural Bank of China
+CSE0000836,Europe,Metro
+CSE0000837,America,J.P. Morgan Chase
+CSE0000838,Asia,Itochu
+CSE0000839,Northern China,China Electronics Technology Group Corporation
+CSE0000840,America,United Parcel Service
+CSE0000841,America,Compaq Computer
+CSE0000842,America,Intl. Business Machines
+CSE0000843,America,Lucent Technologies
+CSE0000844,Europe,BT
+CSE0000845,America,McKesson HBOC
+CSE0000846,America,Pfizer
+CSE0000847,Northern China,China North Industries Group Corporation
+CSE0000848,Northern China,Sina
+CSE0000849,Asia,Samsung Electronics
+CSE0000850,Asia,Marubeni
+CSE0000851,Northern China,Meituan
+CSE0000852,Asia,Fujitsu
+CSE0000853,America,Chevron
+CSE0000854,Asia,Nissho Iwai
+CSE0000855,Asia,Tokyo Electric Power
+CSE0000856,Asia,Tokyo Electric Power
+CSE0000857,America,Kmart
+CSE0000858,Europe,Siemens
+CSE0000859,Europe,Deutsche Telekom
+CSE0000860,Europe,Royal Philips Electronics
+CSE0000861,America,Pfizer
+CSE0000862,Southern China,China Merchants Bank
+CSE0000863,Asia,Meiji Life Insurance
+CSE0000864,America,Exxon Mobil
+CSE0000865,America,Bank of America Corp.
+CSE0000866,Eastern China,Pinduoduo
+CSE0000867,Europe,BT
+CSE0000868,Asia,Nissho Iwai
+CSE0000869,America,Wal-Mart Stores
+CSE0000870,Europe,Alcatel
+CSE0000871,Europe,Allianz
+CSE0000872,Northern China,State Power Corporation
+CSE0000873,Asia,SK
+CSE0000874,Europe,UBS
+CSE0000875,Asia,Fujitsu
+CSE0000876,Europe,Carrefour
+CSE0000877,America,Merck
+CSE0000878,Southwestern China,Chengdu AIG
+CSE0000879,America,Reliant Energy
+CSE0000880,America,Enron
+CSE0000881,America,Pfizer
+CSE0000882,Southwestern China,Chengdu AIG
+CSE0000883,Asia,Sumitomo
+CSE0000884,America,Berkshire Hathaway
+CSE0000885,America,E.I. du Pont de Nemours
+CSE0000886,America,Intel
+CSE0000887,Asia,Mitsubishi Electric
+CSE0000888,America,Motorola
+CSE0000889,Europe,Deutsche Telekom
+CSE0000890,America,Berkshire Hathaway
+CSE0000891,Europe,BP
+CSE0000892,Asia,Mitsui
+CSE0000893,America,General Electric
+CSE0000894,Asia,Hitachi
+CSE0000895,Europe,HSBC Holdings
+CSE0000896,Europe,Munich Re Group
+CSE0000897,Asia,Sony
+CSE0000898,America,Philip Morris
+CSE0000899,America,J.P. Morgan Chase
+CSE0000900,Asia,Tokyo Electric Power
+CSE0000901,Europe,Renault
+CSE0000902,Asia,Mitsubishi Motors
+CSE0000903,America,Cardinal Health
+CSE0000904,Europe,Vivendi Universal
+CSE0000905,Southern China,Netease
+CSE0000906,America,Enron
+CSE0000907,America,Cardinal Health
+CSE0000908,Europe,Munich Re Group
+CSE0000909,Asia,Toshiba
+CSE0000910,Northern China,Bank Of China
+CSE0000911,Europe,BT
+CSE0000912,Asia,Sumitomo
+CSE0000913,America,AT&T
+CSE0000914,America,Ford Motor
+CSE0000915,Europe,Fiat
+CSE0000916,Europe,ENI
+CSE0000917,Northern China,State Power Corporation
+CSE0000918,Southern China,Netease
+CSE0000919,Europe,DaimlerChrysler
+CSE0000920,America,Lucent Technologies
+CSE0000921,Europe,Total Fina Elf
+CSE0000922,America,Cardinal Health
+CSE0000923,Europe,Total Fina Elf
+CSE0000924,America,Reliant Energy
+CSE0000925,Europe,Thyssen Krupp
+CSE0000926,Europe,Repsol YPF
+CSE0000927,Europe,Royal Bank of Scotland
+CSE0000928,Northern China,Sinopec
+CSE0000929,Europe,L.M. Ericsson
+CSE0000930,Europe,Deutsche Bank
+CSE0000931,America,Dynegy
+CSE0000932,America,Philip Morris
+CSE0000933,Europe,DaimlerChrysler
+CSE0000934,Europe,Royal Philips Electronics
+CSE0000935,Asia,Tokyo Electric Power
+CSE0000936,Asia,Matsushita Electric Industrial
+CSE0000937,Europe,DaimlerChrysler
+CSE0000938,America,Conoco
+CSE0000939,America,Ford Motor
+CSE0000940,America,Costco Wholesale
+CSE0000941,Europe,Deutsche Post
+CSE0000942,Europe,Deutsche Post
+CSE0000943,America,Procter & Gamble
+CSE0000944,Europe,Rwe Group
+CSE0000945,Europe,DaimlerChrysler
+CSE0000946,Europe,Assicurazioni Generali
+CSE0000947,America,State Farm Insurance Cos.
+CSE0000948,America,Ingram Micro
+CSE0000949,America,J.C. Penney
+CSE0000950,America,Conoco
+CSE0000951,America,Texaco
+CSE0000952,America,United Parcel Service
+CSE0000953,America,Bank of America Corp.
+CSE0000954,Europe,DaimlerChrysler
+CSE0000955,Europe,BASF
+CSE0000956,Europe,Zurich Financial Services
+CSE0000957,America,J.P. Morgan Chase
+CSE0000958,Asia,Nippon Telegraph & Telephone
+CSE0000959,Asia,Mitsui
+CSE0000960,Asia,Fujitsu
+CSE0000961,Europe,HypoVereinsbank
+CSE0000962,America,SBC Communications
+CSE0000963,Europe,Koninklijke Ahold
+CSE0000964,America,Wal-Mart Stores
+CSE0000965,America,Compaq Computer
+CSE0000966,America,Chevron
+CSE0000967,Europe,Munich Re Group
+CSE0000968,Europe,BMW
+CSE0000969,Asia,Sony
+CSE0000970,Southern China,OPPO
+CSE0000971,America,Target
+CSE0000972,Europe,UBS
+CSE0000973,America,General Motors
+CSE0000974,Asia,Mizuho Holdings
+CSE0000975,America,Berkshire Hathaway
+CSE0000976,Europe,Royal Bank of Scotland
+CSE0000977,America,E.I. du Pont de Nemours
+CSE0000978,Northern China,Agricultural Bank of China
+CSE0000979,America,TIAA-CREF
+CSE0000980,Europe,Assicurazioni Generali
+CSE0000981,Europe,L.M. Ericsson
+CSE0000982,America,Safeway
+CSE0000983,America,Verizon Communications
+CSE0000984,Europe,CGNU
+CSE0000985,Southern China,Ping An Insurance (Group) Company Of China
+CSE0000986,America,Chevron
+CSE0000987,America,Costco Wholesale
+CSE0000988,America,Goldman Sachs Group
+CSE0000989,America,Ford Motor
+CSE0000990,Asia,Tokyo Electric Power
+CSE0000991,Europe,Cr我忪dit Agricole
+CSE0000992,America,Delphi Automotive Systems
+CSE0000993,Asia,Honda Motor
+CSE0000994,America,General Electric
+CSE0000995,America,E.I. du Pont de Nemours
+CSE0000996,America,TIAA-CREF
+CSE0000997,Europe,Metro
+CSE0000998,America,Safeway
+CSE0000999,America,Exxon Mobil
+CSE0001000,America,Enron
+CSE0001001,Europe,Zurich Financial Services
+CSE0001002,America,Freddie Mac
+CSE0001003,America,Intel
+CSE0001004,Europe,BP
+CSE0001005,Eastern China,MiHoYo
+CSE0001006,Europe,Fiat
+CSE0001007,America,Delphi Automotive Systems
+CSE0001008,America,Citigroup
+CSE0001009,Europe,UBS
+CSE0001010,America,J.C. Penney
+CSE0001011,America,Enron
+CSE0001012,America,General Electric
+CSE0001013,Asia,Matsushita Electric Industrial
+CSE0001014,America,Freddie Mac
+CSE0001015,Europe,ENI
+CSE0001016,Southern China,China Merchants Bank
+CSE0001017,Europe,HSBC Holdings
+CSE0001018,Europe,Assicurazioni Generali
+CSE0001019,Europe,Fiat
+CSE0001020,Europe,Suez
+CSE0001021,Northern China,Bank Of China
+CSE0001022,Eastern China,Alibaba
+CSE0001023,Asia,Samsung
+CSE0001024,Europe,Rwe Group
+CSE0001025,Europe,AXA
+CSE0001026,America,J.C. Penney
+CSE0001027,Asia,Samsung
+CSE0001028,America,E.I. du Pont de Nemours
+CSE0001029,America,Kroger
+CSE0001030,Asia,Toshiba
+CSE0001031,Europe,ABN AMRO Holding
+CSE0001032,Northern China,Baidu
+CSE0001033,America,Bank of America Corp.
+CSE0001034,Asia,Hyundai
+CSE0001035,America,Chevron
+CSE0001036,America,Verizon Communications
+CSE0001037,America,U.S. Postal Service
+CSE0001038,Europe,L.M. Ericsson
+CSE0001039,Europe,Metro
+CSE0001040,Europe,Prudential
+CSE0001041,Southern China,Netease
+CSE0001042,America,Hewlett-Packard
+CSE0001043,Northern China,China Electronics Technology Group Corporation
+CSE0001044,Asia,Mitsui
+CSE0001045,Europe,UBS
+CSE0001046,Europe,UBS
+CSE0001047,America,Intl. Business Machines
+CSE0001048,Europe,Suez
+CSE0001049,Asia,Mizuho Holdings
+CSE0001050,Europe,HSBC Holdings
+CSE0001051,America,Duke Energy
+CSE0001052,America,Intel
+CSE0001053,Europe,Royal Philips Electronics
+CSE0001054,Europe,BMW
+CSE0001055,Asia,Tokyo Electric Power
+CSE0001056,America,Goldman Sachs Group
+CSE0001057,America,Citigroup
+CSE0001058,America,Reliant Energy
+CSE0001059,Europe,Alcatel
+CSE0001060,America,State Farm Insurance Cos.
+CSE0001061,Europe,UBS
+CSE0001062,Europe,Royal Bank of Scotland
+CSE0001063,Asia,Toshiba
+CSE0001064,America,TIAA-CREF
+CSE0001065,Europe,Allianz
+CSE0001066,America,Kmart
+CSE0001067,Asia,Sony
+CSE0001068,Asia,Fujitsu
+CSE0001069,America,Johnson & Johnson
+CSE0001070,Northern China,Meituan
+CSE0001071,Europe,Nestl我忪
+CSE0001072,Asia,Nippon Life Insurance
+CSE0001073,America,Kroger
+CSE0001074,Asia,Mitsubishi
+CSE0001075,America,Delphi Automotive Systems
+CSE0001076,America,Nortel Networks
+CSE0001077,Asia,Fujitsu
+CSE0001078,Europe,Siemens
+CSE0001079,Asia,Sony
+CSE0001080,America,Lucent Technologies
+CSE0001081,America,Merrill Lynch
+CSE0001082,Europe,Munich Re Group
+CSE0001083,Europe,Cr我忪dit Agricole
+CSE0001084,Europe,BMW
+CSE0001085,Eastern China,MiHoYo
+CSE0001086,America,AT&T
+CSE0001087,Asia,SK
+CSE0001088,Europe,Rwe Group
+CSE0001089,Northern China,Sina
+CSE0001090,America,Hewlett-Packard
+CSE0001091,America,Chevron
+CSE0001092,America,Exxon Mobil
+CSE0001093,Asia,Dai-ichi Mutual Life Insurance
+CSE0001094,Northern China,Xiaomi
+CSE0001095,Asia,Honda Motor
+CSE0001096,Asia,Matsushita Electric Industrial
+CSE0001097,Asia,Dai-ichi Mutual Life Insurance
+CSE0001098,Asia,Samsung Electronics
+CSE0001099,America,Bank of America Corp.
+CSE0001100,Europe,Repsol YPF
+CSE0001101,America,United Parcel Service
+CSE0001102,America,Merrill Lynch
+CSE0001103,America,State Farm Insurance Cos.
+CSE0001104,America,United Parcel Service
+CSE0001105,America,Albertson's
+CSE0001106,America,Texaco
+CSE0001107,Asia,Itochu
+CSE0001108,Asia,Nippon Life Insurance
+CSE0001109,Asia,Meiji Life Insurance
+CSE0001110,America,Costco Wholesale
+CSE0001111,America,Ford Motor
+CSE0001112,Northern China,Agricultural Bank of China
+CSE0001113,America,Dell Computer
+CSE0001114,Northern China,China Electronics Technology Group Corporation
+CSE0001115,Northern China,Meituan
+CSE0001116,America,Sears Roebuck
+CSE0001117,Europe,Nestl我忪
+CSE0001118,Asia,Tokyo Electric Power
+CSE0001119,America,USX
+CSE0001120,Europe,Deutsche Post
+CSE0001121,Asia,Nippon Life Insurance
+CSE0001122,America,PDVSA
+CSE0001123,Europe,France T我忪l我忪com
+CSE0001124,America,General Electric
+CSE0001125,America,Wal-Mart Stores
+CSE0001126,Europe,Fortis
+CSE0001127,Europe,CGNU
+CSE0001128,America,Bank of America Corp.
+CSE0001129,Europe,Renault
+CSE0001130,America,E.I. du Pont de Nemours
+CSE0001131,Eastern China,Bilibili
+CSE0001132,America,General Motors
+CSE0001133,America,Kmart
+CSE0001134,America,Reliant Energy
+CSE0001135,Southern China,Ping An Insurance (Group) Company Of China
+CSE0001136,America,Pemex
+CSE0001137,Europe,Thyssen Krupp
+CSE0001138,America,Citigroup
+CSE0001139,America,Kmart
+CSE0001140,America,U.S. Postal Service
+CSE0001141,Northern China,Agricultural Bank of China
+CSE0001142,Europe,DaimlerChrysler
+CSE0001143,America,Merck
+CSE0001144,Europe,E. ON
+CSE0001145,Northern China,Industrial and Commercial Bank of China
+CSE0001146,Europe,Fortis
+CSE0001147,Asia,Fujitsu
+CSE0001148,Europe,BP
+CSE0001149,Europe,Metro
+CSE0001150,Europe,Volkswagen
+CSE0001151,Europe,France T我忪l我忪com
+CSE0001152,America,Safeway
+CSE0001153,Northern China,China Petroleum
+CSE0001154,Southwestern China,Chengdu AIG
+CSE0001155,America,J.C. Penney
+CSE0001156,Asia,Hitachi
+CSE0001157,America,Goldman Sachs Group
+CSE0001158,America,Costco Wholesale
+CSE0001159,Asia,Toyota Motor
+CSE0001160,Asia,SK
+CSE0001161,Eastern China,Pinduoduo
+CSE0001162,America,Freddie Mac
+CSE0001163,America,United Parcel Service
+CSE0001164,Europe,HypoVereinsbank
+CSE0001165,Europe,Renault
+CSE0001166,America,Compaq Computer
+CSE0001167,America,E.I. du Pont de Nemours
+CSE0001168,America,Verizon Communications
+CSE0001169,Southern China,China Merchants Bank
+CSE0001170,Europe,Zurich Financial Services
+CSE0001171,Asia,Toyota Motor
+CSE0001172,America,Procter & Gamble
+CSE0001173,America,Merrill Lynch
+CSE0001174,Asia,Mizuho Holdings
+CSE0001175,Northern China,Agricultural Bank of China
+CSE0001176,Europe,Fiat
+CSE0001177,Asia,Mitsubishi Electric
+CSE0001178,America,Wal-Mart Stores
+CSE0001179,Southwestern China,Chengdu AIG
+CSE0001180,Europe,UBS
+CSE0001181,Asia,Sumitomo
+CSE0001182,America,Bank of America Corp.
+CSE0001183,Asia,Samsung Electronics
+CSE0001184,Eastern China,Bilibili
+CSE0001185,Southwestern China,Chengdu AIG
+CSE0001186,Asia,NEC
+CSE0001187,America,Kroger
+CSE0001188,America,Kmart
+CSE0001189,America,Target
+CSE0001190,Europe,UBS
+CSE0001191,Asia,Toshiba
+CSE0001192,Europe,Ing Group
+CSE0001193,America,J.C. Penney
+CSE0001194,America,Albertson's
+CSE0001195,Asia,Itochu
+CSE0001196,Europe,Peugeot
+CSE0001197,America,Fannie Mae
+CSE0001198,Europe,Electricite De France
+CSE0001199,Europe,Repsol YPF
+CSE0001200,Europe,HSBC Holdings
+CSE0001201,Europe,Volkswagen
+CSE0001202,America,Compaq Computer
+CSE0001203,America,E.I. du Pont de Nemours
+CSE0001204,Europe,BASF
+CSE0001205,Europe,Deutsche Telekom
+CSE0001206,America,USX
+CSE0001207,America,Allstate
+CSE0001208,Europe,Robert Bosch
+CSE0001209,Northern China,China North Industries Group Corporation
+CSE0001210,Asia,Hyundai
+CSE0001211,Europe,ENI
+CSE0001212,Asia,Mizuho Holdings
+CSE0001213,Europe,Fiat
+CSE0001214,America,Cardinal Health
+CSE0001215,America,Reliant Energy
+CSE0001216,America,Nortel Networks
+CSE0001217,Asia,Mitsui
+CSE0001218,Asia,Mitsui
+CSE0001219,Europe,UBS
+CSE0001220,Europe,Royal Dutch/Shell Group
+CSE0001221,Europe,France T我忪l我忪com
+CSE0001222,America,Albertson's
+CSE0001223,Asia,Hyundai
+CSE0001224,America,Pemex
+CSE0001225,Northern China,Meituan
+CSE0001226,America,Target
+CSE0001227,Europe,Siemens
+CSE0001228,Europe,Royal Dutch/Shell Group
+CSE0001229,Asia,Samsung
+CSE0001230,Europe,Volkswagen
+CSE0001231,Asia,Nissho Iwai
+CSE0001232,Europe,Alcatel
+CSE0001233,America,Philip Morris
+CSE0001234,Europe,Vivendi Universal
+CSE0001235,Northern China,China Petroleum
+CSE0001236,Asia,Fujitsu
+CSE0001237,America,Allstate
+CSE0001238,Europe,Allianz
+CSE0001239,America,Citigroup
+CSE0001240,Europe,Volkswagen
+CSE0001241,Europe,BP
+CSE0001242,Asia,NEC
+CSE0001243,Southwestern China,Chengdu AIG
+CSE0001244,Europe,Metro
+CSE0001245,Asia,Mitsubishi Motors
+CSE0001246,Europe,Repsol YPF
+CSE0001247,Europe,Total Fina Elf
+CSE0001248,Europe,Renault
+CSE0001249,America,J.P. Morgan Chase
+CSE0001250,America,TIAA-CREF
+CSE0001251,America,Lucent Technologies
+CSE0001252,Europe,Carrefour
+CSE0001253,Europe,Tesco
+CSE0001254,America,Morgan Stanley Dean Witter
+CSE0001255,Europe,Fiat
+CSE0001256,America,General Electric
+CSE0001257,Asia,Samsung
+CSE0001258,America,Lucent Technologies
+CSE0001259,Northern China,China Construction Bank
+CSE0001260,Asia,Mitsui
+CSE0001261,America,Bank of America Corp.
+CSE0001262,America,Sears Roebuck
+CSE0001263,Asia,Hitachi
+CSE0001264,America,Verizon Communications
+CSE0001265,Asia,Sumitomo Life Insurance
+CSE0001266,America,McKesson HBOC
+CSE0001267,America,Wal-Mart Stores
+CSE0001268,America,Merck
+CSE0001269,America,Philip Morris
+CSE0001270,Europe,Royal Dutch/Shell Group
+CSE0001271,America,Intl. Business Machines
+CSE0001272,Asia,Samsung
+CSE0001273,Southern China,China Merchants Bank
+CSE0001274,Asia,Nippon Life Insurance
+CSE0001275,America,Goldman Sachs Group
+CSE0001276,Asia,Marubeni
+CSE0001277,America,Boeing
+CSE0001278,Northern China,Sinopec
+CSE0001279,Europe,HSBC Holdings
+CSE0001280,Europe,BMW
+CSE0001281,Asia,Matsushita Electric Industrial
+CSE0001282,Northern China,Industrial and Commercial Bank of China
+CSE0001283,America,Sears Roebuck
+CSE0001284,Europe,Zurich Financial Services
+CSE0001285,Asia,Hyundai
+CSE0001286,America,Pemex
+CSE0001287,America,SBC Communications
+CSE0001288,America,United Parcel Service
+CSE0001289,Europe,Royal Dutch/Shell Group
+CSE0001290,Europe,Peugeot
+CSE0001291,Europe,Thyssen Krupp
+CSE0001292,Asia,SK
+CSE0001293,Europe,Metro
+CSE0001294,Europe,Royal Dutch/Shell Group
+CSE0001295,America,Hewlett-Packard
+CSE0001296,America,Albertson's
+CSE0001297,Europe,AXA
+CSE0001298,Asia,SK
+CSE0001299,Europe,Vivendi Universal
+CSE0001300,Eastern China,MiHoYo
+CSE0001301,America,Safeway
+CSE0001302,Europe,UBS
+CSE0001303,Asia,Marubeni
+CSE0001304,Europe,Vivendi Universal
+CSE0001305,Southern China,Ping An Insurance (Group) Company Of China
+CSE0001306,Europe,AXA
+CSE0001307,Europe,Prudential
+CSE0001308,Europe,Carrefour
+CSE0001309,Europe,UBS
+CSE0001310,Northern China,China Electronics Technology Group Corporation
+CSE0001311,Europe,UBS
+CSE0001312,America,Pemex
+CSE0001313,America,AT&T
+CSE0001314,Europe,Fiat
+CSE0001315,Europe,Fiat
+CSE0001316,Northern China,Sinopec
+CSE0001317,Europe,AXA
+CSE0001318,Europe,ABN AMRO Holding
+CSE0001319,America,General Electric
+CSE0001320,America,Nortel Networks
+CSE0001321,Eastern China,MiHoYo
+CSE0001322,Europe,ENI
+CSE0001323,Asia,Mitsubishi Electric
+CSE0001324,Asia,Tokyo Electric Power
+CSE0001325,America,Kroger
+CSE0001326,Europe,Royal Bank of Scotland
+CSE0001327,Eastern China,MiHoYo
+CSE0001328,Asia,Meiji Life Insurance
+CSE0001329,America,MetLife
+CSE0001330,Asia,Meiji Life Insurance
+CSE0001331,America,Compaq Computer
+CSE0001332,Europe,Fortis
+CSE0001333,Eastern China,MiHoYo
+CSE0001334,Asia,Sumitomo
+CSE0001335,Asia,Fujitsu
+CSE0001336,America,SBC Communications
+CSE0001337,Asia,Samsung Electronics
+CSE0001338,America,Conoco
+CSE0001339,Asia,Fujitsu
+CSE0001340,America,MetLife
+CSE0001341,Asia,Samsung
+CSE0001342,Asia,Samsung
+CSE0001343,Europe,Cr我忪dit Agricole
+CSE0001344,America,Duke Energy
+CSE0001345,Asia,Honda Motor
+CSE0001346,America,Nortel Networks
+CSE0001347,Northern China,China Petroleum
+CSE0001348,Europe,Siemens
+CSE0001349,Europe,Suez
+CSE0001350,Asia,Samsung Electronics
+CSE0001351,America,Nortel Networks
+CSE0001352,Asia,Marubeni
+CSE0001353,Northern China,Industrial and Commercial Bank of China
+CSE0001354,America,General Electric
+CSE0001355,Europe,Fiat
+CSE0001356,America,Dell Computer
+CSE0001357,Asia,Honda Motor
+CSE0001358,Europe,Metro
+CSE0001359,Europe,Royal Dutch/Shell Group
+CSE0001360,Southern China,Huawei
+CSE0001361,America,Pemex
+CSE0001362,America,Delphi Automotive Systems
+CSE0001363,Europe,Peugeot
+CSE0001364,America,Pemex
+CSE0001365,America,Ingram Micro
+CSE0001366,Northern China,State Power Corporation
+CSE0001367,America,Citigroup
+CSE0001368,Europe,Total Fina Elf
+CSE0001369,America,Fannie Mae
+CSE0001370,Asia,Honda Motor
+CSE0001371,Europe,Repsol YPF
+CSE0001372,America,Costco Wholesale
+CSE0001373,America,Chevron
+CSE0001374,America,Duke Energy
+CSE0001375,America,Merrill Lynch
+CSE0001376,America,Morgan Stanley Dean Witter
+CSE0001377,Northern China,China Electronics Technology Group Corporation
+CSE0001378,America,Texaco
+CSE0001379,Europe,Rwe Group
+CSE0001380,Asia,Nissan Motor
+CSE0001381,Europe,DaimlerChrysler
+CSE0001382,Europe,E. ON
+CSE0001383,America,Allstate
+CSE0001384,Asia,Mitsubishi Electric
+CSE0001385,America,Sears Roebuck
+CSE0001386,Northern China,Baidu
+CSE0001387,Europe,BASF
+CSE0001388,Europe,Metro
+CSE0001389,Asia,Toyota Motor
+CSE0001390,Asia,Hyundai
+CSE0001391,America,Pemex
+CSE0001392,America,United Parcel Service
+CSE0001393,Europe,Thyssen Krupp
+CSE0001394,America,Johnson & Johnson
+CSE0001395,Europe,Metro
+CSE0001396,Asia,Nissho Iwai
+CSE0001397,Eastern China,MiHoYo
+CSE0001398,America,Allstate
+CSE0001399,Asia,Hyundai
+CSE0001400,Asia,Toshiba
+CSE0001401,Northern China,Bank Of China
+CSE0001402,Europe,Deutsche Post
+CSE0001403,America,Merck
+CSE0001404,Northern China,Baidu
+CSE0001405,Europe,Carrefour
+CSE0001406,Northern China,China North Industries Group Corporation
+CSE0001407,Northern China,China Petroleum
+CSE0001408,Southern China,OPPO
+CSE0001409,Asia,Mitsui
+CSE0001410,Asia,Nippon Telegraph & Telephone
+CSE0001411,America,USX
+CSE0001412,America,State Farm Insurance Cos.
+CSE0001413,America,SBC Communications
+CSE0001414,America,American International Group
+CSE0001415,America,Freddie Mac
+CSE0001416,Europe,Deutsche Telekom
+CSE0001417,Europe,Santander Central Hispano Group
+CSE0001418,America,Lucent Technologies
+CSE0001419,Europe,Suez
+CSE0001420,Asia,Nippon Telegraph & Telephone
+CSE0001421,Europe,Renault
+CSE0001422,America,Pemex
+CSE0001423,Asia,Matsushita Electric Industrial
+CSE0001424,America,American International Group
+CSE0001425,Eastern China,Bilibili
+CSE0001426,Northern China,State Power Corporation
+CSE0001427,Europe,Unilever
+CSE0001428,Eastern China,Bilibili
+CSE0001429,America,Motorola
+CSE0001430,Asia,Meiji Life Insurance
+CSE0001431,America,American International Group
+CSE0001432,Europe,ENI
+CSE0001433,Europe,Alcatel
+CSE0001434,America,Dell Computer
+CSE0001435,America,Nortel Networks
+CSE0001436,Northern China,Bank Of China
+CSE0001437,Eastern China,MiHoYo
+CSE0001438,America,Merck
+CSE0001439,Asia,Honda Motor
+CSE0001440,America,Delphi Automotive Systems
+CSE0001441,Europe,Renault
+CSE0001442,America,Philip Morris
+CSE0001443,America,Sears Roebuck
+CSE0001444,Europe,Unilever
+CSE0001445,Europe,Suez
+CSE0001446,America,United Parcel Service
+CSE0001447,Southern China,OPPO
+CSE0001448,America,SBC Communications
+CSE0001449,Northern China,Agricultural Bank of China
+CSE0001450,Europe,Deutsche Telekom
+CSE0001451,Northern China,China North Industries Group Corporation
+CSE0001452,Northern China,Baidu
+CSE0001453,Asia,Hyundai
+CSE0001454,America,Target
+CSE0001455,Europe,ABN AMRO Holding
+CSE0001456,America,AT&T
+CSE0001457,Europe,Carrefour
+CSE0001458,America,Pemex
+CSE0001459,America,Target
+CSE0001460,Northern China,China Electronics Technology Group Corporation
+CSE0001461,America,Sears Roebuck
+CSE0001462,America,AT&T
+CSE0001463,Europe,Deutsche Telekom
+CSE0001464,Asia,NEC
+CSE0001465,America,General Electric
+CSE0001466,Europe,Santander Central Hispano Group
+CSE0001467,Europe,BMW
+CSE0001468,America,Delphi Automotive Systems
+CSE0001469,America,Reliant Energy
+CSE0001470,Asia,Honda Motor
+CSE0001471,America,Intel
+CSE0001472,Europe,Unilever
+CSE0001473,Asia,Mitsui
+CSE0001474,America,Duke Energy
+CSE0001475,Europe,HypoVereinsbank
+CSE0001476,Northern China,Bank Of China
+CSE0001477,America,J.P. Morgan Chase
+CSE0001478,Northern China,China Construction Bank
+CSE0001479,America,Compaq Computer
+CSE0001480,America,PDVSA
+CSE0001481,Asia,Meiji Life Insurance
+CSE0001482,Northern China,Industrial and Commercial Bank of China
+CSE0001483,America,Pfizer
+CSE0001484,Europe,Repsol YPF
+CSE0001485,Northern China,China Electronics Technology Group Corporation
+CSE0001486,America,Hewlett-Packard
+CSE0001487,America,Lucent Technologies
+CSE0001488,Europe,Rwe Group
+CSE0001489,Europe,BT
+CSE0001490,Asia,Mitsui
+CSE0001491,America,TIAA-CREF
+CSE0001492,America,Texaco
+CSE0001493,Southern China,Netease
+CSE0001494,Southern China,China Merchants Bank
+CSE0001495,America,WorldCom
+CSE0001496,Asia,Hyundai
+CSE0001497,America,General Motors
+CSE0001498,Europe,Royal Philips Electronics
+CSE0001499,America,Delphi Automotive Systems
+CSE0001500,Northern China,China Petroleum
+CSE0001501,Southern China,OPPO
+CSE0001502,Europe,ABN AMRO Holding
+CSE0001503,America,Wal-Mart Stores
+CSE0001504,America,Procter & Gamble
+CSE0001505,Northern China,China Petroleum
+CSE0001506,Europe,Koninklijke Ahold
+CSE0001507,America,Boeing
+CSE0001508,Europe,Ing Group
+CSE0001509,Northern China,Industrial and Commercial Bank of China
+CSE0001510,America,Reliant Energy
+CSE0001511,America,Morgan Stanley Dean Witter
+CSE0001512,Europe,Tesco
+CSE0001513,Europe,ENI
+CSE0001514,Eastern China,Alibaba
+CSE0001515,America,United Parcel Service
+CSE0001516,Eastern China,Alibaba
+CSE0001517,Europe,Carrefour
+CSE0001518,Northern China,Bank Of China
+CSE0001519,America,Merrill Lynch
+CSE0001520,Europe,Santander Central Hispano Group
+CSE0001521,Europe,AXA
+CSE0001522,Asia,Samsung
+CSE0001523,Europe,HypoVereinsbank
+CSE0001524,America,AT&T
+CSE0001525,America,U.S. Postal Service
+CSE0001526,America,Albertson's
+CSE0001527,Northern China,Agricultural Bank of China
+CSE0001528,America,Exxon Mobil
+CSE0001529,America,J.C. Penney
+CSE0001530,Europe,Prudential
+CSE0001531,Asia,Mitsubishi Electric
+CSE0001532,Southern China,Tencent
+CSE0001533,Europe,Fortis
+CSE0001534,Europe,CGNU
+CSE0001535,America,Chevron
+CSE0001536,Northern China,Agricultural Bank of China
+CSE0001537,America,Duke Energy
+CSE0001538,Asia,Samsung Electronics
+CSE0001539,Asia,Mitsubishi Motors
+CSE0001540,America,General Electric
+CSE0001541,Southern China,Huawei
+CSE0001542,Asia,Dai-ichi Mutual Life Insurance
+CSE0001543,America,Dell Computer
+CSE0001544,Asia,Samsung Electronics
+CSE0001545,America,Pemex
+CSE0001546,Europe,Deutsche Telekom
+CSE0001547,Asia,Nippon Life Insurance
+CSE0001548,Asia,NEC
+CSE0001549,America,Philip Morris
+CSE0001550,America,Home Depot
+CSE0001551,Southern China,Huawei
+CSE0001552,America,General Motors
+CSE0001553,Europe,Prudential
+CSE0001554,Europe,BP
+CSE0001555,Europe,Volkswagen
+CSE0001556,America,Hewlett-Packard
+CSE0001557,America,General Electric
+CSE0001558,Europe,AXA
+CSE0001559,America,Citigroup
+CSE0001560,Europe,ENI
+CSE0001561,Asia,Tokyo Electric Power
+CSE0001562,America,McKesson HBOC
+CSE0001563,America,Target
+CSE0001564,Northern China,China Construction Bank
+CSE0001565,America,Berkshire Hathaway
+CSE0001566,America,Procter & Gamble
+CSE0001567,Asia,Hitachi
+CSE0001568,America,USX
+CSE0001569,America,Morgan Stanley Dean Witter
+CSE0001570,Europe,L.M. Ericsson
+CSE0001571,Europe,Total Fina Elf
+CSE0001572,Southern China,Tencent
+CSE0001573,America,USX
+CSE0001574,Eastern China,Pinduoduo
+CSE0001575,America,Fannie Mae
+CSE0001576,Asia,Samsung Electronics
+CSE0001577,America,Merrill Lynch
+CSE0001578,Europe,Nestl我忪
+CSE0001579,Europe,Metro
+CSE0001580,America,Johnson & Johnson
+CSE0001581,Europe,Peugeot
+CSE0001582,Europe,E. ON
+CSE0001583,Europe,Suez
+CSE0001584,America,J.P. Morgan Chase
+CSE0001585,Europe,Royal Philips Electronics
+CSE0001586,Europe,Royal Bank of Scotland
+CSE0001587,America,TIAA-CREF
+CSE0001588,America,Wal-Mart Stores
+CSE0001589,America,Sears Roebuck
+CSE0001590,Southern China,Netease
+CSE0001591,America,Philip Morris
+CSE0001592,Europe,Thyssen Krupp
+CSE0001593,Europe,Renault
+CSE0001594,Southern China,Huawei
+CSE0001595,Asia,SK
+CSE0001596,America,AT&T
+CSE0001597,Northern China,Meituan
+CSE0001598,Europe,HypoVereinsbank
+CSE0001599,Europe,Deutsche Bank
+CSE0001600,Asia,Nippon Life Insurance
+CSE0001601,America,Bank of America Corp.
+CSE0001602,Eastern China,Pinduoduo
+CSE0001603,Asia,Dai-ichi Mutual Life Insurance
+CSE0001604,America,General Motors
+CSE0001605,America,Nortel Networks
+CSE0001606,Europe,BT
+CSE0001607,Europe,Repsol YPF
+CSE0001608,Europe,Royal Philips Electronics
+CSE0001609,Europe,Vivendi Universal
+CSE0001610,America,Chevron
+CSE0001611,Europe,HypoVereinsbank
+CSE0001612,Asia,Marubeni
+CSE0001613,Europe,L.M. Ericsson
+CSE0001614,Asia,Toshiba
+CSE0001615,America,Enron
+CSE0001616,Asia,Nissho Iwai
+CSE0001617,Europe,Ing Group
+CSE0001618,Northern China,Sinopec
+CSE0001619,Northern China,Baidu
+CSE0001620,Europe,Koninklijke Ahold
+CSE0001621,Southern China,China Merchants Bank
+CSE0001622,Northern China,China Petroleum
+CSE0001623,Northern China,China Petroleum
+CSE0001624,Europe,Metro
+CSE0001625,America,Merck
+CSE0001626,Asia,Nissho Iwai
+CSE0001627,Asia,Dai-ichi Mutual Life Insurance
+CSE0001628,Europe,Royal Philips Electronics
+CSE0001629,Europe,Prudential
+CSE0001630,Eastern China,Alibaba
+CSE0001631,Northern China,Agricultural Bank of China
+CSE0001632,Asia,Nippon Life Insurance
+CSE0001633,Southern China,China Merchants Bank
+CSE0001634,Northern China,Sina
+CSE0001635,America,United Parcel Service
+CSE0001636,Europe,BMW
+CSE0001637,Europe,Robert Bosch
+CSE0001638,America,AT&T
+CSE0001639,Northern China,China Petroleum
+CSE0001640,Asia,Sumitomo
+CSE0001641,America,J.C. Penney
+CSE0001642,America,WorldCom
+CSE0001643,Europe,Santander Central Hispano Group
+CSE0001644,Europe,Deutsche Bank
+CSE0001645,Asia,Marubeni
+CSE0001646,Europe,Metro
+CSE0001647,America,Bank of America Corp.
+CSE0001648,Asia,Hyundai
+CSE0001649,Asia,Toshiba
+CSE0001650,Europe,BMW
+CSE0001651,America,AT&T
+CSE0001652,Europe,CGNU
+CSE0001653,Asia,Toshiba
+CSE0001654,Northern China,Baidu
+CSE0001655,Northern China,Industrial and Commercial Bank of China
+CSE0001656,Europe,Deutsche Telekom
+CSE0001657,Asia,SK
+CSE0001658,Europe,CGNU
+CSE0001659,America,American International Group
+CSE0001660,America,Pemex
+CSE0001661,America,Motorola
+CSE0001662,Southern China,Tencent
+CSE0001663,America,Kroger
+CSE0001664,Asia,Nippon Life Insurance
+CSE0001665,America,American International Group
+CSE0001666,Europe,Nestl我忪
+CSE0001667,Northern China,Xiaomi
+CSE0001668,America,Target
+CSE0001669,America,Compaq Computer
+CSE0001670,Asia,Toshiba
+CSE0001671,America,Intl. Business Machines
+CSE0001672,Europe,Rwe Group
+CSE0001673,Europe,Royal Philips Electronics
+CSE0001674,Southern China,OPPO
+CSE0001675,Asia,Tokyo Electric Power
+CSE0001676,America,Safeway
+CSE0001677,America,Bank of America Corp.
+CSE0001678,America,Bank of America Corp.
+CSE0001679,Europe,UBS
+CSE0001680,Europe,Alcatel
+CSE0001681,America,Merck
+CSE0001682,Europe,Alcatel
+CSE0001683,America,WorldCom
+CSE0001684,Northern China,Industrial and Commercial Bank of China
+CSE0001685,Europe,Zurich Financial Services
+CSE0001686,America,USX
+CSE0001687,Asia,Sumitomo Life Insurance
+CSE0001688,America,Boeing
+CSE0001689,Europe,Royal Bank of Scotland
+CSE0001690,America,Safeway
+CSE0001691,Europe,Electricite De France
+CSE0001692,Europe,DaimlerChrysler
+CSE0001693,America,Nortel Networks
+CSE0001694,Northern China,Agricultural Bank of China
+CSE0001695,Europe,Siemens
+CSE0001696,America,Sears Roebuck
+CSE0001697,Northern China,China Electronics Technology Group Corporation
+CSE0001698,America,Lucent Technologies
+CSE0001699,Southern China,China Merchants Bank
+CSE0001700,Southern China,Ping An Insurance (Group) Company Of China
+CSE0001701,America,Hewlett-Packard
+CSE0001702,Europe,Tesco
+CSE0001703,America,Procter & Gamble
+CSE0001704,America,Dell Computer
+CSE0001705,America,Kmart
+CSE0001706,America,Kroger
+CSE0001707,America,J.C. Penney
+CSE0001708,Southern China,China Merchants Bank
+CSE0001709,Europe,Thyssen Krupp
+CSE0001710,Europe,Prudential
+CSE0001711,Europe,ENI
+CSE0001712,America,Kmart
+CSE0001713,Europe,Royal Dutch/Shell Group
+CSE0001714,America,Citigroup
+CSE0001715,Asia,Matsushita Electric Industrial
+CSE0001716,Asia,Dai-ichi Mutual Life Insurance
+CSE0001717,America,Allstate
+CSE0001718,Asia,Mitsui
+CSE0001719,Northern China,Agricultural Bank of China
+CSE0001720,America,Hewlett-Packard
+CSE0001721,America,Kroger
+CSE0001722,America,TIAA-CREF
+CSE0001723,Southern China,OPPO
+CSE0001724,America,Dell Computer
+CSE0001725,Asia,Dai-ichi Mutual Life Insurance
+CSE0001726,Northern China,Industrial and Commercial Bank of China
+CSE0001727,Europe,Alcatel
+CSE0001728,Europe,Robert Bosch
+CSE0001729,America,Costco Wholesale
+CSE0001730,America,General Electric
+CSE0001731,Europe,Assicurazioni Generali
+CSE0001732,Europe,Electricite De France
+CSE0001733,America,Ingram Micro
+CSE0001734,America,Fannie Mae
+CSE0001735,Europe,HSBC Holdings
+CSE0001736,Europe,BT
+CSE0001737,America,J.P. Morgan Chase
+CSE0001738,Europe,HypoVereinsbank
+CSE0001739,America,Berkshire Hathaway
+CSE0001740,America,Berkshire Hathaway
+CSE0001741,Northern China,Meituan
+CSE0001742,Europe,Santander Central Hispano Group
+CSE0001743,Asia,Matsushita Electric Industrial
+CSE0001744,Europe,Deutsche Post
+CSE0001745,Europe,Metro
+CSE0001746,Europe,Metro
+CSE0001747,America,Texaco
+CSE0001748,Europe,France T我忪l我忪com
+CSE0001749,Asia,Mitsubishi
+CSE0001750,America,Kroger
+CSE0001751,America,Verizon Communications
+CSE0001752,Asia,Hyundai
+CSE0001753,Europe,Deutsche Bank
+CSE0001754,America,WorldCom
+CSE0001755,Eastern China,Pinduoduo
+CSE0001756,Europe,Koninklijke Ahold
+CSE0001757,America,SBC Communications
+CSE0001758,Northern China,Bank Of China
+CSE0001759,Asia,Toshiba
+CSE0001760,Europe,Suez
+CSE0001761,Europe,L.M. Ericsson
+CSE0001762,America,E.I. du Pont de Nemours
+CSE0001763,Southern China,China Merchants Bank
+CSE0001764,America,Pemex
+CSE0001765,Northern China,China North Industries Group Corporation
+CSE0001766,America,Ingram Micro
+CSE0001767,Asia,Sumitomo Life Insurance
+CSE0001768,America,Berkshire Hathaway
+CSE0001769,America,Wal-Mart Stores
+CSE0001770,America,Target
+CSE0001771,Europe,Deutsche Bank
+CSE0001772,Asia,Dai-ichi Mutual Life Insurance
+CSE0001773,Europe,L.M. Ericsson
+CSE0001774,America,Delphi Automotive Systems
+CSE0001775,America,Albertson's
+CSE0001776,Europe,BMW
+CSE0001777,Northern China,Sinopec
+CSE0001778,Europe,Cr我忪dit Agricole
+CSE0001779,Northern China,China Construction Bank
+CSE0001780,America,J.C. Penney
+CSE0001781,Asia,Nippon Telegraph & Telephone
+CSE0001782,Southwestern China,Chengdu AIG
+CSE0001783,Europe,Renault
+CSE0001784,Europe,Prudential
+CSE0001785,Europe,HSBC Holdings
+CSE0001786,America,MetLife
+CSE0001787,America,Chevron
+CSE0001788,Europe,L.M. Ericsson
+CSE0001789,Europe,Suez
+CSE0001790,Northern China,Industrial and Commercial Bank of China
+CSE0001791,America,Bank of America Corp.
+CSE0001792,Northern China,Meituan
+CSE0001793,Europe,Ing Group
+CSE0001794,America,Hewlett-Packard
+CSE0001795,Europe,Total Fina Elf
+CSE0001796,Southern China,Ping An Insurance (Group) Company Of China
+CSE0001797,Southwestern China,Chengdu AIG
+CSE0001798,Europe,Fiat
+CSE0001799,America,TIAA-CREF
+CSE0001800,America,Enron
+CSE0001801,America,Albertson's
+CSE0001802,America,Freddie Mac
+CSE0001803,Asia,Sony
+CSE0001804,America,SBC Communications
+CSE0001805,America,Boeing
+CSE0001806,Europe,ENI
+CSE0001807,America,PDVSA
+CSE0001808,Southern China,Tencent
+CSE0001809,Europe,Ing Group
+CSE0001810,Europe,Deutsche Post
+CSE0001811,America,Boeing
+CSE0001812,America,U.S. Postal Service
+CSE0001813,Asia,Mitsui
+CSE0001814,America,Kmart
+CSE0001815,America,Dell Computer
+CSE0001816,Europe,Nestl我忪
+CSE0001817,America,Enron
+CSE0001818,America,Morgan Stanley Dean Witter
+CSE0001819,Europe,Deutsche Telekom
+CSE0001820,America,PDVSA
+CSE0001821,America,J.P. Morgan Chase
+CSE0001822,Asia,NEC
+CSE0001823,Asia,Samsung Electronics
+CSE0001824,Asia,Marubeni
+CSE0001825,Asia,Nippon Telegraph & Telephone
+CSE0001826,America,E.I. du Pont de Nemours
+CSE0001827,Northern China,Xiaomi
+CSE0001828,Europe,ABN AMRO Holding
+CSE0001829,Eastern China,Bilibili
+CSE0001830,Northern China,China Electronics Technology Group Corporation
+CSE0001831,Europe,Prudential
+CSE0001832,America,USX
+CSE0001833,America,TIAA-CREF
+CSE0001834,Eastern China,Alibaba
+CSE0001835,Europe,Robert Bosch
+CSE0001836,America,Allstate
+CSE0001837,Europe,Tesco
+CSE0001838,Asia,Tokyo Electric Power
+CSE0001839,Europe,Electricite De France
+CSE0001840,Eastern China,MiHoYo
+CSE0001841,America,Pemex
+CSE0001842,Europe,Vivendi Universal
+CSE0001843,Europe,UBS
+CSE0001844,Northern China,Sinopec
+CSE0001845,America,Merrill Lynch
+CSE0001846,Europe,Allianz
+CSE0001847,America,Goldman Sachs Group
+CSE0001848,Europe,Renault
+CSE0001849,America,USX
+CSE0001850,America,Ingram Micro
+CSE0001851,America,WorldCom
+CSE0001852,Eastern China,Pinduoduo
+CSE0001853,America,United Parcel Service
+CSE0001854,America,Kmart
+CSE0001855,Europe,Fortis
+CSE0001856,Europe,Renault
+CSE0001857,Europe,Siemens
+CSE0001858,America,Kroger
+CSE0001859,America,Enron
+CSE0001860,Northern China,Xiaomi
+CSE0001861,Northern China,China Electronics Technology Group Corporation
+CSE0001862,America,J.P. Morgan Chase
+CSE0001863,Eastern China,Alibaba
+CSE0001864,America,USX
+CSE0001865,Europe,HSBC Holdings
+CSE0001866,America,Conoco
+CSE0001867,America,Duke Energy
+CSE0001868,Europe,Royal Dutch/Shell Group
+CSE0001869,America,Dell Computer
+CSE0001870,America,United Parcel Service
+CSE0001871,America,USX
+CSE0001872,Europe,Royal Philips Electronics
+CSE0001873,Europe,Fiat
+CSE0001874,America,USX
+CSE0001875,Asia,Toshiba
+CSE0001876,Northern China,China Electronics Technology Group Corporation
+CSE0001877,Europe,Credit Suisse
+CSE0001878,Europe,Fortis
+CSE0001879,Southern China,Netease
+CSE0001880,Northern China,Xiaomi
+CSE0001881,Europe,ENI
+CSE0001882,Asia,NEC
+CSE0001883,Europe,HSBC Holdings
+CSE0001884,America,Ford Motor
+CSE0001885,America,Hewlett-Packard
+CSE0001886,America,E.I. du Pont de Nemours
+CSE0001887,Europe,Royal Philips Electronics
+CSE0001888,America,Pfizer
+CSE0001889,Europe,E. ON
+CSE0001890,America,Duke Energy
+CSE0001891,Europe,Renault
+CSE0001892,Europe,UBS
+CSE0001893,Europe,BASF
+CSE0001894,Asia,Hitachi
+CSE0001895,America,AT&T
+CSE0001896,Asia,Marubeni
+CSE0001897,America,Procter & Gamble
+CSE0001898,Europe,Cr我忪dit Agricole
+CSE0001899,Asia,Mitsubishi Motors
+CSE0001900,Europe,HypoVereinsbank
+CSE0001901,Europe,BMW
+CSE0001902,America,TIAA-CREF
+CSE0001903,Europe,Deutsche Post
+CSE0001904,Europe,Deutsche Post
+CSE0001905,America,Home Depot
+CSE0001906,Europe,DaimlerChrysler
+CSE0001907,America,Hewlett-Packard
+CSE0001908,Asia,Dai-ichi Mutual Life Insurance
+CSE0001909,Asia,Dai-ichi Mutual Life Insurance
+CSE0001910,America,Intel
+CSE0001911,America,Enron
+CSE0001912,Europe,Munich Re Group
+CSE0001913,America,Intel
+CSE0001914,America,Boeing
+CSE0001915,Southwestern China,Chengdu AIG
+CSE0001916,America,Duke Energy
+CSE0001917,America,Sears Roebuck
+CSE0001918,America,Ingram Micro
+CSE0001919,America,Merck
+CSE0001920,Europe,Total Fina Elf
+CSE0001921,America,Citigroup
+CSE0001922,America,Merck
+CSE0001923,Europe,BASF
+CSE0001924,Europe,Zurich Financial Services
+CSE0001925,America,Freddie Mac
+CSE0001926,Asia,Tokyo Electric Power
+CSE0001927,America,Philip Morris
+CSE0001928,Northern China,State Power Corporation
+CSE0001929,Northern China,China Construction Bank
+CSE0001930,America,General Electric
+CSE0001931,Europe,HypoVereinsbank
+CSE0001932,America,Exxon Mobil
+CSE0001933,Europe,AXA
+CSE0001934,Europe,HypoVereinsbank
+CSE0001935,Asia,Nippon Life Insurance
+CSE0001936,Asia,Mitsubishi Electric
+CSE0001937,America,Texaco
+CSE0001938,Europe,Ing Group
+CSE0001939,Asia,Mizuho Holdings
+CSE0001940,Asia,Nissan Motor
+CSE0001941,America,SBC Communications
+CSE0001942,America,Sears Roebuck
+CSE0001943,America,Goldman Sachs Group
+CSE0001944,America,American International Group
+CSE0001945,Europe,Suez
+CSE0001946,America,Conoco
+CSE0001947,America,Dell Computer
+CSE0001948,America,U.S. Postal Service
+CSE0001949,America,Pemex
+CSE0001950,Asia,Toyota Motor
+CSE0001951,Asia,Mitsubishi Motors
+CSE0001952,America,TIAA-CREF
+CSE0001953,Southern China,Netease
+CSE0001954,Southwestern China,Chengdu AIG
+CSE0001955,Asia,Nissho Iwai
+CSE0001956,Southern China,China Merchants Bank
+CSE0001957,Asia,Marubeni
+CSE0001958,Europe,Vivendi Universal
+CSE0001959,Europe,Robert Bosch
+CSE0001960,Europe,Alcatel
+CSE0001961,America,Pemex
+CSE0001962,America,Reliant Energy
+CSE0001963,Asia,Toyota Motor
+CSE0001964,America,Enron
+CSE0001965,Northern China,China Construction Bank
+CSE0001966,America,United Parcel Service
+CSE0001967,Europe,Volkswagen
+CSE0001968,America,Ford Motor
+CSE0001969,Europe,Deutsche Telekom
+CSE0001970,America,Nortel Networks
+CSE0001971,America,Ingram Micro
+CSE0001972,America,Goldman Sachs Group
+CSE0001973,America,Procter & Gamble
+CSE0001974,America,Lucent Technologies
+CSE0001975,Southern China,Tencent
+CSE0001976,Southern China,OPPO
+CSE0001977,America,Albertson's
+CSE0001978,Northern China,Industrial and Commercial Bank of China
+CSE0001979,Europe,Credit Suisse
+CSE0001980,America,Kroger
+CSE0001981,America,Freddie Mac
+CSE0001982,America,Wal-Mart Stores
+CSE0001983,America,Albertson's
+CSE0001984,Europe,Nestl我忪
+CSE0001985,America,E.I. du Pont de Nemours
+CSE0001986,Asia,Sony
+CSE0001987,America,U.S. Postal Service
+CSE0001988,Eastern China,Pinduoduo
+CSE0001989,Europe,HypoVereinsbank
+CSE0001990,Asia,SK
+CSE0001991,America,Nortel Networks
+CSE0001992,America,Johnson & Johnson
+CSE0001993,Europe,Tesco
+CSE0001994,America,Lucent Technologies
+CSE0001995,America,Allstate
+CSE0001996,America,E.I. du Pont de Nemours
+CSE0001997,Asia,Dai-ichi Mutual Life Insurance
+CSE0001998,America,Fannie Mae
+CSE0001999,America,Merck
+CSE0002000,America,Cardinal Health
+CSE0002001,Asia,Nippon Telegraph & Telephone
+CSE0002002,Europe,Allianz
+CSE0002003,Europe,Metro
+CSE0002004,America,Chevron
+CSE0002005,Northern China,Bank Of China
+CSE0002006,Eastern China,Alibaba
+CSE0002007,America,U.S. Postal Service
+CSE0002008,Europe,Ing Group
+CSE0002009,America,Intl. Business Machines
+CSE0002010,Europe,Royal Dutch/Shell Group
+CSE0002011,Asia,Honda Motor
+CSE0002012,Asia,Meiji Life Insurance
+CSE0002013,Europe,AXA
+CSE0002014,America,Kmart
+CSE0002015,America,PDVSA
+CSE0002016,America,Morgan Stanley Dean Witter
+CSE0002017,Asia,Marubeni
+CSE0002018,Asia,Nippon Life Insurance
+CSE0002019,America,Freddie Mac
+CSE0002020,Southwestern China,Chengdu AIG
+CSE0002021,Northern China,Baidu
+CSE0002022,Asia,Nissho Iwai
+CSE0002023,Asia,Sumitomo
+CSE0002024,Asia,Meiji Life Insurance
+CSE0002025,Eastern China,MiHoYo
+CSE0002026,Northern China,Sinopec
+CSE0002027,Europe,BNP Paribas
+CSE0002028,Europe,Metro
+CSE0002029,America,Motorola
+CSE0002030,Asia,Sumitomo Life Insurance
+CSE0002031,Asia,Sumitomo
+CSE0002032,Eastern China,MiHoYo
+CSE0002033,Southern China,Huawei
+CSE0002034,America,Morgan Stanley Dean Witter
+CSE0002035,Europe,Rwe Group
+CSE0002036,Asia,Fujitsu
+CSE0002037,Asia,Sumitomo
+CSE0002038,Europe,Tesco
+CSE0002039,America,Dynegy
+CSE0002040,Europe,Alcatel
+CSE0002041,America,Bank of America Corp.
+CSE0002042,Europe,Assicurazioni Generali
+CSE0002043,Europe,DaimlerChrysler
+CSE0002044,America,Fannie Mae
+CSE0002045,Europe,Unilever
+CSE0002046,Europe,Unilever
+CSE0002047,America,Exxon Mobil
+CSE0002048,Southern China,Huawei
+CSE0002049,Europe,Koninklijke Ahold
+CSE0002050,Europe,Renault
+CSE0002051,America,Costco Wholesale
+CSE0002052,America,Procter & Gamble
+CSE0002053,Asia,Dai-ichi Mutual Life Insurance
+CSE0002054,America,Morgan Stanley Dean Witter
+CSE0002055,Europe,Fiat
+CSE0002056,Southern China,Ping An Insurance (Group) Company Of China
+CSE0002057,Europe,Prudential
+CSE0002058,Asia,Meiji Life Insurance
+CSE0002059,Europe,HypoVereinsbank
+CSE0002060,Europe,Credit Suisse
+CSE0002061,Northern China,China Petroleum
+CSE0002062,America,Fannie Mae
+CSE0002063,Northern China,Baidu
+CSE0002064,Northern China,Xiaomi
+CSE0002065,Asia,Toshiba
+CSE0002066,Europe,Robert Bosch
+CSE0002067,Northern China,China Electronics Technology Group Corporation
+CSE0002068,America,Duke Energy
+CSE0002069,Asia,Mitsubishi Electric
+CSE0002070,America,MetLife
+CSE0002071,America,Home Depot
+CSE0002072,Asia,Marubeni
+CSE0002073,Eastern China,Pinduoduo
+CSE0002074,America,Delphi Automotive Systems
+CSE0002075,Europe,Deutsche Bank
+CSE0002076,Northern China,Baidu
+CSE0002077,Europe,France T我忪l我忪com
+CSE0002078,America,Cardinal Health
+CSE0002079,Europe,Robert Bosch
+CSE0002080,America,Kroger
+CSE0002081,Southern China,OPPO
+CSE0002082,Northern China,China North Industries Group Corporation
+CSE0002083,Asia,Honda Motor
+CSE0002084,Europe,E. ON
+CSE0002085,Southwestern China,Chengdu AIG
+CSE0002086,America,SBC Communications
+CSE0002087,Asia,Hitachi
+CSE0002088,Northern China,Sinopec
+CSE0002089,Europe,Unilever
+CSE0002090,Northern China,Xiaomi
+CSE0002091,America,Conoco
+CSE0002092,America,Nortel Networks
+CSE0002093,America,Enron
+CSE0002094,Northern China,Sina
+CSE0002095,Europe,HSBC Holdings
+CSE0002096,America,Berkshire Hathaway
+CSE0002097,Europe,Tesco
+CSE0002098,Europe,Deutsche Bank
+CSE0002099,Europe,Repsol YPF
+CSE0002100,America,Allstate
+CSE0002101,America,Johnson & Johnson
+CSE0002102,Europe,Thyssen Krupp
+CSE0002103,America,Nortel Networks
+CSE0002104,America,Dynegy
+CSE0002105,America,Merrill Lynch
+CSE0002106,Asia,Toshiba
+CSE0002107,America,AT&T
+CSE0002108,Europe,Volkswagen
+CSE0002109,America,SBC Communications
+CSE0002110,America,Freddie Mac
+CSE0002111,Europe,Tesco
+CSE0002112,Northern China,State Power Corporation
+CSE0002113,Southern China,Tencent
+CSE0002114,Europe,DaimlerChrysler
+CSE0002115,Europe,Deutsche Post
+CSE0002116,Southwestern China,Chengdu AIG
+CSE0002117,America,Citigroup
+CSE0002118,Asia,Itochu
+CSE0002119,America,MetLife
+CSE0002120,America,General Electric
+CSE0002121,Southern China,China Merchants Bank
+CSE0002122,America,Home Depot
+CSE0002123,America,Home Depot
+CSE0002124,Asia,Honda Motor
+CSE0002125,Eastern China,Pinduoduo
+CSE0002126,Northern China,Xiaomi
+CSE0002127,America,USX
+CSE0002128,Asia,Fujitsu
+CSE0002129,Southern China,Tencent
+CSE0002130,Europe,France T我忪l我忪com
+CSE0002131,Europe,UBS
+CSE0002132,America,American International Group
+CSE0002133,Europe,Renault
+CSE0002134,Southern China,China Merchants Bank
+CSE0002135,Europe,UBS
+CSE0002136,America,Verizon Communications
+CSE0002137,Asia,Itochu
+CSE0002138,Asia,Mitsubishi Electric
+CSE0002139,America,Procter & Gamble
+CSE0002140,Europe,ABN AMRO Holding
+CSE0002141,Northern China,China Petroleum
+CSE0002142,Northern China,Bank Of China
+CSE0002143,America,McKesson HBOC
+CSE0002144,America,Goldman Sachs Group
+CSE0002145,Asia,Meiji Life Insurance
+CSE0002146,Asia,Nissan Motor
+CSE0002147,Asia,NEC
+CSE0002148,America,Procter & Gamble
+CSE0002149,America,WorldCom
+CSE0002150,Eastern China,Alibaba
+CSE0002151,Northern China,Bank Of China
+CSE0002152,Europe,Unilever
+CSE0002153,America,SBC Communications
+CSE0002154,Europe,Volkswagen
+CSE0002155,Asia,Nissho Iwai
+CSE0002156,America,Target
+CSE0002157,Asia,Mitsubishi
+CSE0002158,Asia,Honda Motor
+CSE0002159,Europe,France T我忪l我忪com
+CSE0002160,America,Nortel Networks
+CSE0002161,America,Dynegy
+CSE0002162,Asia,Matsushita Electric Industrial
+CSE0002163,Europe,UBS
+CSE0002164,America,J.P. Morgan Chase
+CSE0002165,America,Costco Wholesale
+CSE0002166,Asia,Tokyo Electric Power
+CSE0002167,America,Fannie Mae
+CSE0002168,Europe,Volkswagen
+CSE0002169,Europe,BP
+CSE0002170,Europe,Zurich Financial Services
+CSE0002171,Southern China,China Merchants Bank
+CSE0002172,Europe,HSBC Holdings
+CSE0002173,America,MetLife
+CSE0002174,America,WorldCom
+CSE0002175,America,McKesson HBOC
+CSE0002176,America,Bank of America Corp.
+CSE0002177,Europe,Fortis
+CSE0002178,Europe,Volkswagen
+CSE0002179,America,Home Depot
+CSE0002180,America,Ingram Micro
+CSE0002181,Eastern China,Bilibili
+CSE0002182,America,Conoco
+CSE0002183,Europe,Deutsche Bank
+CSE0002184,America,Texaco
+CSE0002185,Asia,SK
+CSE0002186,Europe,Renault
+CSE0002187,Europe,Deutsche Post
+CSE0002188,Europe,Thyssen Krupp
+CSE0002189,America,Johnson & Johnson
+CSE0002190,America,Duke Energy
+CSE0002191,Asia,Mitsui
+CSE0002192,America,Kroger
+CSE0002193,Europe,BNP Paribas
+CSE0002194,Asia,Nissan Motor
+CSE0002195,America,Albertson's
+CSE0002196,America,Johnson & Johnson
+CSE0002197,America,Motorola
+CSE0002198,America,General Motors
+CSE0002199,Southern China,Ping An Insurance (Group) Company Of China
+CSE0002200,America,United Parcel Service
+CSE0002201,Europe,Repsol YPF
+CSE0002202,America,Pfizer
+CSE0002203,Asia,Marubeni
+CSE0002204,America,Home Depot
+CSE0002205,Southern China,Ping An Insurance (Group) Company Of China
+CSE0002206,Europe,Deutsche Telekom
+CSE0002207,Europe,L.M. Ericsson
+CSE0002208,Europe,Siemens
+CSE0002209,Asia,Nippon Life Insurance
+CSE0002210,Europe,Cr我忪dit Agricole
+CSE0002211,Europe,Volkswagen
+CSE0002212,Europe,Metro
+CSE0002213,Europe,BMW
+CSE0002214,Europe,Prudential
+CSE0002215,America,Kmart
+CSE0002216,Asia,Meiji Life Insurance
+CSE0002217,America,Intl. Business Machines
+CSE0002218,America,Nortel Networks
+CSE0002219,America,Allstate
+CSE0002220,Europe,Thyssen Krupp
+CSE0002221,America,Motorola
+CSE0002222,Europe,Assicurazioni Generali
+CSE0002223,America,Target
+CSE0002224,America,USX
+CSE0002225,America,Goldman Sachs Group
+CSE0002226,Northern China,Bank Of China
+CSE0002227,Europe,ABN AMRO Holding
+CSE0002228,Asia,Hyundai
+CSE0002229,Europe,CGNU
+CSE0002230,Asia,Nissho Iwai
+CSE0002231,America,Intl. Business Machines
+CSE0002232,America,Ingram Micro
+CSE0002233,Asia,Marubeni
+CSE0002234,Asia,Toyota Motor
+CSE0002235,America,Ford Motor
+CSE0002236,Europe,Electricite De France
+CSE0002237,Asia,Mizuho Holdings
+CSE0002238,Europe,Royal Bank of Scotland
+CSE0002239,Europe,Peugeot
+CSE0002240,Northern China,China Petroleum
+CSE0002241,Asia,Meiji Life Insurance
+CSE0002242,Europe,Total Fina Elf
+CSE0002243,Europe,Siemens
+CSE0002244,America,Dynegy
+CSE0002245,Europe,BNP Paribas
+CSE0002246,Europe,Koninklijke Ahold
+CSE0002247,America,Morgan Stanley Dean Witter
+CSE0002248,Europe,Deutsche Bank
+CSE0002249,America,Pemex
+CSE0002250,Europe,ABN AMRO Holding
+CSE0002251,Europe,Siemens
+CSE0002252,Europe,Royal Bank of Scotland
+CSE0002253,Europe,Nestl我忪
+CSE0002254,America,Citigroup
+CSE0002255,Asia,Sumitomo
+CSE0002256,America,Dynegy
+CSE0002257,Asia,Hitachi
+CSE0002258,Europe,BNP Paribas
+CSE0002259,Europe,Rwe Group
+CSE0002260,Europe,Siemens
+CSE0002261,America,Johnson & Johnson
+CSE0002262,Northern China,Industrial and Commercial Bank of China
+CSE0002263,America,Johnson & Johnson
+CSE0002264,Europe,Total Fina Elf
+CSE0002265,Asia,Sumitomo Life Insurance
+CSE0002266,Europe,BMW
+CSE0002267,America,Freddie Mac
+CSE0002268,America,Target
+CSE0002269,Europe,DaimlerChrysler
+CSE0002270,America,Intl. Business Machines
+CSE0002271,Europe,Cr我忪dit Agricole
+CSE0002272,America,TIAA-CREF
+CSE0002273,Asia,Samsung Electronics
+CSE0002274,America,J.C. Penney
+CSE0002275,Europe,CGNU
+CSE0002276,Asia,Sumitomo Life Insurance
+CSE0002277,America,Merck
+CSE0002278,America,Safeway
+CSE0002279,Europe,BMW
+CSE0002280,America,Citigroup
+CSE0002281,Southern China,Ping An Insurance (Group) Company Of China
+CSE0002282,Asia,Mizuho Holdings
+CSE0002283,Asia,Nippon Life Insurance
+CSE0002284,Europe,Total Fina Elf
+CSE0002285,Europe,Deutsche Bank
+CSE0002286,Europe,Renault
+CSE0002287,America,Intel
+CSE0002288,America,Dynegy
+CSE0002289,Southern China,Huawei
+CSE0002290,Europe,Rwe Group
+CSE0002291,Eastern China,MiHoYo
+CSE0002292,America,Verizon Communications
+CSE0002293,Europe,Volkswagen
+CSE0002294,Europe,ABN AMRO Holding
+CSE0002295,Eastern China,MiHoYo
+CSE0002296,Asia,Sony
+CSE0002297,America,Conoco
+CSE0002298,Europe,ABN AMRO Holding
+CSE0002299,America,United Parcel Service
+CSE0002300,Europe,Prudential
+CSE0002301,Europe,Prudential
+CSE0002302,Asia,Sumitomo Life Insurance
+CSE0002303,America,J.C. Penney
+CSE0002304,Asia,Meiji Life Insurance
+CSE0002305,Southern China,Huawei
+CSE0002306,Europe,Assicurazioni Generali
+CSE0002307,America,Duke Energy
+CSE0002308,Europe,Alcatel
+CSE0002309,Europe,Peugeot
+CSE0002310,America,U.S. Postal Service
+CSE0002311,America,Enron
+CSE0002312,America,Intl. Business Machines
+CSE0002313,Northern China,Sinopec
+CSE0002314,Europe,Credit Suisse
+CSE0002315,Eastern China,Pinduoduo
+CSE0002316,America,Freddie Mac
+CSE0002317,Europe,Repsol YPF
+CSE0002318,America,Dell Computer
+CSE0002319,Asia,Toshiba
+CSE0002320,Europe,Volkswagen
+CSE0002321,Europe,Peugeot
+CSE0002322,Northern China,China Construction Bank
+CSE0002323,Eastern China,Bilibili
+CSE0002324,America,Pemex
+CSE0002325,America,J.P. Morgan Chase
+CSE0002326,America,Dell Computer
+CSE0002327,America,Exxon Mobil
+CSE0002328,Asia,Mitsui
+CSE0002329,Asia,Sumitomo Life Insurance
+CSE0002330,America,Kmart
+CSE0002331,America,Texaco
+CSE0002332,Northern China,China Petroleum
+CSE0002333,America,Procter & Gamble
+CSE0002334,Europe,Tesco
+CSE0002335,Europe,Total Fina Elf
+CSE0002336,Northern China,China Construction Bank
+CSE0002337,Europe,Peugeot
+CSE0002338,America,Motorola
+CSE0002339,America,Home Depot
+CSE0002340,America,J.P. Morgan Chase
+CSE0002341,Asia,Mitsubishi
+CSE0002342,America,Morgan Stanley Dean Witter
+CSE0002343,America,Target
+CSE0002344,Asia,Toyota Motor
+CSE0002345,Northern China,China Electronics Technology Group Corporation
+CSE0002346,Asia,Samsung
+CSE0002347,Asia,Honda Motor
+CSE0002348,Eastern China,Bilibili
+CSE0002349,America,SBC Communications
+CSE0002350,Europe,Total Fina Elf
+CSE0002351,Northern China,Baidu
+CSE0002352,America,Allstate
+CSE0002353,Asia,NEC
+CSE0002354,America,McKesson HBOC
+CSE0002355,Europe,Royal Bank of Scotland
+CSE0002356,Europe,Rwe Group
+CSE0002357,America,MetLife
+CSE0002358,Europe,Thyssen Krupp
+CSE0002359,Northern China,Industrial and Commercial Bank of China
+CSE0002360,Asia,Fujitsu
+CSE0002361,Asia,Matsushita Electric Industrial
+CSE0002362,Europe,Metro
+CSE0002363,Asia,Sumitomo Life Insurance
+CSE0002364,Europe,Total Fina Elf
+CSE0002365,Northern China,State Power Corporation
+CSE0002366,Europe,Allianz
+CSE0002367,Europe,BNP Paribas
+CSE0002368,Eastern China,MiHoYo
+CSE0002369,Europe,Rwe Group
+CSE0002370,Eastern China,Alibaba
+CSE0002371,America,Dynegy
+CSE0002372,Europe,Siemens
+CSE0002373,America,PDVSA
+CSE0002374,Southwestern China,Chengdu AIG
+CSE0002375,America,American International Group
+CSE0002376,Europe,Siemens
+CSE0002377,Asia,Hitachi
+CSE0002378,America,Fannie Mae
+CSE0002379,Asia,Sumitomo
+CSE0002380,America,Pfizer
+CSE0002381,America,Procter & Gamble
+CSE0002382,Europe,France T我忪l我忪com
+CSE0002383,America,Citigroup
+CSE0002384,Northern China,Baidu
+CSE0002385,Northern China,China Petroleum
+CSE0002386,America,Texaco
+CSE0002387,America,U.S. Postal Service
+CSE0002388,America,Nortel Networks
+CSE0002389,America,Boeing
+CSE0002390,Asia,Tokyo Electric Power
+CSE0002391,Eastern China,MiHoYo
+CSE0002392,Europe,BMW
+CSE0002393,Northern China,Bank Of China
+CSE0002394,America,Verizon Communications
+CSE0002395,America,Merck
+CSE0002396,America,Verizon Communications
+CSE0002397,Asia,Nissan Motor
+CSE0002398,Europe,Unilever
+CSE0002399,America,SBC Communications
+CSE0002400,Asia,Dai-ichi Mutual Life Insurance
+CSE0002401,Eastern China,Bilibili
+CSE0002402,America,Texaco
+CSE0002403,Europe,Total Fina Elf
+CSE0002404,America,Target
+CSE0002405,Northern China,Sina
+CSE0002406,Europe,BP
+CSE0002407,Southern China,OPPO
+CSE0002408,America,Nortel Networks
+CSE0002409,Asia,Nissho Iwai
+CSE0002410,Europe,HSBC Holdings
+CSE0002411,Europe,Renault
+CSE0002412,America,Fannie Mae
+CSE0002413,Southern China,OPPO
+CSE0002414,Europe,Metro
+CSE0002415,Asia,Mitsubishi Electric
+CSE0002416,Europe,Total Fina Elf
+CSE0002417,America,Delphi Automotive Systems
+CSE0002418,Europe,Robert Bosch
+CSE0002419,Europe,Allianz
+CSE0002420,Asia,Sumitomo
+CSE0002421,Northern China,China Petroleum
+CSE0002422,America,AT&T
+CSE0002423,America,Motorola
+CSE0002424,Asia,Samsung
+CSE0002425,Europe,Repsol YPF
+CSE0002426,Europe,ENI
+CSE0002427,Europe,Credit Suisse
+CSE0002428,Europe,Alcatel
+CSE0002429,Eastern China,Pinduoduo
+CSE0002430,Asia,Mitsubishi
+CSE0002431,Europe,Robert Bosch
+CSE0002432,Asia,Itochu
+CSE0002433,America,Bank of America Corp.
+CSE0002434,Asia,NEC
+CSE0002435,America,General Electric
+CSE0002436,Northern China,China Petroleum
+CSE0002437,Europe,BP
+CSE0002438,Europe,E. ON
+CSE0002439,Asia,Samsung Electronics
+CSE0002440,Asia,Dai-ichi Mutual Life Insurance
+CSE0002441,Northern China,Sinopec
+CSE0002442,Northern China,Agricultural Bank of China
+CSE0002443,Asia,Meiji Life Insurance
+CSE0002444,America,J.P. Morgan Chase
+CSE0002445,Europe,Royal Dutch/Shell Group
+CSE0002446,America,Nortel Networks
+CSE0002447,America,Conoco
+CSE0002448,Northern China,Xiaomi
+CSE0002449,America,McKesson HBOC
+CSE0002450,Eastern China,Bilibili
+CSE0002451,America,Pfizer
+CSE0002452,Asia,Marubeni
+CSE0002453,Europe,Vivendi Universal
+CSE0002454,Europe,Deutsche Telekom
+CSE0002455,America,USX
+CSE0002456,America,Dell Computer
+CSE0002457,Northern China,Xiaomi
+CSE0002458,Asia,Nissho Iwai
+CSE0002459,Europe,DaimlerChrysler
+CSE0002460,Europe,Royal Philips Electronics
+CSE0002461,Europe,Repsol YPF
+CSE0002462,Europe,Renault
+CSE0002463,Northern China,State Power Corporation
+CSE0002464,Northern China,China North Industries Group Corporation
+CSE0002465,America,Verizon Communications
+CSE0002466,Asia,Mitsubishi
+CSE0002467,America,J.P. Morgan Chase
+CSE0002468,America,Johnson & Johnson
+CSE0002469,Eastern China,Alibaba
+CSE0002470,America,Safeway
+CSE0002471,Europe,Nestl我忪
+CSE0002472,Asia,Fujitsu
+CSE0002473,America,Intl. Business Machines
+CSE0002474,Europe,Assicurazioni Generali
+CSE0002475,America,U.S. Postal Service
+CSE0002476,America,Delphi Automotive Systems
+CSE0002477,Europe,Fortis
+CSE0002478,Northern China,Sinopec
+CSE0002479,America,Pemex
+CSE0002480,America,MetLife
+CSE0002481,America,Pemex
+CSE0002482,Europe,HypoVereinsbank
+CSE0002483,America,Hewlett-Packard
+CSE0002484,America,Enron
+CSE0002485,America,Reliant Energy
+CSE0002486,Asia,Samsung Electronics
+CSE0002487,Eastern China,Pinduoduo
+CSE0002488,America,Safeway
+CSE0002489,Europe,Cr我忪dit Agricole
+CSE0002490,America,Philip Morris
+CSE0002491,America,Wal-Mart Stores
+CSE0002492,Europe,Renault
+CSE0002493,America,Berkshire Hathaway
+CSE0002494,America,Intl. Business Machines
+CSE0002495,America,Philip Morris
+CSE0002496,Europe,Santander Central Hispano Group
+CSE0002497,Asia,Samsung
+CSE0002498,Europe,Siemens
+CSE0002499,Europe,Electricite De France
+CSE0002500,Eastern China,Alibaba
+CSE0002501,Europe,Vivendi Universal
+CSE0002502,America,State Farm Insurance Cos.
+CSE0002503,Europe,Vivendi Universal
+CSE0002504,Southern China,Netease
+CSE0002505,America,Chevron
+CSE0002506,America,J.P. Morgan Chase
+CSE0002507,America,Allstate
+CSE0002508,Europe,Santander Central Hispano Group
+CSE0002509,Southern China,Huawei
+CSE0002510,Europe,HypoVereinsbank
+CSE0002511,Asia,Nippon Life Insurance
+CSE0002512,Asia,Sumitomo
+CSE0002513,America,Delphi Automotive Systems
+CSE0002514,America,J.C. Penney
+CSE0002515,Asia,Toyota Motor
+CSE0002516,Europe,Deutsche Bank
+CSE0002517,America,Dell Computer
+CSE0002518,Europe,Electricite De France
+CSE0002519,America,Texaco
+CSE0002520,Southern China,OPPO
+CSE0002521,America,Berkshire Hathaway
+CSE0002522,Northern China,Sina
+CSE0002523,America,J.C. Penney
+CSE0002524,America,WorldCom
+CSE0002525,Northern China,Sina
+CSE0002526,Asia,Dai-ichi Mutual Life Insurance
+CSE0002527,Asia,Toyota Motor
+CSE0002528,America,Sears Roebuck
+CSE0002529,America,Intl. Business Machines
+CSE0002530,America,Dell Computer
+CSE0002531,Europe,Peugeot
+CSE0002532,Europe,E. ON
+CSE0002533,Asia,Toyota Motor
+CSE0002534,Europe,Robert Bosch
+CSE0002535,Europe,Metro
+CSE0002536,Asia,Fujitsu
+CSE0002537,Asia,Itochu
+CSE0002538,America,United Parcel Service
+CSE0002539,America,Delphi Automotive Systems
+CSE0002540,Asia,Itochu
+CSE0002541,Europe,AXA
+CSE0002542,Europe,BT
+CSE0002543,America,Dynegy
+CSE0002544,Europe,Royal Philips Electronics
+CSE0002545,Europe,Allianz
+CSE0002546,America,Verizon Communications
+CSE0002547,Asia,Honda Motor
+CSE0002548,Eastern China,MiHoYo
+CSE0002549,Europe,CGNU
+CSE0002550,Northern China,China Construction Bank
+CSE0002551,America,J.P. Morgan Chase
+CSE0002552,Europe,Allianz
+CSE0002553,Asia,Marubeni
+CSE0002554,Eastern China,MiHoYo
+CSE0002555,Asia,Fujitsu
+CSE0002556,Northern China,China Petroleum
+CSE0002557,Southern China,Huawei
+CSE0002558,America,PDVSA
+CSE0002559,America,Compaq Computer
+CSE0002560,America,Texaco
+CSE0002561,Europe,Robert Bosch
+CSE0002562,America,Duke Energy
+CSE0002563,Europe,Electricite De France
+CSE0002564,Asia,Sumitomo
+CSE0002565,America,AT&T
+CSE0002566,Europe,Rwe Group
+CSE0002567,Europe,Royal Bank of Scotland
+CSE0002568,Europe,BT
+CSE0002569,America,Reliant Energy
+CSE0002570,Eastern China,Pinduoduo
+CSE0002571,America,American International Group
+CSE0002572,Northern China,China Petroleum
+CSE0002573,America,Albertson's
+CSE0002574,Northern China,China Construction Bank
+CSE0002575,Europe,UBS
+CSE0002576,America,SBC Communications
+CSE0002577,Europe,Volkswagen
+CSE0002578,America,Reliant Energy
+CSE0002579,America,USX
+CSE0002580,Southern China,Huawei
+CSE0002581,Europe,Deutsche Bank
+CSE0002582,Asia,Samsung Electronics
+CSE0002583,Asia,Matsushita Electric Industrial
+CSE0002584,Asia,Meiji Life Insurance
+CSE0002585,Asia,Fujitsu
+CSE0002586,Asia,Marubeni
+CSE0002587,Asia,Samsung Electronics
+CSE0002588,Europe,Cr我忪dit Agricole
+CSE0002589,Europe,Santander Central Hispano Group
+CSE0002590,Asia,SK
+CSE0002591,Europe,Thyssen Krupp
+CSE0002592,Asia,Nissho Iwai
+CSE0002593,America,Wal-Mart Stores
+CSE0002594,Europe,ENI
+CSE0002595,Northern China,Agricultural Bank of China
+CSE0002596,Northern China,Agricultural Bank of China
+CSE0002597,America,Allstate
+CSE0002598,America,Ford Motor
+CSE0002599,Northern China,Agricultural Bank of China
+CSE0002600,Europe,Allianz
+CSE0002601,Asia,Matsushita Electric Industrial
+CSE0002602,America,Motorola
+CSE0002603,Asia,Fujitsu
+CSE0002604,Eastern China,Bilibili
+CSE0002605,Asia,Fujitsu
+CSE0002606,Europe,HypoVereinsbank
+CSE0002607,Europe,Allianz
+CSE0002608,Europe,Deutsche Telekom
+CSE0002609,Europe,Vivendi Universal
+CSE0002610,Northern China,Sina
+CSE0002611,Europe,Vivendi Universal
+CSE0002612,Europe,Zurich Financial Services
+CSE0002613,Southern China,Tencent
+CSE0002614,Europe,Fiat
+CSE0002615,Europe,L.M. Ericsson
+CSE0002616,America,Enron
+CSE0002617,Asia,Sumitomo
+CSE0002618,America,Ford Motor
+CSE0002619,Europe,Rwe Group
+CSE0002620,Asia,Dai-ichi Mutual Life Insurance
+CSE0002621,Europe,Assicurazioni Generali
+CSE0002622,Southwestern China,Chengdu AIG
+CSE0002623,Europe,Credit Suisse
+CSE0002624,America,Verizon Communications
+CSE0002625,America,Compaq Computer
+CSE0002626,Asia,Sumitomo
+CSE0002627,Europe,Fortis
+CSE0002628,America,American International Group
+CSE0002629,America,Ford Motor
+CSE0002630,Southern China,OPPO
+CSE0002631,Europe,DaimlerChrysler
+CSE0002632,America,USX
+CSE0002633,America,Berkshire Hathaway
+CSE0002634,Europe,Zurich Financial Services
+CSE0002635,Southern China,Netease
+CSE0002636,Europe,Tesco
+CSE0002637,America,Pemex
+CSE0002638,Asia,Fujitsu
+CSE0002639,Europe,UBS
+CSE0002640,Asia,Nippon Life Insurance
+CSE0002641,Europe,ABN AMRO Holding
+CSE0002642,Europe,Deutsche Post
+CSE0002643,Europe,DaimlerChrysler
+CSE0002644,Southern China,OPPO
+CSE0002645,Europe,Allianz
+CSE0002646,Asia,Hitachi
+CSE0002647,Europe,BNP Paribas
+CSE0002648,America,PDVSA
+CSE0002649,America,Compaq Computer
+CSE0002650,Europe,Allianz
+CSE0002651,Asia,Matsushita Electric Industrial
+CSE0002652,America,Merck
+CSE0002653,Northern China,China Petroleum
+CSE0002654,Europe,BASF
+CSE0002655,Asia,Dai-ichi Mutual Life Insurance
+CSE0002656,Europe,Munich Re Group
+CSE0002657,America,Nortel Networks
+CSE0002658,Asia,Nippon Life Insurance
+CSE0002659,Asia,Nippon Life Insurance
+CSE0002660,Europe,Renault
+CSE0002661,Europe,ENI
+CSE0002662,America,American International Group
+CSE0002663,Europe,Cr我忪dit Agricole
+CSE0002664,Asia,Samsung
+CSE0002665,Europe,UBS
+CSE0002666,Asia,Meiji Life Insurance
+CSE0002667,Europe,Repsol YPF
+CSE0002668,America,Citigroup
+CSE0002669,America,WorldCom
+CSE0002670,Asia,Hitachi
+CSE0002671,Northern China,China North Industries Group Corporation
+CSE0002672,Europe,L.M. Ericsson
+CSE0002673,Asia,NEC
+CSE0002674,America,Cardinal Health
+CSE0002675,Europe,BT
+CSE0002676,Europe,Total Fina Elf
+CSE0002677,Asia,Mitsui
+CSE0002678,America,Freddie Mac
+CSE0002679,Asia,Samsung
+CSE0002680,Asia,Sumitomo
+CSE0002681,America,Duke Energy
+CSE0002682,America,Lucent Technologies
+CSE0002683,Europe,Repsol YPF
+CSE0002684,America,PDVSA
+CSE0002685,America,Citigroup
+CSE0002686,America,General Electric
+CSE0002687,Europe,Royal Bank of Scotland
+CSE0002688,Asia,Toyota Motor
+CSE0002689,America,Safeway
+CSE0002690,America,E.I. du Pont de Nemours
+CSE0002691,Europe,Suez
+CSE0002692,Northern China,Industrial and Commercial Bank of China
+CSE0002693,America,WorldCom
+CSE0002694,Asia,Hyundai
+CSE0002695,America,Chevron
+CSE0002696,Northern China,China Electronics Technology Group Corporation
+CSE0002697,Europe,Cr我忪dit Agricole
+CSE0002698,Asia,Meiji Life Insurance
+CSE0002699,Asia,Mitsubishi Motors
+CSE0002700,Europe,Fortis
+CSE0002701,Europe,Ing Group
+CSE0002702,Asia,Mitsui
+CSE0002703,America,Intel
+CSE0002704,Asia,Mitsubishi
+CSE0002705,Europe,E. ON
+CSE0002706,Asia,Fujitsu
+CSE0002707,Europe,Munich Re Group
+CSE0002708,Asia,Hyundai
+CSE0002709,Asia,Hyundai
+CSE0002710,America,Goldman Sachs Group
+CSE0002711,America,Citigroup
+CSE0002712,Northern China,Sinopec
+CSE0002713,America,Delphi Automotive Systems
+CSE0002714,Asia,Mizuho Holdings
+CSE0002715,America,Lucent Technologies
+CSE0002716,Europe,Royal Bank of Scotland
+CSE0002717,Southern China,China Merchants Bank
+CSE0002718,America,Citigroup
+CSE0002719,Europe,France T我忪l我忪com
+CSE0002720,America,Enron
+CSE0002721,Europe,Royal Bank of Scotland
+CSE0002722,America,Procter & Gamble
+CSE0002723,Southern China,Tencent
+CSE0002724,Northern China,Sinopec
+CSE0002725,Northern China,Industrial and Commercial Bank of China
+CSE0002726,Europe,Munich Re Group
+CSE0002727,Europe,L.M. Ericsson
+CSE0002728,America,Goldman Sachs Group
+CSE0002729,America,Motorola
+CSE0002730,Northern China,Baidu
+CSE0002731,Asia,NEC
+CSE0002732,Asia,Honda Motor
+CSE0002733,America,SBC Communications
+CSE0002734,Europe,Santander Central Hispano Group
+CSE0002735,Asia,Toyota Motor
+CSE0002736,Asia,Nissho Iwai
+CSE0002737,America,Hewlett-Packard
+CSE0002738,America,Procter & Gamble
+CSE0002739,America,Exxon Mobil
+CSE0002740,America,Kroger
+CSE0002741,Southwestern China,Chengdu AIG
+CSE0002742,Northern China,China Petroleum
+CSE0002743,Asia,Tokyo Electric Power
+CSE0002744,Southwestern China,Chengdu AIG
+CSE0002745,America,Pfizer
+CSE0002746,America,Hewlett-Packard
+CSE0002747,America,Exxon Mobil
+CSE0002748,Europe,L.M. Ericsson
+CSE0002749,America,Intl. Business Machines
+CSE0002750,America,PDVSA
+CSE0002751,Europe,Deutsche Bank
+CSE0002752,Europe,Royal Dutch/Shell Group
+CSE0002753,Europe,L.M. Ericsson
+CSE0002754,Northern China,Baidu
+CSE0002755,America,American International Group
+CSE0002756,America,Merck
+CSE0002757,Europe,Alcatel
+CSE0002758,America,AT&T
+CSE0002759,Asia,Nissho Iwai
+CSE0002760,Northern China,Meituan
+CSE0002761,Eastern China,Alibaba
+CSE0002762,America,Lucent Technologies
+CSE0002763,Europe,Thyssen Krupp
+CSE0002764,America,Ford Motor
+CSE0002765,America,Freddie Mac
+CSE0002766,Europe,Metro
+CSE0002767,Europe,Volkswagen
+CSE0002768,America,Citigroup
+CSE0002769,Europe,Total Fina Elf
+CSE0002770,America,MetLife
+CSE0002771,America,Verizon Communications
+CSE0002772,Europe,DaimlerChrysler
+CSE0002773,America,PDVSA
+CSE0002774,Southwestern China,Chengdu AIG
+CSE0002775,America,Morgan Stanley Dean Witter
+CSE0002776,Asia,Tokyo Electric Power
+CSE0002777,America,Target
+CSE0002778,America,SBC Communications
+CSE0002779,America,Target
+CSE0002780,America,Morgan Stanley Dean Witter
+CSE0002781,Asia,Samsung Electronics
+CSE0002782,Europe,Deutsche Bank
+CSE0002783,America,Chevron
+CSE0002784,America,Intel
+CSE0002785,Europe,Allianz
+CSE0002786,America,Nortel Networks
+CSE0002787,Asia,Fujitsu
+CSE0002788,America,Exxon Mobil
+CSE0002789,Northern China,China Electronics Technology Group Corporation
+CSE0002790,Europe,Royal Bank of Scotland
+CSE0002791,America,WorldCom
+CSE0002792,America,Delphi Automotive Systems
+CSE0002793,Europe,Thyssen Krupp
+CSE0002794,Northern China,Industrial and Commercial Bank of China
+CSE0002795,America,PDVSA
+CSE0002796,Southern China,Netease
+CSE0002797,Europe,Unilever
+CSE0002798,Asia,Mitsubishi
+CSE0002799,Europe,Electricite De France
+CSE0002800,America,Compaq Computer
+CSE0002801,Asia,Fujitsu
+CSE0002802,America,United Parcel Service
+CSE0002803,Northern China,China North Industries Group Corporation
+CSE0002804,Southern China,Huawei
+CSE0002805,Europe,Alcatel
+CSE0002806,Europe,France T我忪l我忪com
+CSE0002807,America,U.S. Postal Service
+CSE0002808,Europe,Rwe Group
+CSE0002809,America,Procter & Gamble
+CSE0002810,America,Merck
+CSE0002811,Northern China,China Construction Bank
+CSE0002812,America,Ingram Micro
+CSE0002813,Southern China,Tencent
+CSE0002814,America,MetLife
+CSE0002815,America,J.P. Morgan Chase
+CSE0002816,Asia,Mitsui
+CSE0002817,America,State Farm Insurance Cos.
+CSE0002818,Europe,Siemens
+CSE0002819,Asia,Mitsubishi Electric
+CSE0002820,America,Delphi Automotive Systems
+CSE0002821,Northern China,Bank Of China
+CSE0002822,Europe,Credit Suisse
+CSE0002823,Europe,Unilever
+CSE0002824,Asia,Nippon Telegraph & Telephone
+CSE0002825,America,Home Depot
+CSE0002826,America,Albertson's
+CSE0002827,Northern China,China Construction Bank
+CSE0002828,Northern China,Baidu
+CSE0002829,Asia,Sumitomo
+CSE0002830,America,Merck
+CSE0002831,Europe,Royal Bank of Scotland
+CSE0002832,America,General Electric
+CSE0002833,Europe,Peugeot
+CSE0002834,America,Chevron
+CSE0002835,Asia,SK
+CSE0002836,Asia,Fujitsu
+CSE0002837,Asia,Sumitomo Life Insurance
+CSE0002838,America,J.C. Penney
+CSE0002839,Europe,Credit Suisse
+CSE0002840,Europe,Tesco
+CSE0002841,Europe,HypoVereinsbank
+CSE0002842,Northern China,Sina
+CSE0002843,Europe,Allianz
+CSE0002844,Asia,Samsung
+CSE0002845,America,Pfizer
+CSE0002846,America,General Motors
+CSE0002847,Asia,Toshiba
+CSE0002848,Europe,L.M. Ericsson
+CSE0002849,Southern China,Ping An Insurance (Group) Company Of China
+CSE0002850,Europe,DaimlerChrysler
+CSE0002851,Europe,Tesco
+CSE0002852,Europe,Peugeot
+CSE0002853,America,Exxon Mobil
+CSE0002854,America,J.P. Morgan Chase
+CSE0002855,Europe,Deutsche Telekom
+CSE0002856,America,Hewlett-Packard
+CSE0002857,Europe,Royal Dutch/Shell Group
+CSE0002858,America,J.P. Morgan Chase
+CSE0002859,Europe,Suez
+CSE0002860,Europe,Royal Bank of Scotland
+CSE0002861,America,Boeing
+CSE0002862,Asia,Mitsubishi Electric
+CSE0002863,Southwestern China,Chengdu AIG
+CSE0002864,America,Duke Energy
+CSE0002865,Asia,NEC
+CSE0002866,America,Safeway
+CSE0002867,Europe,Cr我忪dit Agricole
+CSE0002868,America,Safeway
+CSE0002869,Asia,Itochu
+CSE0002870,Southern China,Huawei
+CSE0002871,America,Berkshire Hathaway
+CSE0002872,America,Costco Wholesale
+CSE0002873,America,State Farm Insurance Cos.
+CSE0002874,Europe,CGNU
+CSE0002875,Europe,Renault
+CSE0002876,America,Cardinal Health
+CSE0002877,America,Morgan Stanley Dean Witter
+CSE0002878,America,E.I. du Pont de Nemours
+CSE0002879,Europe,Repsol YPF
+CSE0002880,America,Merck
+CSE0002881,Europe,Zurich Financial Services
+CSE0002882,Europe,Repsol YPF
+CSE0002883,Europe,Royal Philips Electronics
+CSE0002884,Southern China,China Merchants Bank
+CSE0002885,Europe,Ing Group
+CSE0002886,America,Duke Energy
+CSE0002887,America,AT&T
+CSE0002888,Asia,Nissan Motor
+CSE0002889,Asia,SK
+CSE0002890,Northern China,China Construction Bank
+CSE0002891,Europe,Assicurazioni Generali
+CSE0002892,Europe,L.M. Ericsson
+CSE0002893,Europe,BT
+CSE0002894,Europe,Cr我忪dit Agricole
+CSE0002895,America,Allstate
+CSE0002896,America,Merck
+CSE0002897,Asia,Matsushita Electric Industrial
+CSE0002898,Europe,Repsol YPF
+CSE0002899,America,Pemex
+CSE0002900,Europe,Alcatel
+CSE0002901,Asia,Itochu
+CSE0002902,Europe,BMW
+CSE0002903,Europe,Allianz
+CSE0002904,America,Delphi Automotive Systems
+CSE0002905,America,Nortel Networks
+CSE0002906,America,Boeing
+CSE0002907,America,McKesson HBOC
+CSE0002908,Europe,Alcatel
+CSE0002909,America,Enron
+CSE0002910,America,Safeway
+CSE0002911,Northern China,Industrial and Commercial Bank of China
+CSE0002912,America,Morgan Stanley Dean Witter
+CSE0002913,America,Albertson's
+CSE0002914,America,Sears Roebuck
+CSE0002915,Asia,Samsung Electronics
+CSE0002916,America,Exxon Mobil
+CSE0002917,America,SBC Communications
+CSE0002918,America,Compaq Computer
+CSE0002919,America,Chevron
+CSE0002920,America,General Motors
+CSE0002921,Asia,Marubeni
+CSE0002922,America,McKesson HBOC
+CSE0002923,Asia,Samsung
+CSE0002924,Asia,Marubeni
+CSE0002925,Asia,Mizuho Holdings
+CSE0002926,Asia,Tokyo Electric Power
+CSE0002927,Asia,Mitsui
+CSE0002928,Asia,Mitsubishi
+CSE0002929,Europe,ABN AMRO Holding
+CSE0002930,Europe,Royal Philips Electronics
+CSE0002931,Northern China,China Construction Bank
+CSE0002932,Northern China,Sinopec
+CSE0002933,Southern China,Huawei
+CSE0002934,Northern China,Sinopec
+CSE0002935,Northern China,China Electronics Technology Group Corporation
+CSE0002936,Asia,Hitachi
+CSE0002937,Asia,Itochu
+CSE0002938,Asia,Mizuho Holdings
+CSE0002939,Europe,Credit Suisse
+CSE0002940,America,Merrill Lynch
+CSE0002941,America,J.P. Morgan Chase
+CSE0002942,Europe,Assicurazioni Generali
+CSE0002943,Europe,Deutsche Bank
+CSE0002944,Asia,Tokyo Electric Power
+CSE0002945,Europe,Koninklijke Ahold
+CSE0002946,Northern China,China North Industries Group Corporation
+CSE0002947,Eastern China,Pinduoduo
+CSE0002948,America,Nortel Networks
+CSE0002949,America,PDVSA
+CSE0002950,America,SBC Communications
+CSE0002951,America,Hewlett-Packard
+CSE0002952,Northern China,Sina
+CSE0002953,America,Verizon Communications
+CSE0002954,America,Dynegy
+CSE0002955,America,Chevron
+CSE0002956,Europe,Unilever
+CSE0002957,Asia,Sumitomo Life Insurance
+CSE0002958,America,Motorola
+CSE0002959,Europe,Renault
+CSE0002960,Europe,CGNU
+CSE0002961,Europe,Robert Bosch
+CSE0002962,America,Kroger
+CSE0002963,Asia,Mitsubishi
+CSE0002964,Europe,Koninklijke Ahold
+CSE0002965,Europe,France T我忪l我忪com
+CSE0002966,America,Enron
+CSE0002967,Asia,Dai-ichi Mutual Life Insurance
+CSE0002968,Eastern China,MiHoYo
+CSE0002969,Europe,Prudential
+CSE0002970,America,J.P. Morgan Chase
+CSE0002971,Asia,Sony
+CSE0002972,Europe,HSBC Holdings
+CSE0002973,Southern China,OPPO
+CSE0002974,Southwestern China,Chengdu AIG
+CSE0002975,Northern China,Agricultural Bank of China
+CSE0002976,America,PDVSA
+CSE0002977,Asia,Marubeni
+CSE0002978,America,Nortel Networks
+CSE0002979,America,Kmart
+CSE0002980,Europe,BMW
+CSE0002981,Europe,Royal Bank of Scotland
+CSE0002982,America,Cardinal Health
+CSE0002983,America,United Parcel Service
+CSE0002984,Asia,Meiji Life Insurance
+CSE0002985,Southern China,Ping An Insurance (Group) Company Of China
+CSE0002986,Eastern China,Alibaba
+CSE0002987,America,Hewlett-Packard
+CSE0002988,Europe,BNP Paribas
+CSE0002989,Europe,Repsol YPF
+CSE0002990,Europe,Thyssen Krupp
+CSE0002991,America,Procter & Gamble
+CSE0002992,Asia,Honda Motor
+CSE0002993,Europe,Deutsche Bank
+CSE0002994,Europe,Fiat
+CSE0002995,Asia,Sony
+CSE0002996,America,Nortel Networks
+CSE0002997,America,AT&T
+CSE0002998,Europe,Santander Central Hispano Group
+CSE0002999,America,Dell Computer
+CSE0003000,Asia,Nippon Life Insurance
+CSE0003001,Asia,Matsushita Electric Industrial
+CSE0003002,Europe,Deutsche Post
+CSE0003003,Northern China,Sina
+CSE0003004,Asia,Hyundai
+CSE0003005,Europe,Robert Bosch
+CSE0003006,America,Chevron
+CSE0003007,Asia,Meiji Life Insurance
+CSE0003008,America,Motorola
+CSE0003009,Southern China,Tencent
+CSE0003010,Asia,Toshiba
+CSE0003011,Southern China,OPPO
+CSE0003012,America,Chevron
+CSE0003013,Europe,Royal Philips Electronics
+CSE0003014,Europe,Rwe Group
+CSE0003015,Europe,Repsol YPF
+CSE0003016,Europe,Siemens
+CSE0003017,America,Motorola
+CSE0003018,Asia,Sumitomo Life Insurance
+CSE0003019,Europe,Volkswagen
+CSE0003020,America,Safeway
+CSE0003021,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003022,Europe,Royal Dutch/Shell Group
+CSE0003023,America,Intel
+CSE0003024,Asia,Mitsubishi
+CSE0003025,Europe,Robert Bosch
+CSE0003026,Asia,Marubeni
+CSE0003027,Asia,Nippon Telegraph & Telephone
+CSE0003028,America,U.S. Postal Service
+CSE0003029,America,U.S. Postal Service
+CSE0003030,Northern China,Industrial and Commercial Bank of China
+CSE0003031,America,McKesson HBOC
+CSE0003032,America,TIAA-CREF
+CSE0003033,Asia,Nissan Motor
+CSE0003034,Europe,Prudential
+CSE0003035,America,Pfizer
+CSE0003036,Europe,Royal Dutch/Shell Group
+CSE0003037,America,Procter & Gamble
+CSE0003038,Europe,BMW
+CSE0003039,America,General Electric
+CSE0003040,Europe,Carrefour
+CSE0003041,Asia,Sumitomo
+CSE0003042,Europe,E. ON
+CSE0003043,America,USX
+CSE0003044,Southern China,Netease
+CSE0003045,America,Pemex
+CSE0003046,America,Home Depot
+CSE0003047,Europe,Assicurazioni Generali
+CSE0003048,Asia,Mizuho Holdings
+CSE0003049,Europe,Koninklijke Ahold
+CSE0003050,Europe,Electricite De France
+CSE0003051,Europe,Munich Re Group
+CSE0003052,America,Home Depot
+CSE0003053,America,Merrill Lynch
+CSE0003054,America,Cardinal Health
+CSE0003055,America,Pemex
+CSE0003056,Europe,Deutsche Post
+CSE0003057,America,WorldCom
+CSE0003058,Asia,NEC
+CSE0003059,Northern China,Meituan
+CSE0003060,Asia,Meiji Life Insurance
+CSE0003061,Europe,Unilever
+CSE0003062,Europe,Electricite De France
+CSE0003063,Europe,Assicurazioni Generali
+CSE0003064,America,Kroger
+CSE0003065,Northern China,China Petroleum
+CSE0003066,Northern China,China Electronics Technology Group Corporation
+CSE0003067,Asia,Toyota Motor
+CSE0003068,America,Wal-Mart Stores
+CSE0003069,Northern China,Baidu
+CSE0003070,Europe,L.M. Ericsson
+CSE0003071,America,Merck
+CSE0003072,Asia,Nissan Motor
+CSE0003073,Europe,Allianz
+CSE0003074,Europe,Rwe Group
+CSE0003075,America,E.I. du Pont de Nemours
+CSE0003076,Europe,Koninklijke Ahold
+CSE0003077,America,Dynegy
+CSE0003078,America,Kmart
+CSE0003079,Europe,Deutsche Post
+CSE0003080,Europe,BNP Paribas
+CSE0003081,America,J.P. Morgan Chase
+CSE0003082,America,Verizon Communications
+CSE0003083,Northern China,State Power Corporation
+CSE0003084,Europe,Electricite De France
+CSE0003085,Europe,HypoVereinsbank
+CSE0003086,America,E.I. du Pont de Nemours
+CSE0003087,America,Target
+CSE0003088,Asia,Dai-ichi Mutual Life Insurance
+CSE0003089,America,MetLife
+CSE0003090,Northern China,Meituan
+CSE0003091,Europe,E. ON
+CSE0003092,America,J.P. Morgan Chase
+CSE0003093,America,Reliant Energy
+CSE0003094,America,Citigroup
+CSE0003095,America,J.P. Morgan Chase
+CSE0003096,Europe,Carrefour
+CSE0003097,America,Lucent Technologies
+CSE0003098,Northern China,China North Industries Group Corporation
+CSE0003099,America,MetLife
+CSE0003100,America,TIAA-CREF
+CSE0003101,Southern China,China Merchants Bank
+CSE0003102,Asia,Sony
+CSE0003103,America,E.I. du Pont de Nemours
+CSE0003104,Asia,Tokyo Electric Power
+CSE0003105,Asia,Sumitomo
+CSE0003106,Asia,Mitsui
+CSE0003107,Asia,Honda Motor
+CSE0003108,America,Citigroup
+CSE0003109,America,USX
+CSE0003110,Asia,Meiji Life Insurance
+CSE0003111,Europe,E. ON
+CSE0003112,America,Costco Wholesale
+CSE0003113,Europe,Assicurazioni Generali
+CSE0003114,Northern China,Meituan
+CSE0003115,America,Enron
+CSE0003116,America,Dynegy
+CSE0003117,America,Ingram Micro
+CSE0003118,Northern China,China Petroleum
+CSE0003119,Europe,Royal Bank of Scotland
+CSE0003120,America,Costco Wholesale
+CSE0003121,Europe,UBS
+CSE0003122,Europe,Deutsche Bank
+CSE0003123,Asia,Itochu
+CSE0003124,Europe,Thyssen Krupp
+CSE0003125,Europe,DaimlerChrysler
+CSE0003126,America,Merck
+CSE0003127,America,Lucent Technologies
+CSE0003128,Asia,Toyota Motor
+CSE0003129,Southwestern China,Chengdu AIG
+CSE0003130,Europe,ENI
+CSE0003131,America,Duke Energy
+CSE0003132,Southern China,China Merchants Bank
+CSE0003133,Asia,Marubeni
+CSE0003134,America,Berkshire Hathaway
+CSE0003135,Europe,AXA
+CSE0003136,Eastern China,Alibaba
+CSE0003137,Europe,Zurich Financial Services
+CSE0003138,Europe,Munich Re Group
+CSE0003139,America,J.C. Penney
+CSE0003140,America,Hewlett-Packard
+CSE0003141,America,U.S. Postal Service
+CSE0003142,America,Kroger
+CSE0003143,America,PDVSA
+CSE0003144,America,Ford Motor
+CSE0003145,Southern China,Huawei
+CSE0003146,Europe,ABN AMRO Holding
+CSE0003147,Europe,Ing Group
+CSE0003148,Europe,UBS
+CSE0003149,America,USX
+CSE0003150,Southern China,OPPO
+CSE0003151,Europe,ENI
+CSE0003152,Europe,ENI
+CSE0003153,America,Home Depot
+CSE0003154,Asia,Honda Motor
+CSE0003155,America,Dell Computer
+CSE0003156,Europe,DaimlerChrysler
+CSE0003157,America,Freddie Mac
+CSE0003158,America,Compaq Computer
+CSE0003159,America,Enron
+CSE0003160,Europe,Allianz
+CSE0003161,Northern China,Sinopec
+CSE0003162,America,U.S. Postal Service
+CSE0003163,America,Ford Motor
+CSE0003164,Europe,CGNU
+CSE0003165,Europe,Electricite De France
+CSE0003166,Asia,Hyundai
+CSE0003167,America,J.P. Morgan Chase
+CSE0003168,America,Target
+CSE0003169,Europe,Rwe Group
+CSE0003170,America,USX
+CSE0003171,Northern China,Agricultural Bank of China
+CSE0003172,America,Bank of America Corp.
+CSE0003173,Europe,Cr我忪dit Agricole
+CSE0003174,America,MetLife
+CSE0003175,Asia,Tokyo Electric Power
+CSE0003176,Europe,CGNU
+CSE0003177,America,Wal-Mart Stores
+CSE0003178,America,Reliant Energy
+CSE0003179,Europe,BNP Paribas
+CSE0003180,America,Safeway
+CSE0003181,America,E.I. du Pont de Nemours
+CSE0003182,America,E.I. du Pont de Nemours
+CSE0003183,Asia,Meiji Life Insurance
+CSE0003184,America,Allstate
+CSE0003185,Asia,Mitsubishi
+CSE0003186,Europe,Tesco
+CSE0003187,Europe,Munich Re Group
+CSE0003188,America,Chevron
+CSE0003189,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003190,Europe,Carrefour
+CSE0003191,America,General Motors
+CSE0003192,America,Albertson's
+CSE0003193,Europe,UBS
+CSE0003194,Europe,ENI
+CSE0003195,Asia,Nippon Telegraph & Telephone
+CSE0003196,America,Allstate
+CSE0003197,Europe,Koninklijke Ahold
+CSE0003198,Asia,Sony
+CSE0003199,Asia,Samsung Electronics
+CSE0003200,Europe,Santander Central Hispano Group
+CSE0003201,America,Merck
+CSE0003202,America,Dynegy
+CSE0003203,America,General Motors
+CSE0003204,America,Reliant Energy
+CSE0003205,Europe,Royal Dutch/Shell Group
+CSE0003206,Northern China,China Petroleum
+CSE0003207,Northern China,Xiaomi
+CSE0003208,Asia,Nissan Motor
+CSE0003209,Northern China,Bank Of China
+CSE0003210,America,USX
+CSE0003211,Asia,Tokyo Electric Power
+CSE0003212,Europe,Volkswagen
+CSE0003213,Europe,Fiat
+CSE0003214,Europe,Koninklijke Ahold
+CSE0003215,America,Kmart
+CSE0003216,Europe,Cr我忪dit Agricole
+CSE0003217,Europe,Robert Bosch
+CSE0003218,Asia,Nissan Motor
+CSE0003219,Europe,ABN AMRO Holding
+CSE0003220,Europe,Royal Dutch/Shell Group
+CSE0003221,America,Verizon Communications
+CSE0003222,America,McKesson HBOC
+CSE0003223,America,Chevron
+CSE0003224,Europe,BMW
+CSE0003225,Asia,Hitachi
+CSE0003226,America,Home Depot
+CSE0003227,America,Boeing
+CSE0003228,America,Exxon Mobil
+CSE0003229,America,Compaq Computer
+CSE0003230,America,Albertson's
+CSE0003231,America,General Electric
+CSE0003232,America,Morgan Stanley Dean Witter
+CSE0003233,America,AT&T
+CSE0003234,Europe,Volkswagen
+CSE0003235,Asia,Nippon Telegraph & Telephone
+CSE0003236,Asia,Hyundai
+CSE0003237,Asia,Hyundai
+CSE0003238,Europe,Koninklijke Ahold
+CSE0003239,America,General Motors
+CSE0003240,Europe,E. ON
+CSE0003241,America,Exxon Mobil
+CSE0003242,Northern China,State Power Corporation
+CSE0003243,America,Dell Computer
+CSE0003244,Northern China,Xiaomi
+CSE0003245,America,Enron
+CSE0003246,Asia,Mitsubishi
+CSE0003247,America,USX
+CSE0003248,Asia,Sumitomo Life Insurance
+CSE0003249,America,Delphi Automotive Systems
+CSE0003250,America,Kroger
+CSE0003251,Europe,Repsol YPF
+CSE0003252,Europe,Royal Bank of Scotland
+CSE0003253,Asia,Honda Motor
+CSE0003254,Southern China,China Merchants Bank
+CSE0003255,Asia,Hyundai
+CSE0003256,Southern China,OPPO
+CSE0003257,Europe,Peugeot
+CSE0003258,Europe,E. ON
+CSE0003259,America,Merrill Lynch
+CSE0003260,America,Hewlett-Packard
+CSE0003261,Asia,Sony
+CSE0003262,America,Enron
+CSE0003263,Asia,Sumitomo
+CSE0003264,Europe,Zurich Financial Services
+CSE0003265,Asia,Nippon Telegraph & Telephone
+CSE0003266,Europe,CGNU
+CSE0003267,Europe,Nestl我忪
+CSE0003268,Europe,Allianz
+CSE0003269,America,Reliant Energy
+CSE0003270,America,Home Depot
+CSE0003271,Asia,Nissho Iwai
+CSE0003272,Europe,Alcatel
+CSE0003273,Europe,Cr我忪dit Agricole
+CSE0003274,Europe,DaimlerChrysler
+CSE0003275,Europe,Volkswagen
+CSE0003276,Europe,BT
+CSE0003277,Europe,BMW
+CSE0003278,America,Dell Computer
+CSE0003279,Europe,France T我忪l我忪com
+CSE0003280,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003281,America,Philip Morris
+CSE0003282,America,U.S. Postal Service
+CSE0003283,America,Verizon Communications
+CSE0003284,Asia,Samsung Electronics
+CSE0003285,Europe,ABN AMRO Holding
+CSE0003286,Asia,Hitachi
+CSE0003287,America,Compaq Computer
+CSE0003288,Europe,Carrefour
+CSE0003289,Northern China,Meituan
+CSE0003290,America,Philip Morris
+CSE0003291,Europe,HSBC Holdings
+CSE0003292,Europe,Deutsche Telekom
+CSE0003293,America,Delphi Automotive Systems
+CSE0003294,America,TIAA-CREF
+CSE0003295,Asia,Tokyo Electric Power
+CSE0003296,America,Intl. Business Machines
+CSE0003297,Asia,Sumitomo
+CSE0003298,America,Conoco
+CSE0003299,Europe,Carrefour
+CSE0003300,Southwestern China,Chengdu AIG
+CSE0003301,America,Nortel Networks
+CSE0003302,America,Motorola
+CSE0003303,America,Verizon Communications
+CSE0003304,Asia,Tokyo Electric Power
+CSE0003305,Northern China,Bank Of China
+CSE0003306,Europe,BASF
+CSE0003307,Asia,Mitsubishi Electric
+CSE0003308,Eastern China,Alibaba
+CSE0003309,Europe,BNP Paribas
+CSE0003310,Northern China,China Construction Bank
+CSE0003311,Asia,Mitsubishi Motors
+CSE0003312,America,U.S. Postal Service
+CSE0003313,Asia,Sumitomo
+CSE0003314,Asia,Mizuho Holdings
+CSE0003315,Northern China,Meituan
+CSE0003316,Asia,Nippon Telegraph & Telephone
+CSE0003317,Europe,ABN AMRO Holding
+CSE0003318,America,Cardinal Health
+CSE0003319,Europe,BMW
+CSE0003320,America,E.I. du Pont de Nemours
+CSE0003321,Europe,Cr我忪dit Agricole
+CSE0003322,Northern China,China Electronics Technology Group Corporation
+CSE0003323,America,Merck
+CSE0003324,Europe,UBS
+CSE0003325,Europe,Electricite De France
+CSE0003326,America,Dynegy
+CSE0003327,Asia,Nippon Life Insurance
+CSE0003328,Europe,DaimlerChrysler
+CSE0003329,Asia,Dai-ichi Mutual Life Insurance
+CSE0003330,Northern China,State Power Corporation
+CSE0003331,Europe,Alcatel
+CSE0003332,Asia,Sumitomo
+CSE0003333,America,Conoco
+CSE0003334,Europe,ABN AMRO Holding
+CSE0003335,Asia,Fujitsu
+CSE0003336,Europe,Robert Bosch
+CSE0003337,America,SBC Communications
+CSE0003338,America,Berkshire Hathaway
+CSE0003339,Asia,Toshiba
+CSE0003340,Asia,Sumitomo
+CSE0003341,America,Lucent Technologies
+CSE0003342,Europe,Fortis
+CSE0003343,Europe,UBS
+CSE0003344,America,J.P. Morgan Chase
+CSE0003345,America,Johnson & Johnson
+CSE0003346,Asia,NEC
+CSE0003347,Asia,Mizuho Holdings
+CSE0003348,Southwestern China,Chengdu AIG
+CSE0003349,America,Berkshire Hathaway
+CSE0003350,Europe,Siemens
+CSE0003351,Asia,Fujitsu
+CSE0003352,America,Home Depot
+CSE0003353,Europe,France T我忪l我忪com
+CSE0003354,Southern China,Huawei
+CSE0003355,America,Boeing
+CSE0003356,Asia,Hitachi
+CSE0003357,Asia,Meiji Life Insurance
+CSE0003358,America,E.I. du Pont de Nemours
+CSE0003359,America,Albertson's
+CSE0003360,America,Cardinal Health
+CSE0003361,America,J.C. Penney
+CSE0003362,Asia,Mitsubishi Motors
+CSE0003363,Europe,HypoVereinsbank
+CSE0003364,Asia,Sumitomo
+CSE0003365,America,Lucent Technologies
+CSE0003366,America,AT&T
+CSE0003367,America,Dell Computer
+CSE0003368,America,Ford Motor
+CSE0003369,Eastern China,MiHoYo
+CSE0003370,Europe,Metro
+CSE0003371,Southern China,Tencent
+CSE0003372,Europe,L.M. Ericsson
+CSE0003373,America,Bank of America Corp.
+CSE0003374,Asia,Mizuho Holdings
+CSE0003375,Europe,ENI
+CSE0003376,Europe,Siemens
+CSE0003377,America,WorldCom
+CSE0003378,Europe,Carrefour
+CSE0003379,Europe,Munich Re Group
+CSE0003380,Asia,Matsushita Electric Industrial
+CSE0003381,America,Merrill Lynch
+CSE0003382,America,Wal-Mart Stores
+CSE0003383,Europe,ENI
+CSE0003384,Europe,Repsol YPF
+CSE0003385,Southern China,Netease
+CSE0003386,Asia,Toshiba
+CSE0003387,Europe,Carrefour
+CSE0003388,America,WorldCom
+CSE0003389,Europe,AXA
+CSE0003390,Asia,Meiji Life Insurance
+CSE0003391,Europe,Deutsche Bank
+CSE0003392,America,J.C. Penney
+CSE0003393,Europe,HypoVereinsbank
+CSE0003394,America,Ford Motor
+CSE0003395,America,Texaco
+CSE0003396,Asia,SK
+CSE0003397,Europe,Renault
+CSE0003398,America,Chevron
+CSE0003399,Asia,Mitsui
+CSE0003400,Europe,Credit Suisse
+CSE0003401,Northern China,Agricultural Bank of China
+CSE0003402,Europe,Peugeot
+CSE0003403,Europe,Total Fina Elf
+CSE0003404,America,Intel
+CSE0003405,Eastern China,Pinduoduo
+CSE0003406,Asia,Hitachi
+CSE0003407,America,Intel
+CSE0003408,Europe,Munich Re Group
+CSE0003409,Northern China,Sina
+CSE0003410,America,Intl. Business Machines
+CSE0003411,America,Delphi Automotive Systems
+CSE0003412,Europe,ENI
+CSE0003413,America,Cardinal Health
+CSE0003414,Asia,Dai-ichi Mutual Life Insurance
+CSE0003415,Asia,Sony
+CSE0003416,Asia,Nippon Life Insurance
+CSE0003417,Europe,Nestl我忪
+CSE0003418,Europe,Fiat
+CSE0003419,Europe,ENI
+CSE0003420,Southern China,Netease
+CSE0003421,Asia,SK
+CSE0003422,Europe,Royal Bank of Scotland
+CSE0003423,America,J.P. Morgan Chase
+CSE0003424,Europe,Metro
+CSE0003425,America,Dynegy
+CSE0003426,America,Citigroup
+CSE0003427,Europe,BT
+CSE0003428,Europe,ABN AMRO Holding
+CSE0003429,Europe,Koninklijke Ahold
+CSE0003430,Asia,Mizuho Holdings
+CSE0003431,America,Wal-Mart Stores
+CSE0003432,America,Cardinal Health
+CSE0003433,Asia,NEC
+CSE0003434,America,Reliant Energy
+CSE0003435,Europe,Nestl我忪
+CSE0003436,Southwestern China,Chengdu AIG
+CSE0003437,America,Sears Roebuck
+CSE0003438,Europe,Thyssen Krupp
+CSE0003439,Southern China,Netease
+CSE0003440,America,Dell Computer
+CSE0003441,America,TIAA-CREF
+CSE0003442,Europe,Vivendi Universal
+CSE0003443,America,Safeway
+CSE0003444,America,Intel
+CSE0003445,Asia,Toshiba
+CSE0003446,Asia,Itochu
+CSE0003447,America,Ingram Micro
+CSE0003448,Asia,SK
+CSE0003449,America,Pemex
+CSE0003450,Europe,Repsol YPF
+CSE0003451,Northern China,Sina
+CSE0003452,America,McKesson HBOC
+CSE0003453,Europe,Carrefour
+CSE0003454,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003455,Europe,Metro
+CSE0003456,Europe,Thyssen Krupp
+CSE0003457,Asia,Mizuho Holdings
+CSE0003458,Europe,Carrefour
+CSE0003459,Southern China,Netease
+CSE0003460,Southern China,China Merchants Bank
+CSE0003461,Asia,NEC
+CSE0003462,Europe,BNP Paribas
+CSE0003463,America,Kroger
+CSE0003464,America,Intl. Business Machines
+CSE0003465,Asia,Honda Motor
+CSE0003466,Asia,Meiji Life Insurance
+CSE0003467,America,Pfizer
+CSE0003468,America,General Electric
+CSE0003469,America,U.S. Postal Service
+CSE0003470,America,Ford Motor
+CSE0003471,Asia,Itochu
+CSE0003472,Europe,Metro
+CSE0003473,Northern China,Bank Of China
+CSE0003474,America,Intel
+CSE0003475,Asia,Mitsubishi
+CSE0003476,Europe,Volkswagen
+CSE0003477,Asia,Marubeni
+CSE0003478,Asia,Matsushita Electric Industrial
+CSE0003479,Europe,Santander Central Hispano Group
+CSE0003480,Europe,BNP Paribas
+CSE0003481,America,Citigroup
+CSE0003482,Europe,Prudential
+CSE0003483,Europe,Tesco
+CSE0003484,Europe,Robert Bosch
+CSE0003485,Europe,Carrefour
+CSE0003486,America,Ingram Micro
+CSE0003487,America,Kroger
+CSE0003488,America,Merrill Lynch
+CSE0003489,America,Safeway
+CSE0003490,America,Reliant Energy
+CSE0003491,America,MetLife
+CSE0003492,America,Morgan Stanley Dean Witter
+CSE0003493,Europe,Prudential
+CSE0003494,Europe,Deutsche Telekom
+CSE0003495,Europe,Suez
+CSE0003496,America,Procter & Gamble
+CSE0003497,America,MetLife
+CSE0003498,Europe,UBS
+CSE0003499,Europe,E. ON
+CSE0003500,Europe,Assicurazioni Generali
+CSE0003501,Asia,Honda Motor
+CSE0003502,Eastern China,Bilibili
+CSE0003503,Europe,Siemens
+CSE0003504,Asia,Mitsui
+CSE0003505,Southern China,OPPO
+CSE0003506,Europe,Fortis
+CSE0003507,America,Merck
+CSE0003508,Europe,Credit Suisse
+CSE0003509,America,SBC Communications
+CSE0003510,Asia,Samsung
+CSE0003511,America,Merrill Lynch
+CSE0003512,Europe,Zurich Financial Services
+CSE0003513,America,Boeing
+CSE0003514,Northern China,Sina
+CSE0003515,Europe,BMW
+CSE0003516,Europe,AXA
+CSE0003517,Asia,Tokyo Electric Power
+CSE0003518,America,Kroger
+CSE0003519,America,Duke Energy
+CSE0003520,Europe,UBS
+CSE0003521,Southern China,Netease
+CSE0003522,Europe,AXA
+CSE0003523,America,Ingram Micro
+CSE0003524,Northern China,Xiaomi
+CSE0003525,Europe,Credit Suisse
+CSE0003526,Asia,Toshiba
+CSE0003527,America,Morgan Stanley Dean Witter
+CSE0003528,America,Kroger
+CSE0003529,Asia,Mitsubishi Electric
+CSE0003530,Northern China,Agricultural Bank of China
+CSE0003531,America,Nortel Networks
+CSE0003532,Asia,Toshiba
+CSE0003533,America,State Farm Insurance Cos.
+CSE0003534,Europe,BASF
+CSE0003535,Asia,Meiji Life Insurance
+CSE0003536,Europe,Fortis
+CSE0003537,Asia,Nippon Life Insurance
+CSE0003538,America,Merrill Lynch
+CSE0003539,America,McKesson HBOC
+CSE0003540,Europe,Nestl我忪
+CSE0003541,Asia,Toyota Motor
+CSE0003542,Europe,HSBC Holdings
+CSE0003543,America,E.I. du Pont de Nemours
+CSE0003544,America,Ford Motor
+CSE0003545,America,MetLife
+CSE0003546,Asia,SK
+CSE0003547,America,TIAA-CREF
+CSE0003548,Europe,CGNU
+CSE0003549,America,MetLife
+CSE0003550,Eastern China,Alibaba
+CSE0003551,Europe,Unilever
+CSE0003552,Asia,Marubeni
+CSE0003553,Asia,Nissan Motor
+CSE0003554,Europe,Rwe Group
+CSE0003555,Europe,Robert Bosch
+CSE0003556,Northern China,Sinopec
+CSE0003557,America,Dynegy
+CSE0003558,Europe,Credit Suisse
+CSE0003559,Europe,CGNU
+CSE0003560,Northern China,Baidu
+CSE0003561,America,U.S. Postal Service
+CSE0003562,Asia,Mitsubishi
+CSE0003563,America,Merck
+CSE0003564,Europe,Royal Philips Electronics
+CSE0003565,Europe,Royal Bank of Scotland
+CSE0003566,America,Merrill Lynch
+CSE0003567,Southern China,Tencent
+CSE0003568,America,Merck
+CSE0003569,America,Bank of America Corp.
+CSE0003570,America,Compaq Computer
+CSE0003571,Asia,Fujitsu
+CSE0003572,Europe,BNP Paribas
+CSE0003573,America,Kmart
+CSE0003574,Europe,Santander Central Hispano Group
+CSE0003575,Europe,HypoVereinsbank
+CSE0003576,Asia,Fujitsu
+CSE0003577,Asia,Mizuho Holdings
+CSE0003578,America,U.S. Postal Service
+CSE0003579,Europe,Vivendi Universal
+CSE0003580,America,TIAA-CREF
+CSE0003581,Southern China,OPPO
+CSE0003582,Europe,Alcatel
+CSE0003583,Europe,Santander Central Hispano Group
+CSE0003584,Asia,Sony
+CSE0003585,America,Verizon Communications
+CSE0003586,Asia,SK
+CSE0003587,America,Motorola
+CSE0003588,America,Albertson's
+CSE0003589,Europe,BT
+CSE0003590,Southern China,OPPO
+CSE0003591,America,Kmart
+CSE0003592,America,USX
+CSE0003593,America,Freddie Mac
+CSE0003594,America,Ford Motor
+CSE0003595,Europe,BMW
+CSE0003596,Europe,Siemens
+CSE0003597,America,Allstate
+CSE0003598,Europe,Thyssen Krupp
+CSE0003599,Europe,Nestl我忪
+CSE0003600,America,J.P. Morgan Chase
+CSE0003601,Northern China,China North Industries Group Corporation
+CSE0003602,America,Ingram Micro
+CSE0003603,Asia,Mizuho Holdings
+CSE0003604,Europe,BNP Paribas
+CSE0003605,America,Pfizer
+CSE0003606,Asia,Honda Motor
+CSE0003607,Europe,Thyssen Krupp
+CSE0003608,Europe,BMW
+CSE0003609,America,Procter & Gamble
+CSE0003610,Asia,NEC
+CSE0003611,America,Cardinal Health
+CSE0003612,Europe,E. ON
+CSE0003613,America,WorldCom
+CSE0003614,Europe,Fiat
+CSE0003615,Europe,Nestl我忪
+CSE0003616,Asia,Honda Motor
+CSE0003617,Asia,Samsung
+CSE0003618,Asia,Mitsubishi Electric
+CSE0003619,Europe,Volkswagen
+CSE0003620,America,Sears Roebuck
+CSE0003621,Europe,Royal Dutch/Shell Group
+CSE0003622,America,TIAA-CREF
+CSE0003623,Europe,Suez
+CSE0003624,Southwestern China,Chengdu AIG
+CSE0003625,America,E.I. du Pont de Nemours
+CSE0003626,America,United Parcel Service
+CSE0003627,Europe,France T我忪l我忪com
+CSE0003628,America,American International Group
+CSE0003629,America,Dynegy
+CSE0003630,America,United Parcel Service
+CSE0003631,Europe,ABN AMRO Holding
+CSE0003632,Europe,Tesco
+CSE0003633,America,Allstate
+CSE0003634,Asia,Mitsubishi Electric
+CSE0003635,America,U.S. Postal Service
+CSE0003636,Europe,Royal Philips Electronics
+CSE0003637,Asia,Marubeni
+CSE0003638,Asia,Nippon Telegraph & Telephone
+CSE0003639,Europe,BT
+CSE0003640,America,TIAA-CREF
+CSE0003641,Asia,Mitsubishi Motors
+CSE0003642,America,Compaq Computer
+CSE0003643,America,Pemex
+CSE0003644,Europe,Allianz
+CSE0003645,Europe,HypoVereinsbank
+CSE0003646,America,Dynegy
+CSE0003647,Europe,Thyssen Krupp
+CSE0003648,America,Albertson's
+CSE0003649,America,Citigroup
+CSE0003650,Europe,Unilever
+CSE0003651,Europe,ABN AMRO Holding
+CSE0003652,Asia,Samsung Electronics
+CSE0003653,Europe,Alcatel
+CSE0003654,America,U.S. Postal Service
+CSE0003655,America,Pfizer
+CSE0003656,America,MetLife
+CSE0003657,Europe,Munich Re Group
+CSE0003658,Europe,AXA
+CSE0003659,America,Berkshire Hathaway
+CSE0003660,Europe,Munich Re Group
+CSE0003661,Asia,Nippon Telegraph & Telephone
+CSE0003662,Eastern China,Bilibili
+CSE0003663,America,J.C. Penney
+CSE0003664,America,Costco Wholesale
+CSE0003665,Europe,Credit Suisse
+CSE0003666,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003667,America,J.P. Morgan Chase
+CSE0003668,Europe,ABN AMRO Holding
+CSE0003669,Asia,Honda Motor
+CSE0003670,Europe,Credit Suisse
+CSE0003671,Europe,CGNU
+CSE0003672,Asia,Samsung Electronics
+CSE0003673,Europe,Electricite De France
+CSE0003674,America,Compaq Computer
+CSE0003675,America,TIAA-CREF
+CSE0003676,Europe,Renault
+CSE0003677,Eastern China,MiHoYo
+CSE0003678,Europe,Royal Bank of Scotland
+CSE0003679,Southern China,Netease
+CSE0003680,Europe,AXA
+CSE0003681,Europe,HSBC Holdings
+CSE0003682,Northern China,State Power Corporation
+CSE0003683,Asia,Nissan Motor
+CSE0003684,America,Dynegy
+CSE0003685,Asia,SK
+CSE0003686,America,Safeway
+CSE0003687,Asia,Mitsubishi
+CSE0003688,Asia,Nissho Iwai
+CSE0003689,Europe,France T我忪l我忪com
+CSE0003690,America,General Motors
+CSE0003691,America,Compaq Computer
+CSE0003692,Northern China,China North Industries Group Corporation
+CSE0003693,America,Nortel Networks
+CSE0003694,America,Albertson's
+CSE0003695,Europe,Prudential
+CSE0003696,Europe,Peugeot
+CSE0003697,Asia,SK
+CSE0003698,America,Johnson & Johnson
+CSE0003699,Europe,Volkswagen
+CSE0003700,Asia,Hitachi
+CSE0003701,Asia,Honda Motor
+CSE0003702,Asia,Itochu
+CSE0003703,America,Sears Roebuck
+CSE0003704,Europe,ENI
+CSE0003705,America,Ingram Micro
+CSE0003706,Europe,Carrefour
+CSE0003707,Europe,Royal Dutch/Shell Group
+CSE0003708,America,Intel
+CSE0003709,America,Boeing
+CSE0003710,Europe,Credit Suisse
+CSE0003711,America,Cardinal Health
+CSE0003712,America,WorldCom
+CSE0003713,America,Fannie Mae
+CSE0003714,America,Compaq Computer
+CSE0003715,America,Freddie Mac
+CSE0003716,Europe,HypoVereinsbank
+CSE0003717,Northern China,China Petroleum
+CSE0003718,America,Kmart
+CSE0003719,Europe,Deutsche Post
+CSE0003720,Asia,Sumitomo Life Insurance
+CSE0003721,Europe,Prudential
+CSE0003722,America,Texaco
+CSE0003723,Europe,Koninklijke Ahold
+CSE0003724,America,State Farm Insurance Cos.
+CSE0003725,Asia,Hyundai
+CSE0003726,Northern China,China Petroleum
+CSE0003727,America,Goldman Sachs Group
+CSE0003728,Northern China,China Petroleum
+CSE0003729,America,Motorola
+CSE0003730,Europe,Volkswagen
+CSE0003731,America,Kroger
+CSE0003732,America,Conoco
+CSE0003733,Asia,Samsung Electronics
+CSE0003734,Eastern China,Pinduoduo
+CSE0003735,America,WorldCom
+CSE0003736,America,AT&T
+CSE0003737,America,Ford Motor
+CSE0003738,Europe,Deutsche Bank
+CSE0003739,America,Ingram Micro
+CSE0003740,Asia,Sumitomo Life Insurance
+CSE0003741,Northern China,Meituan
+CSE0003742,America,Ford Motor
+CSE0003743,America,Ingram Micro
+CSE0003744,America,PDVSA
+CSE0003745,America,USX
+CSE0003746,Asia,Hitachi
+CSE0003747,Europe,France T我忪l我忪com
+CSE0003748,Asia,Fujitsu
+CSE0003749,Europe,Assicurazioni Generali
+CSE0003750,Europe,Robert Bosch
+CSE0003751,Europe,Volkswagen
+CSE0003752,Europe,Allianz
+CSE0003753,America,Philip Morris
+CSE0003754,Northern China,China Construction Bank
+CSE0003755,Asia,Dai-ichi Mutual Life Insurance
+CSE0003756,Southern China,China Merchants Bank
+CSE0003757,America,American International Group
+CSE0003758,Europe,Royal Dutch/Shell Group
+CSE0003759,Asia,Mitsubishi Electric
+CSE0003760,America,Pemex
+CSE0003761,Northern China,China North Industries Group Corporation
+CSE0003762,America,Boeing
+CSE0003763,America,Delphi Automotive Systems
+CSE0003764,America,Johnson & Johnson
+CSE0003765,Southern China,Netease
+CSE0003766,Europe,UBS
+CSE0003767,Asia,Mitsubishi
+CSE0003768,Asia,Nissan Motor
+CSE0003769,America,Albertson's
+CSE0003770,Europe,AXA
+CSE0003771,America,Reliant Energy
+CSE0003772,Europe,Assicurazioni Generali
+CSE0003773,Southern China,China Merchants Bank
+CSE0003774,Asia,Nissan Motor
+CSE0003775,Europe,BNP Paribas
+CSE0003776,America,General Electric
+CSE0003777,Europe,BMW
+CSE0003778,America,Intel
+CSE0003779,Europe,Rwe Group
+CSE0003780,Asia,Honda Motor
+CSE0003781,America,Bank of America Corp.
+CSE0003782,America,J.P. Morgan Chase
+CSE0003783,Asia,Samsung Electronics
+CSE0003784,America,Duke Energy
+CSE0003785,America,Merrill Lynch
+CSE0003786,America,State Farm Insurance Cos.
+CSE0003787,Northern China,Sina
+CSE0003788,Europe,Cr我忪dit Agricole
+CSE0003789,America,Merck
+CSE0003790,America,Merrill Lynch
+CSE0003791,Europe,Royal Bank of Scotland
+CSE0003792,America,SBC Communications
+CSE0003793,America,Duke Energy
+CSE0003794,Eastern China,Alibaba
+CSE0003795,Europe,BMW
+CSE0003796,America,Reliant Energy
+CSE0003797,America,AT&T
+CSE0003798,America,Citigroup
+CSE0003799,Asia,Mitsubishi Electric
+CSE0003800,Europe,Deutsche Telekom
+CSE0003801,Europe,BASF
+CSE0003802,Asia,Nissho Iwai
+CSE0003803,America,Procter & Gamble
+CSE0003804,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003805,America,SBC Communications
+CSE0003806,Asia,Hyundai
+CSE0003807,Europe,E. ON
+CSE0003808,America,Bank of America Corp.
+CSE0003809,Europe,Deutsche Post
+CSE0003810,Eastern China,Alibaba
+CSE0003811,Asia,Mitsubishi Motors
+CSE0003812,Asia,Hitachi
+CSE0003813,Europe,Peugeot
+CSE0003814,Northern China,China Electronics Technology Group Corporation
+CSE0003815,Northern China,Baidu
+CSE0003816,Eastern China,Bilibili
+CSE0003817,Europe,Cr我忪dit Agricole
+CSE0003818,America,Citigroup
+CSE0003819,Asia,Nissan Motor
+CSE0003820,Northern China,State Power Corporation
+CSE0003821,America,Berkshire Hathaway
+CSE0003822,Asia,NEC
+CSE0003823,Europe,Royal Dutch/Shell Group
+CSE0003824,Northern China,Industrial and Commercial Bank of China
+CSE0003825,Europe,Rwe Group
+CSE0003826,America,Duke Energy
+CSE0003827,Southern China,Huawei
+CSE0003828,America,Verizon Communications
+CSE0003829,America,USX
+CSE0003830,Europe,UBS
+CSE0003831,Europe,Deutsche Bank
+CSE0003832,America,SBC Communications
+CSE0003833,Europe,Fortis
+CSE0003834,America,Conoco
+CSE0003835,America,Delphi Automotive Systems
+CSE0003836,Asia,Dai-ichi Mutual Life Insurance
+CSE0003837,Asia,Hyundai
+CSE0003838,Europe,BMW
+CSE0003839,Southern China,China Merchants Bank
+CSE0003840,Europe,Unilever
+CSE0003841,America,Target
+CSE0003842,America,Dell Computer
+CSE0003843,Northern China,Industrial and Commercial Bank of China
+CSE0003844,Europe,Deutsche Post
+CSE0003845,America,Philip Morris
+CSE0003846,Europe,Renault
+CSE0003847,America,Texaco
+CSE0003848,Asia,Matsushita Electric Industrial
+CSE0003849,Europe,Ing Group
+CSE0003850,America,J.P. Morgan Chase
+CSE0003851,Northern China,Xiaomi
+CSE0003852,Europe,Vivendi Universal
+CSE0003853,America,Intel
+CSE0003854,Europe,Repsol YPF
+CSE0003855,Europe,France T我忪l我忪com
+CSE0003856,America,USX
+CSE0003857,Europe,BT
+CSE0003858,America,Goldman Sachs Group
+CSE0003859,Europe,ABN AMRO Holding
+CSE0003860,Europe,Royal Bank of Scotland
+CSE0003861,Europe,Alcatel
+CSE0003862,Asia,Hitachi
+CSE0003863,Europe,Volkswagen
+CSE0003864,Asia,Nissho Iwai
+CSE0003865,Asia,Mitsubishi
+CSE0003866,Southwestern China,Chengdu AIG
+CSE0003867,Europe,Deutsche Post
+CSE0003868,Europe,Unilever
+CSE0003869,America,TIAA-CREF
+CSE0003870,Europe,BASF
+CSE0003871,Europe,HSBC Holdings
+CSE0003872,Asia,Nippon Life Insurance
+CSE0003873,Europe,Alcatel
+CSE0003874,Europe,Vivendi Universal
+CSE0003875,Europe,Suez
+CSE0003876,America,Fannie Mae
+CSE0003877,Europe,Deutsche Telekom
+CSE0003878,America,Motorola
+CSE0003879,America,Allstate
+CSE0003880,Southern China,OPPO
+CSE0003881,Europe,Siemens
+CSE0003882,Europe,Siemens
+CSE0003883,Europe,Prudential
+CSE0003884,America,Bank of America Corp.
+CSE0003885,America,E.I. du Pont de Nemours
+CSE0003886,Asia,Itochu
+CSE0003887,Asia,Nippon Telegraph & Telephone
+CSE0003888,Europe,Carrefour
+CSE0003889,Southern China,OPPO
+CSE0003890,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003891,America,McKesson HBOC
+CSE0003892,America,Morgan Stanley Dean Witter
+CSE0003893,Europe,Peugeot
+CSE0003894,America,Chevron
+CSE0003895,America,Berkshire Hathaway
+CSE0003896,Northern China,China North Industries Group Corporation
+CSE0003897,America,Dell Computer
+CSE0003898,Asia,Mitsubishi
+CSE0003899,Northern China,Agricultural Bank of China
+CSE0003900,Europe,E. ON
+CSE0003901,Europe,Deutsche Bank
+CSE0003902,America,Kmart
+CSE0003903,Northern China,China North Industries Group Corporation
+CSE0003904,Eastern China,MiHoYo
+CSE0003905,America,Intel
+CSE0003906,Asia,Mitsubishi Motors
+CSE0003907,Europe,Royal Philips Electronics
+CSE0003908,Europe,L.M. Ericsson
+CSE0003909,America,Delphi Automotive Systems
+CSE0003910,America,U.S. Postal Service
+CSE0003911,Asia,Mitsui
+CSE0003912,Europe,Munich Re Group
+CSE0003913,Eastern China,Alibaba
+CSE0003914,Asia,SK
+CSE0003915,Asia,Honda Motor
+CSE0003916,America,Johnson & Johnson
+CSE0003917,Eastern China,Pinduoduo
+CSE0003918,Asia,Nippon Life Insurance
+CSE0003919,Europe,Thyssen Krupp
+CSE0003920,America,USX
+CSE0003921,America,American International Group
+CSE0003922,America,PDVSA
+CSE0003923,Asia,Fujitsu
+CSE0003924,Asia,Meiji Life Insurance
+CSE0003925,Europe,BMW
+CSE0003926,Northern China,China Construction Bank
+CSE0003927,Northern China,Bank Of China
+CSE0003928,America,Verizon Communications
+CSE0003929,Europe,BNP Paribas
+CSE0003930,Europe,L.M. Ericsson
+CSE0003931,Europe,Alcatel
+CSE0003932,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003933,America,Fannie Mae
+CSE0003934,Eastern China,Bilibili
+CSE0003935,America,State Farm Insurance Cos.
+CSE0003936,America,Allstate
+CSE0003937,Eastern China,Pinduoduo
+CSE0003938,Northern China,Xiaomi
+CSE0003939,Europe,Zurich Financial Services
+CSE0003940,America,Motorola
+CSE0003941,America,Reliant Energy
+CSE0003942,America,Costco Wholesale
+CSE0003943,Asia,Mizuho Holdings
+CSE0003944,Southern China,Netease
+CSE0003945,Southern China,Netease
+CSE0003946,Europe,Fiat
+CSE0003947,Europe,Royal Philips Electronics
+CSE0003948,Northern China,China North Industries Group Corporation
+CSE0003949,Europe,Prudential
+CSE0003950,America,General Motors
+CSE0003951,Asia,SK
+CSE0003952,Europe,Repsol YPF
+CSE0003953,Europe,BP
+CSE0003954,Asia,Dai-ichi Mutual Life Insurance
+CSE0003955,Europe,BMW
+CSE0003956,Northern China,Agricultural Bank of China
+CSE0003957,America,Bank of America Corp.
+CSE0003958,Asia,Honda Motor
+CSE0003959,America,Compaq Computer
+CSE0003960,Europe,Unilever
+CSE0003961,Northern China,China North Industries Group Corporation
+CSE0003962,Europe,BT
+CSE0003963,America,Duke Energy
+CSE0003964,Europe,Cr我忪dit Agricole
+CSE0003965,Asia,Honda Motor
+CSE0003966,America,Fannie Mae
+CSE0003967,Asia,Hitachi
+CSE0003968,Europe,Royal Bank of Scotland
+CSE0003969,Europe,Rwe Group
+CSE0003970,Europe,Fortis
+CSE0003971,Europe,Koninklijke Ahold
+CSE0003972,Europe,L.M. Ericsson
+CSE0003973,Asia,Tokyo Electric Power
+CSE0003974,Europe,Credit Suisse
+CSE0003975,America,Texaco
+CSE0003976,America,J.C. Penney
+CSE0003977,Europe,Vivendi Universal
+CSE0003978,Northern China,Baidu
+CSE0003979,Europe,Peugeot
+CSE0003980,Asia,Nissan Motor
+CSE0003981,Europe,E. ON
+CSE0003982,Southern China,Ping An Insurance (Group) Company Of China
+CSE0003983,America,Chevron
+CSE0003984,Europe,Electricite De France
+CSE0003985,America,Intel
+CSE0003986,Northern China,Industrial and Commercial Bank of China
+CSE0003987,America,Philip Morris
+CSE0003988,Europe,Nestl我忪
+CSE0003989,Europe,Siemens
+CSE0003990,Europe,Total Fina Elf
+CSE0003991,America,E.I. du Pont de Nemours
+CSE0003992,Southern China,Netease
+CSE0003993,America,Merrill Lynch
+CSE0003994,Northern China,Agricultural Bank of China
+CSE0003995,America,E.I. du Pont de Nemours
+CSE0003996,Europe,BMW
+CSE0003997,America,Fannie Mae
+CSE0003998,Asia,Mitsui
+CSE0003999,Europe,HSBC Holdings
+CSE0004000,Europe,Koninklijke Ahold
+CSE0004001,Europe,Thyssen Krupp
+CSE0004002,America,McKesson HBOC
+CSE0004003,America,Target
+CSE0004004,America,U.S. Postal Service
+CSE0004005,America,Compaq Computer
+CSE0004006,America,Pfizer
+CSE0004007,America,Texaco
+CSE0004008,Europe,Deutsche Telekom
+CSE0004009,America,TIAA-CREF
+CSE0004010,Eastern China,MiHoYo
+CSE0004011,Europe,HypoVereinsbank
+CSE0004012,Asia,Honda Motor
+CSE0004013,Europe,Royal Philips Electronics
+CSE0004014,America,Lucent Technologies
+CSE0004015,America,Conoco
+CSE0004016,Asia,Honda Motor
+CSE0004017,America,MetLife
+CSE0004018,America,Home Depot
+CSE0004019,America,Enron
+CSE0004020,Asia,Nissho Iwai
+CSE0004021,Southern China,Tencent
+CSE0004022,America,Boeing
+CSE0004023,America,Boeing
+CSE0004024,America,Safeway
+CSE0004025,Europe,Santander Central Hispano Group
+CSE0004026,Europe,Tesco
+CSE0004027,America,AT&T
+CSE0004028,Europe,L.M. Ericsson
+CSE0004029,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004030,Asia,Toyota Motor
+CSE0004031,Europe,Prudential
+CSE0004032,Eastern China,Alibaba
+CSE0004033,Northern China,State Power Corporation
+CSE0004034,America,WorldCom
+CSE0004035,Europe,Volkswagen
+CSE0004036,Europe,L.M. Ericsson
+CSE0004037,Europe,Metro
+CSE0004038,America,Citigroup
+CSE0004039,Europe,ABN AMRO Holding
+CSE0004040,Europe,Suez
+CSE0004041,Asia,Mitsubishi
+CSE0004042,Europe,Vivendi Universal
+CSE0004043,America,Sears Roebuck
+CSE0004044,Asia,Nippon Life Insurance
+CSE0004045,Asia,Sumitomo Life Insurance
+CSE0004046,Europe,Zurich Financial Services
+CSE0004047,Europe,Repsol YPF
+CSE0004048,America,Home Depot
+CSE0004049,America,Intl. Business Machines
+CSE0004050,Northern China,Xiaomi
+CSE0004051,America,Compaq Computer
+CSE0004052,Europe,Royal Bank of Scotland
+CSE0004053,America,Safeway
+CSE0004054,America,Hewlett-Packard
+CSE0004055,Europe,Fiat
+CSE0004056,Asia,Sumitomo
+CSE0004057,America,Ingram Micro
+CSE0004058,Europe,Ing Group
+CSE0004059,Europe,Electricite De France
+CSE0004060,America,Morgan Stanley Dean Witter
+CSE0004061,America,Dynegy
+CSE0004062,Europe,Robert Bosch
+CSE0004063,America,Motorola
+CSE0004064,Europe,DaimlerChrysler
+CSE0004065,America,Procter & Gamble
+CSE0004066,Southern China,China Merchants Bank
+CSE0004067,Europe,France T我忪l我忪com
+CSE0004068,Asia,Marubeni
+CSE0004069,America,General Motors
+CSE0004070,Europe,Repsol YPF
+CSE0004071,Asia,Hyundai
+CSE0004072,Asia,Sony
+CSE0004073,Asia,Meiji Life Insurance
+CSE0004074,Europe,Alcatel
+CSE0004075,Europe,Prudential
+CSE0004076,Europe,Koninklijke Ahold
+CSE0004077,America,Procter & Gamble
+CSE0004078,Asia,NEC
+CSE0004079,America,Costco Wholesale
+CSE0004080,America,Target
+CSE0004081,America,Dell Computer
+CSE0004082,Europe,Robert Bosch
+CSE0004083,Asia,Dai-ichi Mutual Life Insurance
+CSE0004084,Europe,BMW
+CSE0004085,Asia,Itochu
+CSE0004086,Northern China,Xiaomi
+CSE0004087,Europe,Siemens
+CSE0004088,Southern China,Huawei
+CSE0004089,Asia,Hitachi
+CSE0004090,America,Lucent Technologies
+CSE0004091,Europe,BP
+CSE0004092,Europe,BP
+CSE0004093,America,Allstate
+CSE0004094,America,Delphi Automotive Systems
+CSE0004095,Europe,Munich Re Group
+CSE0004096,Asia,Dai-ichi Mutual Life Insurance
+CSE0004097,Asia,Mitsubishi Electric
+CSE0004098,America,Kroger
+CSE0004099,Asia,Samsung Electronics
+CSE0004100,Europe,Deutsche Post
+CSE0004101,Europe,Cr我忪dit Agricole
+CSE0004102,America,General Motors
+CSE0004103,America,Delphi Automotive Systems
+CSE0004104,America,Motorola
+CSE0004105,Europe,BNP Paribas
+CSE0004106,Europe,Munich Re Group
+CSE0004107,America,Merck
+CSE0004108,Asia,Sumitomo Life Insurance
+CSE0004109,Asia,Mitsubishi Electric
+CSE0004110,America,E.I. du Pont de Nemours
+CSE0004111,Europe,Santander Central Hispano Group
+CSE0004112,America,Cardinal Health
+CSE0004113,America,Motorola
+CSE0004114,Asia,Mitsubishi Motors
+CSE0004115,America,J.P. Morgan Chase
+CSE0004116,Europe,Total Fina Elf
+CSE0004117,Europe,Robert Bosch
+CSE0004118,America,General Electric
+CSE0004119,America,American International Group
+CSE0004120,Asia,Sumitomo
+CSE0004121,Europe,Total Fina Elf
+CSE0004122,Europe,Renault
+CSE0004123,Europe,Total Fina Elf
+CSE0004124,America,USX
+CSE0004125,Europe,Royal Dutch/Shell Group
+CSE0004126,Europe,AXA
+CSE0004127,Asia,Sumitomo
+CSE0004128,America,Lucent Technologies
+CSE0004129,Northern China,Industrial and Commercial Bank of China
+CSE0004130,America,Safeway
+CSE0004131,America,Kmart
+CSE0004132,America,Merrill Lynch
+CSE0004133,America,Kroger
+CSE0004134,Europe,BT
+CSE0004135,Europe,Deutsche Bank
+CSE0004136,Asia,Nissan Motor
+CSE0004137,Northern China,State Power Corporation
+CSE0004138,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004139,Europe,BASF
+CSE0004140,America,U.S. Postal Service
+CSE0004141,Asia,Sumitomo Life Insurance
+CSE0004142,Eastern China,Alibaba
+CSE0004143,Europe,Royal Philips Electronics
+CSE0004144,Europe,Credit Suisse
+CSE0004145,Europe,CGNU
+CSE0004146,Europe,Tesco
+CSE0004147,America,Home Depot
+CSE0004148,America,Johnson & Johnson
+CSE0004149,Asia,Nippon Life Insurance
+CSE0004150,Asia,Nippon Telegraph & Telephone
+CSE0004151,America,PDVSA
+CSE0004152,Northern China,Sina
+CSE0004153,Europe,Zurich Financial Services
+CSE0004154,Asia,Honda Motor
+CSE0004155,Eastern China,Alibaba
+CSE0004156,America,Hewlett-Packard
+CSE0004157,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004158,America,Berkshire Hathaway
+CSE0004159,Asia,Sumitomo Life Insurance
+CSE0004160,America,American International Group
+CSE0004161,America,Pemex
+CSE0004162,Europe,Carrefour
+CSE0004163,America,Wal-Mart Stores
+CSE0004164,America,Morgan Stanley Dean Witter
+CSE0004165,Northern China,Sina
+CSE0004166,Northern China,Meituan
+CSE0004167,America,Hewlett-Packard
+CSE0004168,Asia,Mitsubishi Electric
+CSE0004169,America,Home Depot
+CSE0004170,Europe,France T我忪l我忪com
+CSE0004171,Asia,Mizuho Holdings
+CSE0004172,Europe,Munich Re Group
+CSE0004173,America,TIAA-CREF
+CSE0004174,Asia,NEC
+CSE0004175,Southern China,Netease
+CSE0004176,Asia,Sony
+CSE0004177,America,Dynegy
+CSE0004178,Europe,Repsol YPF
+CSE0004179,Europe,Carrefour
+CSE0004180,Asia,Itochu
+CSE0004181,Asia,Samsung
+CSE0004182,Northern China,Baidu
+CSE0004183,America,Verizon Communications
+CSE0004184,Southern China,Huawei
+CSE0004185,Northern China,State Power Corporation
+CSE0004186,Asia,Mitsubishi Electric
+CSE0004187,Asia,Honda Motor
+CSE0004188,America,WorldCom
+CSE0004189,America,Verizon Communications
+CSE0004190,America,Costco Wholesale
+CSE0004191,America,SBC Communications
+CSE0004192,Europe,Unilever
+CSE0004193,America,E.I. du Pont de Nemours
+CSE0004194,America,Safeway
+CSE0004195,Europe,Koninklijke Ahold
+CSE0004196,America,Pfizer
+CSE0004197,Europe,Repsol YPF
+CSE0004198,Northern China,Xiaomi
+CSE0004199,Europe,Assicurazioni Generali
+CSE0004200,Europe,Alcatel
+CSE0004201,America,Sears Roebuck
+CSE0004202,Europe,DaimlerChrysler
+CSE0004203,America,Wal-Mart Stores
+CSE0004204,America,Goldman Sachs Group
+CSE0004205,Southern China,Tencent
+CSE0004206,Europe,Royal Philips Electronics
+CSE0004207,Asia,Sumitomo Life Insurance
+CSE0004208,America,Enron
+CSE0004209,America,Hewlett-Packard
+CSE0004210,Northern China,China Electronics Technology Group Corporation
+CSE0004211,Europe,BT
+CSE0004212,Northern China,Bank Of China
+CSE0004213,America,Hewlett-Packard
+CSE0004214,Europe,Thyssen Krupp
+CSE0004215,Asia,Samsung
+CSE0004216,Asia,SK
+CSE0004217,America,Verizon Communications
+CSE0004218,Asia,Mitsui
+CSE0004219,Europe,Metro
+CSE0004220,Europe,UBS
+CSE0004221,Asia,Samsung
+CSE0004222,Asia,Mitsui
+CSE0004223,Southern China,Netease
+CSE0004224,America,Freddie Mac
+CSE0004225,America,PDVSA
+CSE0004226,Asia,Sony
+CSE0004227,Europe,Thyssen Krupp
+CSE0004228,America,J.P. Morgan Chase
+CSE0004229,Asia,Nippon Telegraph & Telephone
+CSE0004230,Europe,HypoVereinsbank
+CSE0004231,Northern China,Xiaomi
+CSE0004232,Southern China,Huawei
+CSE0004233,Europe,Credit Suisse
+CSE0004234,Asia,Mitsubishi
+CSE0004235,Asia,Hitachi
+CSE0004236,America,Albertson's
+CSE0004237,Asia,Tokyo Electric Power
+CSE0004238,America,MetLife
+CSE0004239,America,E.I. du Pont de Nemours
+CSE0004240,Northern China,Industrial and Commercial Bank of China
+CSE0004241,America,Safeway
+CSE0004242,Northern China,Industrial and Commercial Bank of China
+CSE0004243,America,Compaq Computer
+CSE0004244,Europe,Koninklijke Ahold
+CSE0004245,America,Nortel Networks
+CSE0004246,America,E.I. du Pont de Nemours
+CSE0004247,America,SBC Communications
+CSE0004248,America,Target
+CSE0004249,Eastern China,Pinduoduo
+CSE0004250,Northern China,Baidu
+CSE0004251,America,E.I. du Pont de Nemours
+CSE0004252,America,Lucent Technologies
+CSE0004253,Europe,Suez
+CSE0004254,America,Target
+CSE0004255,Eastern China,Bilibili
+CSE0004256,Asia,NEC
+CSE0004257,Asia,Nissan Motor
+CSE0004258,America,WorldCom
+CSE0004259,Europe,Allianz
+CSE0004260,Eastern China,MiHoYo
+CSE0004261,America,U.S. Postal Service
+CSE0004262,Europe,Deutsche Bank
+CSE0004263,Eastern China,MiHoYo
+CSE0004264,America,J.P. Morgan Chase
+CSE0004265,Southern China,OPPO
+CSE0004266,Southern China,Tencent
+CSE0004267,Asia,Nippon Telegraph & Telephone
+CSE0004268,Asia,Sony
+CSE0004269,Asia,Mitsui
+CSE0004270,America,Boeing
+CSE0004271,America,Kmart
+CSE0004272,Europe,Peugeot
+CSE0004273,Northern China,China Construction Bank
+CSE0004274,America,Safeway
+CSE0004275,America,Safeway
+CSE0004276,Northern China,Sinopec
+CSE0004277,America,Texaco
+CSE0004278,Europe,L.M. Ericsson
+CSE0004279,Northern China,Sinopec
+CSE0004280,Europe,Alcatel
+CSE0004281,Southern China,OPPO
+CSE0004282,Asia,Mitsubishi Motors
+CSE0004283,America,Allstate
+CSE0004284,Eastern China,Bilibili
+CSE0004285,Southern China,OPPO
+CSE0004286,Northern China,China Construction Bank
+CSE0004287,Asia,Mitsubishi Motors
+CSE0004288,America,Merrill Lynch
+CSE0004289,Northern China,Xiaomi
+CSE0004290,Europe,Peugeot
+CSE0004291,Asia,Tokyo Electric Power
+CSE0004292,America,Verizon Communications
+CSE0004293,Northern China,State Power Corporation
+CSE0004294,America,Chevron
+CSE0004295,America,General Motors
+CSE0004296,America,WorldCom
+CSE0004297,America,Exxon Mobil
+CSE0004298,Europe,CGNU
+CSE0004299,America,Freddie Mac
+CSE0004300,Europe,Cr我忪dit Agricole
+CSE0004301,America,Bank of America Corp.
+CSE0004302,America,J.P. Morgan Chase
+CSE0004303,Europe,L.M. Ericsson
+CSE0004304,America,Kroger
+CSE0004305,Southern China,Huawei
+CSE0004306,Europe,BT
+CSE0004307,Europe,Deutsche Bank
+CSE0004308,Europe,Robert Bosch
+CSE0004309,Northern China,Industrial and Commercial Bank of China
+CSE0004310,America,AT&T
+CSE0004311,Europe,DaimlerChrysler
+CSE0004312,America,General Motors
+CSE0004313,America,Exxon Mobil
+CSE0004314,Europe,France T我忪l我忪com
+CSE0004315,Asia,Mizuho Holdings
+CSE0004316,America,Enron
+CSE0004317,Eastern China,Pinduoduo
+CSE0004318,America,Chevron
+CSE0004319,Northern China,China North Industries Group Corporation
+CSE0004320,Northern China,China Petroleum
+CSE0004321,Europe,Thyssen Krupp
+CSE0004322,Southern China,Huawei
+CSE0004323,America,U.S. Postal Service
+CSE0004324,Europe,E. ON
+CSE0004325,America,USX
+CSE0004326,Northern China,China Construction Bank
+CSE0004327,Northern China,State Power Corporation
+CSE0004328,Asia,Samsung
+CSE0004329,Asia,Mitsubishi Electric
+CSE0004330,Europe,Repsol YPF
+CSE0004331,Asia,Itochu
+CSE0004332,Northern China,China North Industries Group Corporation
+CSE0004333,Europe,Deutsche Post
+CSE0004334,Europe,Renault
+CSE0004335,Europe,Royal Bank of Scotland
+CSE0004336,Asia,Tokyo Electric Power
+CSE0004337,Asia,Meiji Life Insurance
+CSE0004338,America,Ford Motor
+CSE0004339,Europe,Assicurazioni Generali
+CSE0004340,America,Intel
+CSE0004341,America,Philip Morris
+CSE0004342,Northern China,Agricultural Bank of China
+CSE0004343,Europe,Tesco
+CSE0004344,Asia,Samsung Electronics
+CSE0004345,America,MetLife
+CSE0004346,Europe,Prudential
+CSE0004347,America,WorldCom
+CSE0004348,Europe,BASF
+CSE0004349,Europe,Nestl我忪
+CSE0004350,America,E.I. du Pont de Nemours
+CSE0004351,America,Johnson & Johnson
+CSE0004352,Europe,Deutsche Bank
+CSE0004353,Europe,UBS
+CSE0004354,Europe,France T我忪l我忪com
+CSE0004355,America,Philip Morris
+CSE0004356,America,Wal-Mart Stores
+CSE0004357,Asia,Nissan Motor
+CSE0004358,America,Merck
+CSE0004359,Asia,Honda Motor
+CSE0004360,Asia,Honda Motor
+CSE0004361,America,Kroger
+CSE0004362,Asia,Matsushita Electric Industrial
+CSE0004363,America,Pfizer
+CSE0004364,America,Berkshire Hathaway
+CSE0004365,America,Dynegy
+CSE0004366,America,Safeway
+CSE0004367,Asia,Samsung
+CSE0004368,Asia,Mitsubishi Electric
+CSE0004369,America,Sears Roebuck
+CSE0004370,America,American International Group
+CSE0004371,Europe,HSBC Holdings
+CSE0004372,Asia,Mizuho Holdings
+CSE0004373,America,Kmart
+CSE0004374,America,Duke Energy
+CSE0004375,Southern China,Tencent
+CSE0004376,America,Johnson & Johnson
+CSE0004377,America,Enron
+CSE0004378,Europe,DaimlerChrysler
+CSE0004379,Europe,Cr我忪dit Agricole
+CSE0004380,Asia,Mitsui
+CSE0004381,America,Morgan Stanley Dean Witter
+CSE0004382,Europe,Repsol YPF
+CSE0004383,America,Verizon Communications
+CSE0004384,America,Johnson & Johnson
+CSE0004385,Europe,Assicurazioni Generali
+CSE0004386,Europe,Tesco
+CSE0004387,Europe,Total Fina Elf
+CSE0004388,Europe,Thyssen Krupp
+CSE0004389,America,United Parcel Service
+CSE0004390,Asia,Samsung Electronics
+CSE0004391,America,Duke Energy
+CSE0004392,Southern China,Huawei
+CSE0004393,America,Boeing
+CSE0004394,America,MetLife
+CSE0004395,Northern China,China North Industries Group Corporation
+CSE0004396,America,Delphi Automotive Systems
+CSE0004397,Asia,Mitsubishi Electric
+CSE0004398,Northern China,China Electronics Technology Group Corporation
+CSE0004399,Northern China,China Electronics Technology Group Corporation
+CSE0004400,Northern China,China North Industries Group Corporation
+CSE0004401,Europe,Zurich Financial Services
+CSE0004402,Asia,Matsushita Electric Industrial
+CSE0004403,Europe,Santander Central Hispano Group
+CSE0004404,Europe,HSBC Holdings
+CSE0004405,America,Cardinal Health
+CSE0004406,Asia,Nissho Iwai
+CSE0004407,Europe,Cr我忪dit Agricole
+CSE0004408,America,U.S. Postal Service
+CSE0004409,America,TIAA-CREF
+CSE0004410,Europe,Royal Philips Electronics
+CSE0004411,Asia,Nippon Life Insurance
+CSE0004412,Europe,Ing Group
+CSE0004413,Europe,Thyssen Krupp
+CSE0004414,America,Procter & Gamble
+CSE0004415,Europe,Royal Bank of Scotland
+CSE0004416,America,Delphi Automotive Systems
+CSE0004417,America,Compaq Computer
+CSE0004418,Europe,HSBC Holdings
+CSE0004419,America,Allstate
+CSE0004420,Europe,Repsol YPF
+CSE0004421,America,Pfizer
+CSE0004422,America,Lucent Technologies
+CSE0004423,Europe,CGNU
+CSE0004424,Asia,SK
+CSE0004425,Europe,Nestl我忪
+CSE0004426,America,Ford Motor
+CSE0004427,Europe,Thyssen Krupp
+CSE0004428,Asia,Hyundai
+CSE0004429,Europe,Deutsche Telekom
+CSE0004430,Europe,BP
+CSE0004431,America,Kroger
+CSE0004432,America,General Motors
+CSE0004433,Europe,Allianz
+CSE0004434,America,Citigroup
+CSE0004435,Asia,Samsung Electronics
+CSE0004436,Asia,SK
+CSE0004437,Northern China,Sina
+CSE0004438,Asia,Hyundai
+CSE0004439,Europe,Ing Group
+CSE0004440,America,Nortel Networks
+CSE0004441,Asia,Toshiba
+CSE0004442,America,Delphi Automotive Systems
+CSE0004443,America,State Farm Insurance Cos.
+CSE0004444,Europe,HSBC Holdings
+CSE0004445,Southern China,Netease
+CSE0004446,America,Texaco
+CSE0004447,America,Morgan Stanley Dean Witter
+CSE0004448,Asia,Nippon Life Insurance
+CSE0004449,America,Exxon Mobil
+CSE0004450,Asia,Samsung
+CSE0004451,Europe,Royal Bank of Scotland
+CSE0004452,America,Texaco
+CSE0004453,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004454,America,Hewlett-Packard
+CSE0004455,America,Pemex
+CSE0004456,Europe,Ing Group
+CSE0004457,Eastern China,MiHoYo
+CSE0004458,America,Freddie Mac
+CSE0004459,America,AT&T
+CSE0004460,Europe,BASF
+CSE0004461,Asia,Sumitomo
+CSE0004462,America,Motorola
+CSE0004463,Eastern China,Alibaba
+CSE0004464,America,Conoco
+CSE0004465,America,U.S. Postal Service
+CSE0004466,Europe,HypoVereinsbank
+CSE0004467,America,Dell Computer
+CSE0004468,Asia,Nippon Telegraph & Telephone
+CSE0004469,America,Cardinal Health
+CSE0004470,Asia,Toshiba
+CSE0004471,Asia,Mitsubishi Electric
+CSE0004472,Europe,Assicurazioni Generali
+CSE0004473,America,Exxon Mobil
+CSE0004474,America,Albertson's
+CSE0004475,America,Intl. Business Machines
+CSE0004476,America,Texaco
+CSE0004477,Asia,Mitsubishi
+CSE0004478,America,PDVSA
+CSE0004479,America,Kmart
+CSE0004480,America,Albertson's
+CSE0004481,Asia,Marubeni
+CSE0004482,America,State Farm Insurance Cos.
+CSE0004483,Southern China,OPPO
+CSE0004484,America,Citigroup
+CSE0004485,America,MetLife
+CSE0004486,Europe,BASF
+CSE0004487,America,Cardinal Health
+CSE0004488,Asia,Sumitomo
+CSE0004489,Northern China,Sinopec
+CSE0004490,Asia,Mitsubishi
+CSE0004491,Europe,BP
+CSE0004492,Asia,Meiji Life Insurance
+CSE0004493,America,American International Group
+CSE0004494,Asia,Nissho Iwai
+CSE0004495,Asia,Tokyo Electric Power
+CSE0004496,Asia,Sony
+CSE0004497,Asia,Sumitomo
+CSE0004498,Northern China,State Power Corporation
+CSE0004499,Asia,Mitsubishi
+CSE0004500,Europe,Vivendi Universal
+CSE0004501,Asia,Honda Motor
+CSE0004502,Europe,Alcatel
+CSE0004503,America,PDVSA
+CSE0004504,Asia,Fujitsu
+CSE0004505,Eastern China,Bilibili
+CSE0004506,Europe,Assicurazioni Generali
+CSE0004507,Europe,Zurich Financial Services
+CSE0004508,Southern China,Netease
+CSE0004509,America,Dell Computer
+CSE0004510,America,Home Depot
+CSE0004511,Asia,Matsushita Electric Industrial
+CSE0004512,America,Goldman Sachs Group
+CSE0004513,Asia,Mitsubishi Electric
+CSE0004514,Europe,HypoVereinsbank
+CSE0004515,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004516,Europe,CGNU
+CSE0004517,Asia,Meiji Life Insurance
+CSE0004518,America,Duke Energy
+CSE0004519,America,Merck
+CSE0004520,Asia,NEC
+CSE0004521,America,Conoco
+CSE0004522,Europe,Alcatel
+CSE0004523,Eastern China,Bilibili
+CSE0004524,Asia,Hyundai
+CSE0004525,America,Fannie Mae
+CSE0004526,Europe,Rwe Group
+CSE0004527,America,Sears Roebuck
+CSE0004528,America,WorldCom
+CSE0004529,Europe,Munich Re Group
+CSE0004530,America,U.S. Postal Service
+CSE0004531,America,Pemex
+CSE0004532,Europe,Total Fina Elf
+CSE0004533,Europe,Credit Suisse
+CSE0004534,Europe,Nestl我忪
+CSE0004535,Eastern China,Bilibili
+CSE0004536,Asia,Samsung
+CSE0004537,Europe,Fortis
+CSE0004538,Europe,Renault
+CSE0004539,Southwestern China,Chengdu AIG
+CSE0004540,Asia,Dai-ichi Mutual Life Insurance
+CSE0004541,America,Exxon Mobil
+CSE0004542,Asia,Nippon Life Insurance
+CSE0004543,America,Ingram Micro
+CSE0004544,America,United Parcel Service
+CSE0004545,America,Chevron
+CSE0004546,America,Albertson's
+CSE0004547,Europe,Fiat
+CSE0004548,Europe,Fiat
+CSE0004549,Asia,Mitsubishi
+CSE0004550,Northern China,Meituan
+CSE0004551,America,Dynegy
+CSE0004552,America,Berkshire Hathaway
+CSE0004553,Europe,Renault
+CSE0004554,Europe,Carrefour
+CSE0004555,Europe,ABN AMRO Holding
+CSE0004556,America,Procter & Gamble
+CSE0004557,Europe,BASF
+CSE0004558,Southern China,Netease
+CSE0004559,Asia,SK
+CSE0004560,Asia,Matsushita Electric Industrial
+CSE0004561,Europe,Tesco
+CSE0004562,Europe,BNP Paribas
+CSE0004563,Europe,Robert Bosch
+CSE0004564,Asia,Matsushita Electric Industrial
+CSE0004565,Asia,Tokyo Electric Power
+CSE0004566,Asia,Hitachi
+CSE0004567,Asia,NEC
+CSE0004568,Asia,Tokyo Electric Power
+CSE0004569,Asia,Nippon Life Insurance
+CSE0004570,America,Fannie Mae
+CSE0004571,Northern China,Bank Of China
+CSE0004572,Asia,Mitsubishi Electric
+CSE0004573,America,Johnson & Johnson
+CSE0004574,America,Compaq Computer
+CSE0004575,Europe,BNP Paribas
+CSE0004576,Europe,Credit Suisse
+CSE0004577,Europe,Deutsche Post
+CSE0004578,America,Target
+CSE0004579,Europe,Prudential
+CSE0004580,America,Boeing
+CSE0004581,America,Target
+CSE0004582,Europe,Ing Group
+CSE0004583,Asia,Sumitomo
+CSE0004584,America,E.I. du Pont de Nemours
+CSE0004585,Northern China,Industrial and Commercial Bank of China
+CSE0004586,Europe,Fiat
+CSE0004587,Northern China,China Petroleum
+CSE0004588,America,Duke Energy
+CSE0004589,America,Enron
+CSE0004590,America,USX
+CSE0004591,America,Intl. Business Machines
+CSE0004592,Europe,France T我忪l我忪com
+CSE0004593,America,Kroger
+CSE0004594,America,Procter & Gamble
+CSE0004595,Europe,Robert Bosch
+CSE0004596,Asia,Toyota Motor
+CSE0004597,Europe,BMW
+CSE0004598,America,Kmart
+CSE0004599,Europe,Rwe Group
+CSE0004600,Northern China,Agricultural Bank of China
+CSE0004601,Europe,Robert Bosch
+CSE0004602,America,Boeing
+CSE0004603,Europe,Electricite De France
+CSE0004604,Asia,Hitachi
+CSE0004605,America,Motorola
+CSE0004606,America,Target
+CSE0004607,Eastern China,Pinduoduo
+CSE0004608,Asia,Nissan Motor
+CSE0004609,Europe,HypoVereinsbank
+CSE0004610,Asia,Matsushita Electric Industrial
+CSE0004611,America,Delphi Automotive Systems
+CSE0004612,America,Fannie Mae
+CSE0004613,Northern China,Agricultural Bank of China
+CSE0004614,America,J.C. Penney
+CSE0004615,America,Nortel Networks
+CSE0004616,America,Verizon Communications
+CSE0004617,Eastern China,MiHoYo
+CSE0004618,Europe,Munich Re Group
+CSE0004619,Eastern China,MiHoYo
+CSE0004620,Europe,Renault
+CSE0004621,Europe,Metro
+CSE0004622,Europe,HSBC Holdings
+CSE0004623,America,Procter & Gamble
+CSE0004624,Europe,Royal Philips Electronics
+CSE0004625,America,Nortel Networks
+CSE0004626,America,General Motors
+CSE0004627,America,TIAA-CREF
+CSE0004628,Europe,Cr我忪dit Agricole
+CSE0004629,Southern China,Tencent
+CSE0004630,America,Merrill Lynch
+CSE0004631,America,Target
+CSE0004632,Europe,BT
+CSE0004633,Eastern China,MiHoYo
+CSE0004634,Europe,Zurich Financial Services
+CSE0004635,Asia,Mitsubishi Motors
+CSE0004636,America,Home Depot
+CSE0004637,America,Philip Morris
+CSE0004638,Europe,AXA
+CSE0004639,Europe,CGNU
+CSE0004640,Southern China,Huawei
+CSE0004641,Europe,BMW
+CSE0004642,Europe,Thyssen Krupp
+CSE0004643,Europe,Vivendi Universal
+CSE0004644,America,Freddie Mac
+CSE0004645,America,Sears Roebuck
+CSE0004646,Northern China,Bank Of China
+CSE0004647,America,Sears Roebuck
+CSE0004648,Asia,Tokyo Electric Power
+CSE0004649,Europe,Electricite De France
+CSE0004650,America,Conoco
+CSE0004651,America,Philip Morris
+CSE0004652,America,SBC Communications
+CSE0004653,Europe,BNP Paribas
+CSE0004654,Northern China,Xiaomi
+CSE0004655,America,General Electric
+CSE0004656,Southwestern China,Chengdu AIG
+CSE0004657,Europe,BNP Paribas
+CSE0004658,Asia,Toshiba
+CSE0004659,Southern China,China Merchants Bank
+CSE0004660,Asia,Sumitomo
+CSE0004661,Europe,BP
+CSE0004662,Europe,AXA
+CSE0004663,America,Albertson's
+CSE0004664,Europe,Nestl我忪
+CSE0004665,Europe,Credit Suisse
+CSE0004666,America,Compaq Computer
+CSE0004667,America,Safeway
+CSE0004668,America,Johnson & Johnson
+CSE0004669,Asia,Dai-ichi Mutual Life Insurance
+CSE0004670,Northern China,Xiaomi
+CSE0004671,Europe,France T我忪l我忪com
+CSE0004672,America,Exxon Mobil
+CSE0004673,Asia,Toshiba
+CSE0004674,America,Lucent Technologies
+CSE0004675,Northern China,Xiaomi
+CSE0004676,America,Morgan Stanley Dean Witter
+CSE0004677,America,Bank of America Corp.
+CSE0004678,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004679,America,Wal-Mart Stores
+CSE0004680,America,Target
+CSE0004681,America,Intl. Business Machines
+CSE0004682,Southern China,OPPO
+CSE0004683,Europe,Alcatel
+CSE0004684,America,J.C. Penney
+CSE0004685,America,Boeing
+CSE0004686,America,Citigroup
+CSE0004687,Northern China,Meituan
+CSE0004688,Europe,Nestl我忪
+CSE0004689,America,AT&T
+CSE0004690,America,WorldCom
+CSE0004691,America,Sears Roebuck
+CSE0004692,Asia,Mitsubishi
+CSE0004693,America,General Motors
+CSE0004694,America,Boeing
+CSE0004695,Asia,Hyundai
+CSE0004696,Europe,Alcatel
+CSE0004697,America,Ingram Micro
+CSE0004698,America,Morgan Stanley Dean Witter
+CSE0004699,Asia,Hyundai
+CSE0004700,America,Philip Morris
+CSE0004701,Northern China,China Electronics Technology Group Corporation
+CSE0004702,America,General Electric
+CSE0004703,Europe,Metro
+CSE0004704,America,Reliant Energy
+CSE0004705,America,Cardinal Health
+CSE0004706,America,Texaco
+CSE0004707,America,J.P. Morgan Chase
+CSE0004708,America,Cardinal Health
+CSE0004709,Northern China,Industrial and Commercial Bank of China
+CSE0004710,Europe,Munich Re Group
+CSE0004711,Northern China,Agricultural Bank of China
+CSE0004712,America,Target
+CSE0004713,America,Wal-Mart Stores
+CSE0004714,Asia,Fujitsu
+CSE0004715,Europe,Vivendi Universal
+CSE0004716,Northern China,Bank Of China
+CSE0004717,America,Johnson & Johnson
+CSE0004718,Europe,BNP Paribas
+CSE0004719,Europe,Deutsche Bank
+CSE0004720,Northern China,Baidu
+CSE0004721,Asia,SK
+CSE0004722,Europe,Munich Re Group
+CSE0004723,Asia,Nippon Telegraph & Telephone
+CSE0004724,Northern China,China Petroleum
+CSE0004725,Europe,Tesco
+CSE0004726,America,Albertson's
+CSE0004727,Asia,Toshiba
+CSE0004728,America,Berkshire Hathaway
+CSE0004729,Northern China,State Power Corporation
+CSE0004730,Asia,Mitsubishi Electric
+CSE0004731,Europe,Santander Central Hispano Group
+CSE0004732,Northern China,Sinopec
+CSE0004733,America,Wal-Mart Stores
+CSE0004734,Europe,Ing Group
+CSE0004735,America,Dynegy
+CSE0004736,Northern China,China Construction Bank
+CSE0004737,Asia,Nissho Iwai
+CSE0004738,Asia,Hitachi
+CSE0004739,Europe,Repsol YPF
+CSE0004740,America,American International Group
+CSE0004741,Northern China,Bank Of China
+CSE0004742,America,Reliant Energy
+CSE0004743,Europe,Vivendi Universal
+CSE0004744,Northern China,Sinopec
+CSE0004745,America,TIAA-CREF
+CSE0004746,America,Nortel Networks
+CSE0004747,America,Boeing
+CSE0004748,America,United Parcel Service
+CSE0004749,America,WorldCom
+CSE0004750,Europe,Fortis
+CSE0004751,America,J.C. Penney
+CSE0004752,Southern China,OPPO
+CSE0004753,Southern China,China Merchants Bank
+CSE0004754,Europe,Alcatel
+CSE0004755,America,Morgan Stanley Dean Witter
+CSE0004756,America,United Parcel Service
+CSE0004757,Europe,Royal Philips Electronics
+CSE0004758,Europe,AXA
+CSE0004759,Europe,BT
+CSE0004760,Europe,BT
+CSE0004761,America,E.I. du Pont de Nemours
+CSE0004762,Europe,Rwe Group
+CSE0004763,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004764,America,Kroger
+CSE0004765,America,Ingram Micro
+CSE0004766,Asia,Mizuho Holdings
+CSE0004767,Asia,Mitsubishi Electric
+CSE0004768,Eastern China,MiHoYo
+CSE0004769,America,Citigroup
+CSE0004770,Europe,Alcatel
+CSE0004771,Europe,Assicurazioni Generali
+CSE0004772,Southern China,OPPO
+CSE0004773,America,U.S. Postal Service
+CSE0004774,Europe,Siemens
+CSE0004775,America,Intel
+CSE0004776,Europe,Volkswagen
+CSE0004777,Northern China,Xiaomi
+CSE0004778,Asia,Nippon Telegraph & Telephone
+CSE0004779,Southern China,China Merchants Bank
+CSE0004780,America,Ingram Micro
+CSE0004781,Europe,Alcatel
+CSE0004782,Europe,Royal Philips Electronics
+CSE0004783,America,General Motors
+CSE0004784,Asia,Matsushita Electric Industrial
+CSE0004785,Europe,UBS
+CSE0004786,Europe,CGNU
+CSE0004787,America,J.P. Morgan Chase
+CSE0004788,Eastern China,Alibaba
+CSE0004789,Europe,Electricite De France
+CSE0004790,Europe,Repsol YPF
+CSE0004791,America,General Motors
+CSE0004792,Asia,Mitsubishi
+CSE0004793,Southern China,Tencent
+CSE0004794,America,McKesson HBOC
+CSE0004795,America,Exxon Mobil
+CSE0004796,Southern China,China Merchants Bank
+CSE0004797,America,Johnson & Johnson
+CSE0004798,Southern China,Huawei
+CSE0004799,Europe,BT
+CSE0004800,Europe,Nestl我忪
+CSE0004801,Europe,E. ON
+CSE0004802,Europe,Peugeot
+CSE0004803,America,Albertson's
+CSE0004804,America,Dell Computer
+CSE0004805,Northern China,Sinopec
+CSE0004806,Eastern China,Alibaba
+CSE0004807,Asia,Samsung Electronics
+CSE0004808,Asia,Itochu
+CSE0004809,Europe,Royal Dutch/Shell Group
+CSE0004810,Northern China,China Petroleum
+CSE0004811,America,Procter & Gamble
+CSE0004812,Europe,Siemens
+CSE0004813,America,Exxon Mobil
+CSE0004814,Asia,Nissho Iwai
+CSE0004815,Asia,Fujitsu
+CSE0004816,America,American International Group
+CSE0004817,Northern China,China North Industries Group Corporation
+CSE0004818,America,Wal-Mart Stores
+CSE0004819,Europe,Fiat
+CSE0004820,Asia,Toshiba
+CSE0004821,America,Fannie Mae
+CSE0004822,Europe,Royal Dutch/Shell Group
+CSE0004823,Europe,HypoVereinsbank
+CSE0004824,Europe,Royal Dutch/Shell Group
+CSE0004825,Asia,Dai-ichi Mutual Life Insurance
+CSE0004826,Asia,Mitsubishi
+CSE0004827,Europe,AXA
+CSE0004828,Europe,Volkswagen
+CSE0004829,Northern China,Bank Of China
+CSE0004830,America,Safeway
+CSE0004831,Europe,Koninklijke Ahold
+CSE0004832,Europe,Deutsche Post
+CSE0004833,America,Johnson & Johnson
+CSE0004834,America,Duke Energy
+CSE0004835,Northern China,Sina
+CSE0004836,America,Johnson & Johnson
+CSE0004837,Asia,Dai-ichi Mutual Life Insurance
+CSE0004838,Europe,Carrefour
+CSE0004839,America,AT&T
+CSE0004840,America,Intel
+CSE0004841,Europe,Deutsche Telekom
+CSE0004842,Europe,BASF
+CSE0004843,America,TIAA-CREF
+CSE0004844,America,State Farm Insurance Cos.
+CSE0004845,America,Merrill Lynch
+CSE0004846,America,TIAA-CREF
+CSE0004847,America,Wal-Mart Stores
+CSE0004848,Europe,Deutsche Post
+CSE0004849,Europe,Cr我忪dit Agricole
+CSE0004850,Asia,Nippon Telegraph & Telephone
+CSE0004851,Europe,Cr我忪dit Agricole
+CSE0004852,Europe,Cr我忪dit Agricole
+CSE0004853,Asia,Nissho Iwai
+CSE0004854,Asia,Fujitsu
+CSE0004855,Europe,Metro
+CSE0004856,Europe,Santander Central Hispano Group
+CSE0004857,America,USX
+CSE0004858,America,Kroger
+CSE0004859,Northern China,China Petroleum
+CSE0004860,Northern China,China Electronics Technology Group Corporation
+CSE0004861,America,SBC Communications
+CSE0004862,Europe,Alcatel
+CSE0004863,Asia,Nippon Telegraph & Telephone
+CSE0004864,Asia,Dai-ichi Mutual Life Insurance
+CSE0004865,America,USX
+CSE0004866,Asia,Samsung
+CSE0004867,Northern China,Xiaomi
+CSE0004868,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004869,Asia,Marubeni
+CSE0004870,Europe,Peugeot
+CSE0004871,Europe,Fortis
+CSE0004872,America,Philip Morris
+CSE0004873,Northern China,China Petroleum
+CSE0004874,Europe,DaimlerChrysler
+CSE0004875,America,Duke Energy
+CSE0004876,Europe,Munich Re Group
+CSE0004877,America,Kroger
+CSE0004878,Asia,SK
+CSE0004879,Asia,Matsushita Electric Industrial
+CSE0004880,Northern China,Xiaomi
+CSE0004881,America,Bank of America Corp.
+CSE0004882,Asia,Itochu
+CSE0004883,America,MetLife
+CSE0004884,Europe,Koninklijke Ahold
+CSE0004885,America,Dynegy
+CSE0004886,America,Conoco
+CSE0004887,America,Merck
+CSE0004888,America,J.C. Penney
+CSE0004889,Asia,Sumitomo
+CSE0004890,Europe,Carrefour
+CSE0004891,America,Pemex
+CSE0004892,America,Compaq Computer
+CSE0004893,Europe,HSBC Holdings
+CSE0004894,Northern China,China Construction Bank
+CSE0004895,Europe,Unilever
+CSE0004896,Europe,Carrefour
+CSE0004897,America,Albertson's
+CSE0004898,Asia,Meiji Life Insurance
+CSE0004899,America,E.I. du Pont de Nemours
+CSE0004900,America,Conoco
+CSE0004901,Asia,Matsushita Electric Industrial
+CSE0004902,Northern China,Bank Of China
+CSE0004903,Northern China,Agricultural Bank of China
+CSE0004904,America,USX
+CSE0004905,America,AT&T
+CSE0004906,America,General Motors
+CSE0004907,Europe,Deutsche Bank
+CSE0004908,Europe,Thyssen Krupp
+CSE0004909,Northern China,Meituan
+CSE0004910,America,Freddie Mac
+CSE0004911,Northern China,China Construction Bank
+CSE0004912,America,Compaq Computer
+CSE0004913,America,Duke Energy
+CSE0004914,America,Conoco
+CSE0004915,Asia,Mitsubishi
+CSE0004916,Asia,Nissan Motor
+CSE0004917,America,Boeing
+CSE0004918,Europe,Royal Dutch/Shell Group
+CSE0004919,Northern China,China North Industries Group Corporation
+CSE0004920,America,Sears Roebuck
+CSE0004921,Northern China,China Construction Bank
+CSE0004922,Europe,Suez
+CSE0004923,Southwestern China,Chengdu AIG
+CSE0004924,Southern China,Tencent
+CSE0004925,Europe,Royal Bank of Scotland
+CSE0004926,Europe,Royal Philips Electronics
+CSE0004927,America,J.C. Penney
+CSE0004928,Europe,Fiat
+CSE0004929,Europe,AXA
+CSE0004930,Asia,Nippon Telegraph & Telephone
+CSE0004931,America,State Farm Insurance Cos.
+CSE0004932,Europe,Peugeot
+CSE0004933,America,Pemex
+CSE0004934,Europe,Vivendi Universal
+CSE0004935,Northern China,Agricultural Bank of China
+CSE0004936,America,Johnson & Johnson
+CSE0004937,Asia,Mitsubishi Motors
+CSE0004938,America,Texaco
+CSE0004939,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004940,Europe,Volkswagen
+CSE0004941,America,Goldman Sachs Group
+CSE0004942,America,Conoco
+CSE0004943,Europe,Fortis
+CSE0004944,America,Motorola
+CSE0004945,America,J.P. Morgan Chase
+CSE0004946,America,Nortel Networks
+CSE0004947,Europe,AXA
+CSE0004948,Europe,Royal Philips Electronics
+CSE0004949,Europe,Assicurazioni Generali
+CSE0004950,Northern China,Bank Of China
+CSE0004951,Asia,Toyota Motor
+CSE0004952,Europe,Peugeot
+CSE0004953,America,PDVSA
+CSE0004954,Northern China,Sinopec
+CSE0004955,Europe,CGNU
+CSE0004956,America,Boeing
+CSE0004957,Eastern China,Pinduoduo
+CSE0004958,Southern China,Huawei
+CSE0004959,Europe,Koninklijke Ahold
+CSE0004960,Europe,Santander Central Hispano Group
+CSE0004961,America,McKesson HBOC
+CSE0004962,Europe,Volkswagen
+CSE0004963,Southern China,Ping An Insurance (Group) Company Of China
+CSE0004964,America,Ford Motor
+CSE0004965,America,Fannie Mae
+CSE0004966,Eastern China,Alibaba
+CSE0004967,America,Procter & Gamble
+CSE0004968,Europe,Deutsche Bank
+CSE0004969,Europe,Prudential
+CSE0004970,America,Cardinal Health
+CSE0004971,Europe,UBS
+CSE0004972,America,TIAA-CREF
+CSE0004973,America,AT&T
+CSE0004974,America,Merck
+CSE0004975,Europe,Assicurazioni Generali
+CSE0004976,America,WorldCom
+CSE0004977,Europe,UBS
+CSE0004978,America,Intel
+CSE0004979,America,Hewlett-Packard
+CSE0004980,Europe,Metro
+CSE0004981,Asia,Toshiba
+CSE0004982,Europe,Fortis
+CSE0004983,Europe,Fortis
+CSE0004984,America,Compaq Computer
+CSE0004985,Northern China,State Power Corporation
+CSE0004986,Asia,Hitachi
+CSE0004987,Asia,SK
+CSE0004988,Asia,Mitsubishi
+CSE0004989,America,Boeing
+CSE0004990,Asia,Toyota Motor
+CSE0004991,Europe,Credit Suisse
+CSE0004992,America,Kmart
+CSE0004993,Southern China,OPPO
+CSE0004994,America,Nortel Networks
+CSE0004995,Asia,Matsushita Electric Industrial
+CSE0004996,America,USX
+CSE0004997,Europe,Thyssen Krupp
+CSE0004998,Europe,Peugeot
+CSE0004999,Northern China,State Power Corporation
