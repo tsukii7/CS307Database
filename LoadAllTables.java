@@ -5,10 +5,7 @@ import com.csvreader.CsvReader;
 import java.io.IOException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
+import java.sql.*;
 import java.util.Properties;
 
 public class LoadAllTables {
@@ -146,9 +143,14 @@ public class LoadAllTables {
     private static void loadclie(String[] parts)
             throws SQLException {
         if (con != null) {
-            for (int i = 0; i < 4; i++) {
+            for (int i = 0; i < 2; i++) {
                 stmts[5].setString(i + 1, parts[i]);
             }
+            if (parts[2].equals("NULL"))
+                stmts[5].setNull(3, Types.VARCHAR);
+            else
+                stmts[5].setString(3, parts[2]);
+            stmts[5].setString(4, parts[3]);
             stmts[5].addBatch();
         }
     }
@@ -197,7 +199,7 @@ public class LoadAllTables {
         filenames = new String[9];
         String[] tables = new String[]{"header", "sales", "product_model", "product_class", "supply", "client", "order", "model_class", "contract"};
         for (int i = 0; i < 9; i++) {
-            filenames[i] = "C:\\Users\\21414\\Documents\\Curriculum\\database\\project01\\sustc_tables\\" + tables[i] + ".csv";
+            filenames[i] = "C:\\Users\\21414\\Documents\\Curriculum\\database\\project01\\CS307Database\\sustc_tables\\" + tables[i] + ".csv";
         }
         Properties defprop = new Properties();
         defprop.put("host", "localhost");
