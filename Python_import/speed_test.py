@@ -104,7 +104,7 @@ def count_batch_iterator_abnormal(num, cur, page_size=100):
                              page_size=page_size)
         t2 = time.perf_counter()
         total += cnt / (t2 - t1)
-        print(str(round(cnt / (t2 - t1))))
+        # print(str(round(cnt / (t2 - t1))))
     print(str(cnt) + " records successfully loaded")
     print("execute_batch() with iterator and page_size = " + str(page_size) + " : " + str(round(total / num)) + " records/s")
     return
@@ -127,7 +127,7 @@ def count_batch_iterator_normal(num, cur, page_size=100):
                              page_size=page_size)
         t2 = time.perf_counter()
         total += cnt / (t2 - t1)
-        print(str(round(cnt / (t2 - t1))))
+        # print(str(round(cnt / (t2 - t1))))
     print(str(cnt) + " records successfully loaded")
     print("execute_batch() with iterator and page_size = " + str(page_size) + " : " + str(round(total / num)) + " records/s")
     return
