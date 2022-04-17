@@ -2,9 +2,8 @@ import time
 import csv
 
 
-def insert(userList):
+def insert(userList, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     t1 = time.perf_counter()
     for i in range(0, total_cnt):
@@ -22,9 +21,8 @@ def insert(userList):
     return
 
 
-def select(userList):
+def select(userList, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     list = []
     t1 = time.perf_counter()
@@ -42,13 +40,13 @@ def select(userList):
     print("time:" + str(format(total_time, '.2f')) + "s   cnt:" + str(cnt) + "\n")
     return
 
-def update(userList):
+
+def update(userList, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     t1 = time.perf_counter()
     for i in range(0, total_cnt):
-        contract_number = "CSE" + str(i+5000).zfill(7)
+        contract_number = "CSE" + str(i + 5000).zfill(7)
         for record in userList:
             if record[0] == contract_number:
                 record[8] = 'PosterFRANXX'
@@ -60,13 +58,13 @@ def update(userList):
     print("time:" + str(format(total_time, '.2f')) + "s   cnt:" + str(cnt) + "\n")
     return
 
-def delete(userList):
+
+def delete(userList, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     t1 = time.perf_counter()
     for i in range(0, total_cnt):
-        contract_number = "CSE" + str(i+5000).zfill(7)
+        contract_number = "CSE" + str(i + 5000).zfill(7)
         for index, record in enumerate(userList):
             if record[0] == contract_number:
                 del userList[index]
@@ -81,13 +79,17 @@ def delete(userList):
 
 if __name__ == '__main__':
     userList = []
-    f = open("C:\\Users\\21414\\Documents\\Curriculum\\database\\project01\\temp.csv")
+    f = open("C:\\Users\\21414\\Documents\\Curriculum\\database\\project01\\contract_info.csv")
     content = f.readlines()
+    cnt = 10000000
     for line in content:
         line = line.replace('\n', '').split(',')
         userList.append(line)
-    print("Test for select_list:")
-    select(userList)
-    out = open("C:\\Users\\21414\\Documents\\Curriculum\\database\\project01\\tempnew.csv", 'w', newline='')
-    write = csv.writer(out)
-    write.writerows(userList)
+    # print("Test for select_list:")
+    insert(userList, cnt)
+    # update(userList, cnt)
+    # select(userList, cnt)
+    # delete(userList, cnt)
+    # out = open("C:\\Users\\21414\\Documents\\Curriculum\\database\\project01\\tempnew.csv", 'w', newline='')
+    # write = csv.writer(out)
+    # write.writerows(userList)

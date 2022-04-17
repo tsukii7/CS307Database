@@ -4,9 +4,9 @@ import time
 
 
 # select
-def select(session):
+def select(session,total_cnt = 1000):
     cnt = 0
-    total_cnt = 1000
+
     total_time = 0
     for i in range(0, total_cnt):
         number = "CSE" + str(i).zfill(7)
@@ -21,13 +21,13 @@ def select(session):
     print("time:" + str(format(total_time, '.2f')) + "s   cnt:" + str(cnt) + "\n")
     return
 # insert
-def insert(session):
+def insert(session,total_cnt = 1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     for i in range(0, total_cnt):
         contract_number = "CSE" + str(i + 5000).zfill(7)
         cnt+=1
+        t1 = time.perf_counter()
         contract_info_orm = Contract_info_orm(contract_number=contract_number, client_enterprise='Studio Trigger',
                                               supply_center='Asia', country='Japan', city='NULL',
                                               industry='Internet',
@@ -40,7 +40,6 @@ def insert(session):
                                               salesman='Theo White',
                                               salesman_number=12140327,
                                               gender='Male', age=25, mobile_phone='13986643179')
-        t1 = time.perf_counter()
         session.add(contract_info_orm)
         t2 = time.perf_counter()
         total_time += (t2 - t1)
@@ -51,15 +50,14 @@ def insert(session):
     return
 
 # update
-def update(session):
+def update(session,total_cnt = 1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     for i in range(0, total_cnt):
         number = "CSE" + str(i+5000).zfill(7)
         cnt+=1
         t1 = time.perf_counter()
-        for data in session.query(Contract_info_orm).filter_by(contract_number=number).first():
+        for data in session.query(Contract_info_orm).filter_by(contract_number=number):
             data.product_model = 'PosterKIK'
         t2 = time.perf_counter()
         total_time += (t2 - t1)
@@ -69,9 +67,8 @@ def update(session):
     print("time:" + str(format(total_time, '.2f')) + "s   cnt:" + str(cnt) + "\n")
     return
 # delete
-def delete(session):
+def delete(session,total_cnt = 1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     for i in range(0, total_cnt):
         number = "CSE" + str(i+5000).zfill(7)
@@ -89,5 +86,9 @@ def delete(session):
 if __name__ == '__main__':
     s = sessionmaker(bind=db)
     session = s()
-    print("Operate with SQLAlchemy test for delete():")
-    delete(session)
+    # print("Operate with SQLAlchemy test for delete():")
+    cnt = 100000
+    insert(session,cnt)
+    # update(session,cnt)
+    # select(session,cnt)
+    # delete(session,cnt)

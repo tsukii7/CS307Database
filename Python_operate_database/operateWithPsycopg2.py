@@ -4,9 +4,8 @@ from psycopg2 import extras
 
 
 # insert
-def insert_execute(cur):
+def insert_execute(cur, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
 
     for i in range(0, total_cnt):
@@ -25,9 +24,8 @@ def insert_execute(cur):
     return
 
 
-def insert_batch_iterator(cur):
+def insert_batch_iterator(cur, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     page_size = 2000
 
@@ -56,9 +54,8 @@ def insert_batch_iterator(cur):
 
 
 # select
-def select_execute(cur):
+def select_execute(cur, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     t1 = time.perf_counter()
 
@@ -78,9 +75,8 @@ def select_execute(cur):
     return
 
 
-def select_batch_iterator(cur):
+def select_batch_iterator(cur, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     page_size = 2000
     t1 = time.perf_counter()
@@ -111,9 +107,8 @@ def select_batch_iterator(cur):
 
 
 # update
-def update_execute(cur):
+def update_execute(cur, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     t1 = time.perf_counter()
 
@@ -130,16 +125,15 @@ def update_execute(cur):
     return
 
 
-def update_batch_iterator(cur):
+def update_batch_iterator(cur, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     page_size = 2000
     t1 = time.perf_counter()
 
     list = []
     for i in range(0, total_cnt):
-        contract_number = "CSE" + str(i + 6000).zfill(7)
+        contract_number = "CSE" + str(i + 5000).zfill(7)
         list.append([contract_number])
 
     iter_list = iter(list)
@@ -158,9 +152,8 @@ def update_batch_iterator(cur):
 
 
 # delete
-def delete_execute(cur):
+def delete_execute(cur, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     t1 = time.perf_counter()
 
@@ -176,16 +169,15 @@ def delete_execute(cur):
     return
 
 
-def delete_batch_iterator(cur):
+def delete_batch_iterator(cur, total_cnt=1000):
     cnt = 0
-    total_cnt = 1000
     total_time = 0
     page_size = 2000
     t1 = time.perf_counter()
 
     list = []
     for i in range(0, total_cnt):
-        contract_number = "CSE" + str(i + 6000).zfill(7)
+        contract_number = "CSE" + str(i + 5000).zfill(7)
         list.append([contract_number])
 
     iter_list = iter(list)
@@ -206,11 +198,20 @@ def delete_batch_iterator(cur):
 if __name__ == '__main__':
     conn = psycopg2.connect(database="cs307_2", user="checker", password="123456", host="localhost", port="5432")
     print("Opened database successfully")
-
+    print("Test begins:")
     cur = conn.cursor()
-    print("Test for delete_execute:")
-    delete_execute(cur)
-    print("Test for delete_batch_iterator:")
-    delete_batch_iterator(cur)
+    cnt = [1000,10000,100000,1000000]
+    for i in cnt:
+        insert_batch_iterator(cur, i)
+
+    # delete_batch_iterator(cur, i)
+    # print("Test for delete_batch_iterator:")
+    # insert_execute(cur, cnt)
+    # update_execute(cur, cnt)
+    # select_execute(cur, cnt)
+    # delete_execute(cur, cnt)
+    # update_batch_iterator(cur, cnt)
+    # select_batch_iterator(cur, cnt)
+    # delete_batch_iterator(cur)
     conn.commit()
     conn.close()

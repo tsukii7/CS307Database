@@ -160,7 +160,7 @@ public class LoadWithCSVpackage {
                 stmt.executeBatch();
                 stmt.clearBatch();
             }
-            con.commit()
+            con.commit();
             stmt.close();
             closeDB();
             end = System.currentTimeMillis();
